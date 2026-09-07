@@ -339,6 +339,55 @@ header nav li.has-sub::after{content:"";position:absolute;left:0;right:0;top:100
 .gstrip:focus-visible{outline:2px solid var(--blue);outline-offset:3px}
 @media(max-width:700px){.gstrip img{width:82vw;height:250px}.gallery{padding:40px 0 34px}}
 
+/* ============================================================================
+   HOMEPAGE CARD SYSTEM — standing template pattern, added 2026-09-07.
+   Replaces long unbroken paragraph blocks with scannable cards: a "why choose"
+   grid, a photo+text service grid, and a cleaner species list. Any future
+   build that follows the new homepage template (Page Templates.md) uses these
+   same classes rather than raw <article class="prose"> walls of text.
+   ============================================================================ */
+.feature-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:26px;margin-top:8px}
+.feature{background:#fff;border:1px solid var(--line);border-top:4px solid var(--sand);padding:26px 24px}
+.feature h3{font-size:1.1rem;margin-bottom:.5em}
+.feature p{margin-bottom:0;font-size:.96rem}
+
+.service-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:28px;margin-top:10px}
+.service-card{background:#fff;border:1px solid var(--line)}
+.service-card .ph{min-height:200px}
+.service-card h3{padding:18px 20px 0;margin-bottom:.4em;font-size:1.18rem}
+.service-card h3 a{color:var(--ink);text-decoration:none;border-bottom:2px solid var(--sand)}
+.service-card h3 a:hover{color:var(--blue)}
+.service-card p{padding:0 20px 20px;margin:0;font-size:.95rem}
+
+.pricing-table{margin-top:18px}
+
+.species-list{list-style:none;margin:22px 0 0;padding:0;display:grid;grid-template-columns:1fr 1fr;gap:16px 28px}
+.species-list li{background:#fff;border-left:4px solid var(--sand);padding:14px 18px;font-size:.95rem;margin:0}
+.species-list li strong{color:var(--ink);display:block;margin-bottom:.2em;font-size:1.02rem}
+
+@media(max-width:1000px){
+  .feature-grid{grid-template-columns:1fr 1fr;gap:18px}
+  .service-grid{grid-template-columns:1fr 1fr;gap:18px}
+  .species-list{grid-template-columns:1fr}
+}
+@media(max-width:640px){
+  .feature-grid{grid-template-columns:1fr}
+  .service-grid{grid-template-columns:1fr}
+}
+
+/* secondary CTA — outline instead of filled sand, for a two-button row */
+.cta.ghost{background:transparent;color:var(--sand-dk);border:2px solid var(--sand-dk)}
+.cta.ghost:hover{background:var(--sand);color:var(--ink)}
+.hero .cta-row,.hcard .cta-row{display:flex;flex-wrap:wrap;gap:12px;margin-top:6px}
+
+/* three-stat trust band, directly under the hero */
+.stat-band{background:var(--ink);padding:36px 0}
+.stat-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;text-align:center}
+.stat{padding:0 12px}
+.stat-n{color:var(--sand);font-weight:800;font-size:1.3rem;line-height:1.2;margin-bottom:8px}
+.stat p{color:#C6D2E0;margin:0;font-size:.92rem}
+@media(max-width:1000px){.stat-grid{grid-template-columns:1fr}}
+
 /* The Locations dropdown carries 14 towns plus an "all" link. In a single column
    it runs off the bottom of a laptop screen and clips the last entries, which is
    how Weaverville vanished from the menu. Two columns halves the height. */

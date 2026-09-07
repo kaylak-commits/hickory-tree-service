@@ -191,7 +191,7 @@ export const SERVICE_AREA_EXTRA = [] as const;
    ============================================================================ */
 
 export const IMAGES = {
-  heroCrew:      { src: '/images/homepage-hero-crew.png',        alt: 'Tree service crew on site in Hickory, NC', pos: 'center 55%' },
+  heroCrew:      { src: '/images/homepage-hero-crew.png',        alt: 'Tree service crew on site in Hickory, NC', pos: 'center 20%' },
   removal:       { src: '/images/tree-removal-hero.png',         alt: 'Crane-assisted tree removal of a large tree' },
   trimming:      { src: '/images/tree-trimming-hero.png',        alt: 'Arborist using a pole saw to trim limbs high in a tree canopy' },
   storm:         { src: '/images/storm-damage-hero.png',         alt: 'A fallen tree blocking a residential driveway' },
