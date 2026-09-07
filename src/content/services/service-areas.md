@@ -25,21 +25,21 @@ anywhere in the service area.
 ## Our Tree Service Hickory NC Service Areas With Their Own Page
 
 - [Hickory](/): the core service area and our home base
-- [Conover](/conover): full tree removal, same pricing as Hickory
-- [Newton](/newton): the Catawba County seat, tree trimming and full tree care
-- [Longview](/longview): right against Hickory's edge, emergency and storm response
-- [Maiden](/maiden): southeastern Catawba County, tree service and land clearing on
+- [Conover](/conover-nc): full tree removal, same pricing as Hickory
+- [Newton](/newton-nc): the Catawba County seat, tree trimming and full tree care
+- [Longview](/longview-nc): right against Hickory's edge, emergency and storm response
+- [Maiden](/maiden-nc): southeastern Catawba County, tree service and land clearing on
   larger rural lots
-- [Claremont](/claremont): an incorporated town near the Catawba River, full tree removal
-- [St. Stephens](/st-stephens): a large unincorporated community along Lake Hickory,
+- [Claremont](/claremont-nc): an incorporated town near the Catawba River, full tree removal
+- [St. Stephens](/st-stephens-nc): a large unincorporated community along Lake Hickory,
   tree trimming
-- [Startown](/startown): rural farmland west of Newton, land clearing on larger lots
-- [Brookford](/brookford): a small mill town just south of Hickory, stump grinding
-- [Catawba](/catawba): the town on the Catawba River, emergency tree removal
-- [Sherrills Ford](/sherrills-ford): a Lake Norman community, full tree removal
-- [Terrell](/terrell): a Lake Norman community known as the Top of the Lake, tree
+- [Startown](/startown-nc): rural farmland west of Newton, land clearing on larger lots
+- [Brookford](/brookford-nc): a small mill town just south of Hickory, stump grinding
+- [Catawba](/catawba-nc): the town on the Catawba River, emergency tree removal
+- [Sherrills Ford](/sherrills-ford-nc): a Lake Norman community, full tree removal
+- [Terrell](/terrell-nc): a Lake Norman community known as the Top of the Lake, tree
   trimming
-- [Mountain View](/mountain-view): along the Interstate 40 and US 321 corridor,
+- [Mountain View](/mountain-view-nc): along the Interstate 40 and US 321 corridor,
   hazardous tree removal
 - [Catawba County](/catawba-county): a full directory of every town we cover, countywide
 

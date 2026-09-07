@@ -158,18 +158,18 @@ export const NAV = [
    ============================================================================ */
 
 export const LOCATIONS = [
-  { name: 'Conover',        slug: '/conover/',        county: 'Catawba', term: 'Tree Removal' },
-  { name: 'Newton',         slug: '/newton/',         county: 'Catawba', term: 'Tree Trimming' },
-  { name: 'Longview',       slug: '/longview/',       county: 'Catawba', term: 'Emergency Tree Removal' },
-  { name: 'Maiden',         slug: '/maiden/',         county: 'Catawba', term: 'Tree Service Contractor' },
-  { name: 'Claremont',      slug: '/claremont/',      county: 'Catawba', term: 'Tree Removal' },
-  { name: 'St Stephens',    slug: '/st-stephens/',    county: 'Catawba', term: 'Tree Trimming' },
-  { name: 'Startown',       slug: '/startown/',       county: 'Catawba', term: 'Land Clearing' },
-  { name: 'Brookford',      slug: '/brookford/',      county: 'Catawba', term: 'Stump Grinding' },
-  { name: 'Catawba',        slug: '/catawba/',        county: 'Catawba', term: 'Emergency Tree Removal' },
-  { name: 'Sherrills Ford', slug: '/sherrills-ford/', county: 'Catawba', term: 'Tree Removal' },
-  { name: 'Terrell',        slug: '/terrell/',        county: 'Catawba', term: 'Tree Trimming' },
-  { name: 'Mountain View',  slug: '/mountain-view/',  county: 'Catawba', term: 'Hazardous Tree Removal' },
+  { name: 'Conover',        slug: '/conover-nc/',        county: 'Catawba', term: 'Tree Removal' },
+  { name: 'Newton',         slug: '/newton-nc/',         county: 'Catawba', term: 'Tree Trimming' },
+  { name: 'Longview',       slug: '/longview-nc/',       county: 'Catawba', term: 'Emergency Tree Removal' },
+  { name: 'Maiden',         slug: '/maiden-nc/',         county: 'Catawba', term: 'Tree Service Contractor' },
+  { name: 'Claremont',      slug: '/claremont-nc/',      county: 'Catawba', term: 'Tree Removal' },
+  { name: 'St Stephens',    slug: '/st-stephens-nc/',    county: 'Catawba', term: 'Tree Trimming' },
+  { name: 'Startown',       slug: '/startown-nc/',       county: 'Catawba', term: 'Land Clearing' },
+  { name: 'Brookford',      slug: '/brookford-nc/',      county: 'Catawba', term: 'Stump Grinding' },
+  { name: 'Catawba',        slug: '/catawba-nc/',        county: 'Catawba', term: 'Emergency Tree Removal' },
+  { name: 'Sherrills Ford', slug: '/sherrills-ford-nc/', county: 'Catawba', term: 'Tree Removal' },
+  { name: 'Terrell',        slug: '/terrell-nc/',        county: 'Catawba', term: 'Tree Trimming' },
+  { name: 'Mountain View',  slug: '/mountain-view-nc/',  county: 'Catawba', term: 'Hazardous Tree Removal' },
   { name: 'Catawba County', slug: '/catawba-county/', county: 'Catawba', term: 'Tree Service' },
 ] as const;
 

@@ -39,20 +39,20 @@ full cost breakdown behind each of those numbers.
 ## Every Catawba County Town With Its Own Page
 
 - [Hickory](/): the county's largest city and our home base
-- [Conover](/conover): full tree removal, right next to Hickory
-- [Newton](/newton): the county seat, tree trimming and full tree care
-- [Longview](/longview): unincorporated, emergency and storm response
-- [Maiden](/maiden): southeastern county, tree service and land clearing on rural lots
-- [Claremont](/claremont): incorporated town near the Catawba River, full tree removal
-- [St. Stephens](/st-stephens): a large unincorporated community along Lake Hickory,
+- [Conover](/conover-nc): full tree removal, right next to Hickory
+- [Newton](/newton-nc): the county seat, tree trimming and full tree care
+- [Longview](/longview-nc): unincorporated, emergency and storm response
+- [Maiden](/maiden-nc): southeastern county, tree service and land clearing on rural lots
+- [Claremont](/claremont-nc): incorporated town near the Catawba River, full tree removal
+- [St. Stephens](/st-stephens-nc): a large unincorporated community along Lake Hickory,
   tree trimming
-- [Startown](/startown): rural farmland west of Newton, land clearing
-- [Brookford](/brookford): a small mill town south of Hickory, stump grinding
-- [Catawba](/catawba): the town on the Catawba River, emergency tree removal
-- [Sherrills Ford](/sherrills-ford): a Lake Norman community, full tree removal
-- [Terrell](/terrell): a Lake Norman community known as the Top of the Lake, tree
+- [Startown](/startown-nc): rural farmland west of Newton, land clearing
+- [Brookford](/brookford-nc): a small mill town south of Hickory, stump grinding
+- [Catawba](/catawba-nc): the town on the Catawba River, emergency tree removal
+- [Sherrills Ford](/sherrills-ford-nc): a Lake Norman community, full tree removal
+- [Terrell](/terrell-nc): a Lake Norman community known as the Top of the Lake, tree
   trimming
-- [Mountain View](/mountain-view): along the Interstate 40 and US 321 corridor,
+- [Mountain View](/mountain-view-nc): along the Interstate 40 and US 321 corridor,
   hazardous tree removal
 
 ## Why We Cover the Whole County, Not Just the City
