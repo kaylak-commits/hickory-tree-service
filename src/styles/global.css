@@ -1,0 +1,353 @@
+:root{
+  --ink:#101C29; --deep:#16283D; --blue:#1E3A55; --blue-l:#2A4E6E; --tint:#E9EEF3;
+  --sand:#C6A268; --sand-d:#B4915B; --sand-dk:#A9874E; --gold-pale:#F1E8D8; --cream:#F8F5EF;
+  --body:#42536A; --line:#DCE2E9; --white:#fff; --wrap:1240px;
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:"Helvetica Neue",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;
+  color:var(--body);font-size:17px;line-height:1.72;background:#fff;-webkit-font-smoothing:antialiased}
+.wrap{max-width:var(--wrap);margin:0 auto;padding:0 24px}
+h1,h2,h3{color:var(--ink);line-height:1.16;margin:0 0 .55em;letter-spacing:-.015em;font-weight:800}
+h1{font-size:clamp(2rem,4.3vw,3rem)}
+h2{font-size:clamp(1.55rem,3.2vw,2.35rem)}
+h3{font-size:1.35rem}
+
+/* TITLES THAT ARE NOT HEADINGS
+   The quote form, the photo bands and the closing call to action are page
+   furniture, not sections of the page. They look exactly like an h2 or an h3
+   and are deliberately NOT one, so they stay out of the heading outline and
+   Google reads the outline the copy actually sets. Divs, not <p>, so the
+   contextual `p` rules further down cannot reach them. */
+.t2,.t3{color:var(--ink);line-height:1.16;margin:0 0 .55em;letter-spacing:-.015em;font-weight:800}
+.t2{font-size:clamp(1.55rem,3.2vw,2.35rem)}
+.t3{font-size:1.35rem}
+p{margin:0 0 1.15em}
+a{color:var(--blue)}
+.skip{position:absolute;left:-9999px}
+.skip:focus{left:12px;top:12px;background:#fff;padding:10px 14px;z-index:300}
+
+/* HEADER — logo left · centred nav · phone + credentials right */
+header{position:sticky;top:0;z-index:200;background:#fff;box-shadow:0 1px 0 rgba(0,0,0,.08)}
+.bar{display:flex;align-items:center;gap:18px;padding:14px 0}
+.logo{display:block;text-decoration:none;flex:0 0 auto;line-height:0}
+.logo img{height:60px;width:auto;display:block}
+header nav{flex:1;display:flex;justify-content:center}
+header nav ul{display:flex;gap:30px;list-style:none;margin:0;padding:0}
+header nav a{color:var(--ink);text-decoration:none;font-weight:700;font-size:1.02rem}
+header nav a:hover{color:var(--blue)}
+.callbox{flex:0 0 auto;text-align:right}
+.phone{background:var(--sand);color:var(--ink);text-decoration:none;font-weight:800;font-size:1.14rem;
+  padding:15px 26px;display:inline-flex;align-items:center;gap:10px;border:2px solid var(--sand-dk)}
+.phone:hover{background:var(--sand-dk)}
+.creds{font-size:.76rem;color:#6F7F92;margin-top:6px;line-height:1.45}
+#nt,.burger{display:none}
+
+/* HERO — dark card left, sand form card right, equal height */
+.hero{background-color:#16283D;background-size:cover;background-position:center 62%;padding:58px 0 66px}
+.hero-grid{display:grid;grid-template-columns:1.62fr .82fr;gap:30px;align-items:center}
+.hcard{background:rgba(13,24,38,.84);backdrop-filter:blur(2px);padding:42px 40px;color:#C6D2E0}
+.hcard h1{color:#fff}
+.hcard .pos{color:var(--sand);font-weight:800;font-size:1.08rem;margin:0 0 20px;line-height:1.45}
+.hcard p{margin-bottom:1.05em}
+.hcard p:last-child{margin-bottom:0}
+.fcard{background:var(--sand);padding:34px 28px;display:flex;flex-direction:column;align-self:center}
+.fcard h2,.fcard .t2{font-size:1.42rem;margin-bottom:14px}
+.fcard form{display:flex;flex-direction:column;flex:1}
+input,textarea{width:100%;padding:12px 13px;border:1px solid #B08F55;background:#fff;font-family:inherit;
+  font-size:.96rem;margin-bottom:9px;color:var(--ink)}
+textarea{min-height:132px;resize:vertical}
+input::placeholder,textarea::placeholder{color:#98A2AE}
+.send{background:var(--deep);color:#fff;border:0;padding:19px;font-weight:800;font-size:1.02rem;
+  letter-spacing:.09em;cursor:pointer;text-transform:uppercase;margin-top:2px}
+.send{padding:15px}
+.send:hover{background:var(--ink);color:var(--sand)}
+
+section{padding:76px 0}
+.cream{background:var(--cream)}
+.band{background:var(--blue);padding:52px 0;text-align:center}
+.band h2{color:#fff;margin:0}
+
+/* split: text + photo */
+.split{display:grid;grid-template-columns:1.15fr 1fr;gap:48px;align-items:center}
+.split.rev{grid-template-columns:1fr 1.15fr}
+.ph{background:var(--tint);border:1px dashed #B3BFCC;min-height:480px;background-size:cover;display:grid;place-items:center;
+  color:#6C7C90;font-size:.88rem;text-align:center;padding:24px}
+ul.ticks{list-style:none;margin:0 0 28px;padding:0}
+ul.ticks li{position:relative;padding-left:26px;margin-bottom:13px;font-size:1.02rem}
+ul.ticks li::before{content:"•";position:absolute;left:6px;color:var(--blue);font-weight:800}
+.cta{display:inline-flex;align-items:center;gap:10px;background:var(--sand);color:var(--ink);
+  text-decoration:none;font-weight:800;padding:15px 30px;border:2px solid var(--sand-dk)}
+.cta:hover{background:var(--sand-dk)}
+
+/* dark service rows — the Fullerton pattern */
+.dark{background:var(--deep);padding:0}
+.row{display:grid;grid-template-columns:1fr 1.05fr;gap:0;align-items:stretch;
+  border-bottom:1px solid rgba(255,255,255,.09)}
+.row .ph{border:0;background:#1B2F47;color:#7E93AC;min-height:430px;background-size:cover;
+  background-position:center}
+.row{min-height:430px}
+.row .ph.has-img{color:transparent}
+.row .txt{padding:40px 44px;color:#BFCCDC;display:flex;flex-direction:column;justify-content:center}
+.row .txt h3{color:#fff;font-size:1.6rem}
+.row .txt p:last-child{margin-bottom:0}
+.row:nth-child(even) .ph{order:2}
+.tag{display:inline-block;background:var(--sand);color:var(--ink);font-weight:800;font-size:.82rem;
+  padding:5px 13px;margin-bottom:12px}
+
+/* cost table */
+table{width:100%;border-collapse:collapse}
+thead th{background:var(--ink);color:#fff;text-align:left;padding:16px 22px;font-size:.85rem;text-transform:uppercase;letter-spacing:.04em}
+td{padding:20px 22px;font-size:1rem;vertical-align:middle}
+td:first-child{background:var(--deep);color:#fff;font-weight:700;width:28%}
+/* Links inside the dark first column must inherit the white, not the global
+   a{color:var(--blue)} — dark blue on dark navy is unreadable. */
+td:first-child a{color:#fff;text-decoration:underline;text-underline-offset:3px}
+td:first-child a:hover{color:var(--sand)}
+td:nth-child(2){font-weight:800;color:var(--ink);white-space:nowrap;width:24%;background:var(--tint)}
+td:nth-child(3){background:#fff}
+tr:nth-child(even) td:first-child{background:#1E3550}
+tr:nth-child(even) td:nth-child(2){background:#E3E9F0}
+
+/* stacked CTA buttons - equal width */
+.cta-row{display:flex;flex-wrap:wrap;gap:14px;margin-top:24px}
+
+.boxed{border:3px solid var(--blue);padding:48px 44px;background:#fff}
+.boxed>h2:first-child{text-align:center;margin-bottom:1.1em}
+.steps h3{margin:32px 0 .3em}
+.steps h3:first-of-type{margin-top:0}
+.steps p{margin:0}
+
+/* locations */
+.locs{background-color:#0E1928;background-size:cover;background-position:center 55%;padding:60px 0;text-align:center}
+.locs h2{color:#fff}
+.locs ul{list-style:none;margin:28px 0 0;padding:0;display:grid;grid-template-columns:repeat(4,1fr);
+  gap:13px 22px}
+.locs a{color:#fff;text-decoration:none;font-weight:700}
+.locs a:hover{text-decoration:underline}
+.locs li::before{content:"• ";color:var(--sand)}
+
+/* faq */
+.faq{background:var(--cream);padding-bottom:76px}
+details{background:#fff;border-bottom:3px solid var(--cream)}
+summary{cursor:pointer;padding:24px 28px;font-weight:800;color:#657486;font-size:1.16rem;list-style:none}
+summary::-webkit-details-marker{display:none}
+details[open] summary{color:var(--ink);padding-bottom:6px}
+details .a{padding:0 28px 26px}
+details .a ul{margin:0;padding-left:22px}
+
+.close{background:var(--deep);color:#C0CEDE;text-align:center;padding:76px 0}
+.close h2,.close .t2{color:#fff}
+footer{background:var(--ink);color:#98A8BC;padding:54px 0 30px;font-size:.94rem}
+footer h4{color:#fff;font-size:.78rem;letter-spacing:.15em;text-transform:uppercase;margin:0 0 12px}
+footer a{color:#98A8BC}
+.fg{display:grid;grid-template-columns:1.5fr 1fr 1fr;gap:36px}
+.fine{border-top:1px solid rgba(255,255,255,.13);margin-top:34px;padding-top:20px;font-size:.84rem}
+
+.callbar{display:none;position:fixed;bottom:0;left:0;right:0;z-index:250;background:var(--ink);
+  padding:9px 12px;gap:9px}
+.callbar a{flex:1;text-align:center;padding:14px;text-decoration:none;font-weight:800}
+.callbar .c{background:#fff;color:var(--ink)}
+.callbar .q{background:var(--sand);color:var(--ink)}
+
+@media(max-width:1000px){
+  .logo img{height:46px}
+  .bar{flex-wrap:wrap;gap:12px}
+  .burger{display:grid;place-items:center;width:48px;height:48px;border:2px solid var(--line);
+    cursor:pointer;font-size:1.4rem;color:var(--ink);margin-left:auto}
+  header nav{display:none;order:4;width:100%}
+  header nav ul{flex-direction:column;gap:0;width:100%}
+  header nav li{border-top:1px solid var(--line)}
+  header nav a{display:block;padding:15px 2px}
+  header #nt:checked ~ nav{display:block}
+  .callbox{order:3;width:100%;text-align:center}
+  .phone{width:100%;justify-content:center}
+  .hero-grid,.split,.split.rev,.row,.fg{grid-template-columns:1fr}
+  .row:nth-child(even) .ph{order:0}
+  .row .ph,.ph{min-height:230px}
+  .row .txt{padding:34px 26px}
+  .hcard,.fcard{padding:32px 26px}
+  .boxed{padding:30px 22px;border-width:2px}
+  .locs ul{grid-template-columns:repeat(2,1fr)}
+  section{padding:48px 0}
+  table,tbody{display:block}
+  thead{display:none}
+  tr{display:block;margin-bottom:16px;border:1px solid var(--line)}
+  td{display:block;width:100%!important;text-align:left}
+  td::before{content:attr(data-label);display:block;font-size:.68rem;text-transform:uppercase;
+    letter-spacing:.05em;font-weight:800;opacity:.7;margin-bottom:4px}
+  td:first-child::before{color:#C6D2E0}
+
+  /* ---- Markdown tables: scroll, do not stack ---------------------------
+     The stacked treatment above depends on data-label, which a markdown pipe
+     table CANNOT emit. Without this, every table written in content markdown
+     collapses into unlabelled fragments on a phone. Found live on two Pool
+     Builders pages, 2026-09-02.
+     So: labelled tables stack (the rules above); unlabelled tables keep their
+     real table shape and scroll sideways instead. */
+  table:not(:has(td[data-label])){display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}
+  table:not(:has(td[data-label])) thead{display:table-header-group}
+  table:not(:has(td[data-label])) tbody{display:table-row-group}
+  table:not(:has(td[data-label])) tr{display:table-row;margin:0;border:0}
+  table:not(:has(td[data-label])) th,
+  table:not(:has(td[data-label])) td{display:table-cell;width:auto!important;
+    white-space:normal;min-width:8.5em}
+  table:not(:has(td[data-label])) td::before{content:none!important}
+  .cta-row{flex-direction:column}
+  .cta-row .cta{width:100%;justify-content:center}
+  .callbar{display:flex} body{padding-bottom:68px}
+}
+
+/* ---- added for Astro: real <img> in place of CSS background photos ---- */
+.ph{position:relative;overflow:hidden;padding:0}
+.ph img{width:100%;height:100%;object-fit:cover;display:block}
+.row .ph{border:0}
+.prose h2{margin-top:1.7em}
+.prose h3{margin-top:1.5em}
+.prose ul{padding-left:22px}
+.prose blockquote{border-left:4px solid var(--sand);margin:1.6em 0;padding:2px 0 2px 20px;color:var(--ink)}
+.note{background:var(--tint);border-left:4px solid var(--blue);padding:18px 22px;margin:26px 0}
+/* Breadcrumbs are a <nav> for screen readers. These resets stop them picking up
+   the header navigation styling, which centred them and bolded the Home link. */
+.crumbs{display:block;font-size:.86rem;font-weight:400;color:#6F7F92;padding:16px 0 0}
+.crumbs a{font-weight:400;font-size:inherit}
+.crumbs .sep{margin:0 .45em;opacity:.7}
+.crumbs a{color:#6F7F92}
+
+/* ---- page hero band: photo behind the H1 (Fullerton / HB Gates pattern) ---- */
+.phero{position:relative;background:#16283D;background-size:cover;background-position:center 55%;
+  padding:96px 0 88px;color:#C6D2E0}
+.phero h1{color:#fff;max-width:900px}
+.phero .lede{font-size:1.14rem;max-width:820px;color:#DCE5EF}
+.phero .crumbs{color:#DCE5EF;padding:0 0 14px;text-shadow:0 1px 3px rgba(0,0,0,.55)}
+.phero .crumbs a{color:#DCE5EF}
+.photoband{position:relative;background:#16283D;background-size:cover;background-position:center;
+  min-height:420px;display:grid;place-items:center;text-align:center;padding:64px 0}
+.photoband .inner{max-width:820px;margin:0 auto;padding:0 24px}
+.photoband h2,.photoband .t2{color:#fff}
+.photoband p{color:#DCE5EF;font-size:1.08rem}
+.imgrow{display:grid;grid-template-columns:1fr 1fr;gap:0;align-items:stretch;background:var(--deep)}
+.imgrow .ph{min-height:420px}
+.imgrow .txt{padding:48px 44px;color:#BFCCDC;display:flex;flex-direction:column;justify-content:center}
+.imgrow .txt h2, .imgrow .txt h3, .imgrow .txt .t2, .imgrow .txt .t3{color:#fff}
+.imgrow .txt h2,.imgrow .txt .t2{font-size:1.8rem;margin-bottom:14px}
+.imgrow .txt p:last-child{margin-bottom:0}
+.pagelist{columns:2;column-gap:40px}
+.pagelist li{margin-bottom:10px;break-inside:avoid}
+@media(max-width:1000px){
+  .phero{padding:56px 0 52px}
+  .imgrow{grid-template-columns:1fr}
+  .imgrow .ph{min-height:230px}
+  .imgrow .txt{padding:32px 24px}
+  .pagelist{columns:1}
+  .photoband{min-height:300px;padding:44px 0}
+}
+
+/* ---- dropdown navigation ---- */
+header nav ul{position:relative}
+header nav li.has-sub{position:relative}
+header nav .caret{font-size:.7em;opacity:.7;margin-left:2px}
+header nav ul.sub{display:none;position:absolute;top:100%;left:-14px;min-width:268px;background:#fff;
+  box-shadow:0 10px 28px rgba(16,28,41,.16);border-top:3px solid var(--sand);padding:8px 0;
+  flex-direction:column;gap:0;z-index:220}
+header nav li.has-sub:hover > ul.sub,
+header nav li.has-sub:focus-within > ul.sub{display:flex}
+header nav ul.sub li{width:100%}
+header nav ul.sub a{display:block;padding:11px 20px;font-size:.97rem;font-weight:600;white-space:nowrap}
+header nav ul.sub a:hover{background:var(--tint)}
+header nav ul.sub .sub-all{border-top:1px solid var(--line);margin-top:6px;padding-top:2px}
+header nav ul.sub .sub-all a{font-weight:800;color:var(--blue)}
+/* a hover gap would close the menu before the pointer arrives */
+header nav li.has-sub::after{content:"";position:absolute;left:0;right:0;top:100%;height:14px}
+
+/* towns without a page yet — shown, but not linked */
+.locs .soon{color:#8FA3B8;font-weight:600}
+
+@media(max-width:1000px){
+  /* dropdowns become plain indented lists inside the burger menu */
+  header nav ul.sub{display:flex;position:static;box-shadow:none;border-top:0;background:transparent;
+    padding:0 0 8px 16px;min-width:0}
+  header nav ul.sub a{padding:10px 2px;color:var(--body);font-weight:600}
+  header nav ul.sub a:hover{background:transparent}
+  header nav .caret{display:none}
+  header nav ul.sub .sub-all{display:none}
+  .hero-grid{grid-template-columns:1fr}
+  .fcard{align-self:stretch;padding:26px 22px}
+}
+
+/* ---- content + sticky form. A class, not an inline style, so the mobile
+       rule below can override it. That was the bug on the service pages. ---- */
+.split-side{display:grid;grid-template-columns:1.45fr 1fr;gap:56px;align-items:start}
+.split-side .side{position:sticky;top:120px}
+
+/* ---- text on top of photos: always sits on a panel, never bare ---- */
+.phero-card{background:rgba(10,18,30,.55);backdrop-filter:blur(2px);padding:34px 36px;max-width:900px;
+  border-left:4px solid var(--sand)}
+.band-card{background:rgba(10,18,30,.55);backdrop-filter:blur(2px);padding:32px 34px;display:inline-block}
+
+/* links on dark photos: same colour as the text, underlined — never navy on navy */
+.phero a:not(.cta), .photoband a:not(.cta), .close a:not(.cta),
+.hcard a:not(.cta), .row .txt a:not(.cta), .imgrow .txt a:not(.cta){
+  color:#F1E8D8;text-decoration:underline;text-underline-offset:3px}
+.phero a:not(.cta):hover, .photoband a:not(.cta):hover, .close a:not(.cta):hover,
+.hcard a:not(.cta):hover, .row .txt a:not(.cta):hover, .imgrow .txt a:not(.cta):hover{color:#fff}
+.phero .crumbs a{color:#fff;text-decoration:underline}
+
+/* reversed photo row */
+.imgrow.rev .ph{order:2}
+
+@media(max-width:1000px){
+  .split-side{grid-template-columns:1fr;gap:34px}
+  .split-side .side{position:static;top:auto}
+  .phero-card{padding:24px 22px;border-left-width:3px}
+  .band-card{padding:22px 20px;display:block}
+  .imgrow.rev .ph{order:0}
+  .row .ph{min-height:220px;max-height:none}
+  .row{min-height:0}
+}
+
+.prose.narrow{max-width:820px;margin:0 auto}
+
+/* OUR WORK grid. Real photographs of houses we built, with honest captions.
+   Never used for pool imagery. */
+.work{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin:26px 0 6px}
+.work figure{margin:0}
+.work img{width:100%;height:250px;object-fit:cover;display:block}
+.work figcaption{font-size:.88rem;line-height:1.5;padding:9px 2px 0;color:var(--body)}
+/* The lead photo runs the full width and taller, because the thing worth seeing
+   in it is usually the ground rather than the building. */
+.work .wide{grid-column:1/-1}
+.work .wide img{height:440px}
+.work .wide figcaption{font-size:.95rem;max-width:70ch}
+@media(max-width:900px){.work{grid-template-columns:repeat(2,1fr)}.work .wide img{height:340px}}
+@media(max-width:620px){.work{grid-template-columns:1fr}.work img{height:230px}.work .wide img{height:250px}}
+
+/* POOL GALLERY — a swipeable strip of illustrative pool photography.
+   Scroll snap so a swipe lands cleanly on the next image. No JS. */
+.gallery{padding:54px 0 46px;background:var(--sand)}
+.gallery h2{margin-bottom:6px}
+.gallery .gnote{margin:0 0 22px;font-size:.92rem;color:var(--body);opacity:.75}
+.gstrip{
+  display:flex;gap:14px;list-style:none;margin:0;padding:0 24px 14px;
+  overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;
+  scrollbar-width:thin;
+}
+.gstrip li{flex:0 0 auto;scroll-snap-align:center;margin:0}
+.gstrip img{
+  display:block;width:min(78vw,560px);height:340px;object-fit:cover;
+  border-radius:2px;background:var(--deep);
+}
+.gstrip:focus-visible{outline:2px solid var(--blue);outline-offset:3px}
+@media(max-width:700px){.gstrip img{width:82vw;height:250px}.gallery{padding:40px 0 34px}}
+
+/* The Locations dropdown carries 14 towns plus an "all" link. In a single column
+   it runs off the bottom of a laptop screen and clips the last entries, which is
+   how Weaverville vanished from the menu. Two columns halves the height. */
+header nav li.has-sub:last-of-type ul.sub{min-width:430px}
+header nav li.has-sub:last-of-type:hover > ul.sub,
+header nav li.has-sub:last-of-type:focus-within > ul.sub{display:grid;grid-template-columns:1fr 1fr}
+header nav li.has-sub:last-of-type ul.sub .sub-all{grid-column:1/-1}
+@media(max-width:900px){
+  header nav li.has-sub:last-of-type ul.sub{min-width:0}
+  header nav li.has-sub:last-of-type:hover > ul.sub,
+  header nav li.has-sub:last-of-type:focus-within > ul.sub{display:flex}
+}

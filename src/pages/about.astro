@@ -1,0 +1,91 @@
+---
+/* Hand-ported verbatim from copy/about.md (451 words, already passed
+   voicecheck/seocheck/factcheck at Tier C) — converted from Markdown to HTML,
+   not retyped or shortened. Edit copy/about.md and re-run the conversion if
+   the copy changes. */
+import BaseLayout from '../layouts/BaseLayout.astro';
+import QuoteForm from '../components/QuoteForm.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { SITE, IMAGES, LOCATIONS, CALL_CTA } from '../config';
+
+const heroBg = `background-image:linear-gradient(rgba(20,32,48,.50),rgba(20,32,48,.64)),url('${IMAGES.aboutCrew.src}')`;
+const opener = `<p>Tree Service Hickory NC provides removal, trimming, stump grinding, land clearing and
+emergency storm response for homeowners, landlords and small commercial properties
+throughout Hickory and Catawba County. Whether it is a single hazardous limb or a whole acre that needs clearing, the same standard applies. You get a written price before anything is cut, and a crew that shows up with the right equipment for the job in front of them.</p>`;
+const aboutSec0 = `<h2>Our Approach</h2>
+<p>We answer the phone and give you a real number, not a vague range that changes once
+the truck shows up. Every job starts with an inspection or, on a storm call, a phone
+assessment of the danger, and you get a price in writing before any saw starts.
+Licensed and insured on every job, on every property we work.</p>`;
+const aboutSec1 = `<h2>Every Job Gets the Same Standard</h2>
+<p>A single dead limb gets the same attention to safety and cleanup as a full-acre land
+clearing job. We do not treat small jobs as filler between bigger ones, and we do not
+cut corners on a large job because the schedule is tight. Drop zones get marked,
+anything nearby gets protected, and the site gets cleared of debris before the crew
+leaves, regardless of the size of the job.</p>`;
+const aboutSec2 = `<h2>What We Do</h2>
+<ul>
+<li><strong><a href="/tree-removal/">Tree Removal</a></strong>: dead, hazardous or unwanted trees, $500 minimum
+  callout.</li>
+<li><strong><a href="/tree-trimming/">Tree Trimming</a></strong>: structural pruning, canopy thinning,
+  deadwooding and clearance cuts.</li>
+<li><strong><a href="/emergency-storm-damage-tree-removal/">Emergency Storm Damage Tree Removal</a></strong>: a
+  tree on a structure, blocking access, or already down.</li>
+<li><strong><a href="/stump-grinding/">Stump Grinding</a></strong>: ground below grade, $150 minimum.</li>
+<li><strong><a href="/hazardous-tree-removal/">Hazardous Tree Removal</a></strong>: a leaning, dead or
+  storm-weakened tree before it fails.</li>
+<li><strong><a href="/land-clearing/">Land Clearing</a></strong>: brush to full-acre clearing, priced per acre.</li>
+<li><strong><a href="/deadwood-diseased-tree-removal/">Deadwood and Diseased Tree Removal</a></strong>:
+  deadwooding or full removal, whichever the tree actually needs.</li>
+</ul>`;
+const aboutSec3 = `<h2>Where We Work</h2>
+<p>Hickory, Conover, Newton, Longview, Maiden and the rest of Catawba County, with the
+same crew and pricing no matter which town the call comes from. See our
+<a href="/service-areas/">Service Areas</a> page for the full list.</p>`;
+const aboutSec4 = `<h2>What We Don't Do</h2>
+<p>We do not diagnose or treat tree disease, and we do not apply fertilizer or
+pesticide, that work calls for a pesticide applicator license from the state. We do
+not repair a roof, fence or structure a tree has already damaged, though we can point
+you to a contractor once the tree itself is clear.</p>`;
+const aboutSec5 = `<h2>Reach Out Today</h2>
+<p>A dead limb, a leaning tree, a storm that already came through, or a lot that needs
+clearing, we handle it with a price in writing before anything starts. Call
+(828) 522-9430 or reach out through our <a href="/contact/">contact page</a> for a free estimate.</p>`;
+---
+<BaseLayout
+  title={`About Tree Service Hickory NC | Local Tree Company`}
+  description="Tree Service Hickory NC covers Hickory, Conover, Newton and Catawba County. Removal from $500, trimming from $500. Licensed and insured."
+  breadcrumb="About"
+>
+  <section class="hero" style={heroBg}>
+    <div class="wrap">
+      <Breadcrumbs label="About" />
+      <div class="hero-grid">
+        <div class="hcard">
+          <h1>About Tree Service Hickory NC</h1>
+          <div class="lede" set:html={opener} />
+          <p><a class="btn" href={CALL_CTA.href}>{CALL_CTA.label}</a></p>
+        </div>
+        <QuoteForm source="about" />
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <article class="prose" set:html={aboutSec0} />
+      <article class="prose" set:html={aboutSec1} />
+
+      <img src={IMAGES.aboutCrew.src} alt={IMAGES.aboutCrew.alt} width="1200" height="800"
+           loading="lazy" style="width:100%;height:auto;border-radius:10px;margin:26px 0" />
+
+      <article class="prose" set:html={aboutSec2} />
+      <article class="prose" set:html={aboutSec3} />
+      <article class="prose" set:html={aboutSec4} />
+      <article class="prose" set:html={aboutSec5} />
+
+      <p><a class="btn" href={CALL_CTA.href}>{CALL_CTA.label}</a>
+         <a class="btn ghost" href="#quote">Get a Free Estimate</a></p>
+    </div>
+  </section>
+</BaseLayout>

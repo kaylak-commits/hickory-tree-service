@@ -1,0 +1,79 @@
+---
+/* Hand-ported verbatim from copy/contact.md (293 words, already passed
+   voicecheck/seocheck/factcheck at Tier C) — converted from Markdown to HTML,
+   not retyped or shortened. Edit copy/contact.md and re-run the conversion
+   if the copy changes. */
+import BaseLayout from '../layouts/BaseLayout.astro';
+import QuoteForm from '../components/QuoteForm.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { SITE, IMAGES, CALL_CTA, HAS_PHONE, HAS_EMAIL } from '../config';
+
+const heroBg = `background-image:linear-gradient(rgba(20,32,48,.50),rgba(20,32,48,.64)),url('${IMAGES.storm.src}')`;
+const opener = `<p><strong>(828) 522-9430. Call Now.</strong></p>
+<p>Call or submit a request below and we'll give you a real price range on the phone, or
+schedule an inspection to confirm an exact number, not a vague estimate that changes
+once the crew arrives.</p>
+<p>For a tree already on a structure, blocking access, or a hung limb still overhead,
+say so when you call, those get priority scheduling ahead of routine work.</p>`;
+const ctSec0 = `<h2>Where We Work</h2>
+<p>Hickory, Conover, Newton, Longview, Maiden and the rest of Catawba County, same crew
+and pricing regardless of the town. See our <a href="/service-areas/">Service Areas</a> page for
+the full list.</p>`;
+const ctSec1 = `<h2>What to Include When You Reach Out</h2>
+<ul>
+<li>Your address or town, so we can confirm scheduling for your area</li>
+<li>What is going on with the tree: dead, leaning, down, or just due for trimming</li>
+<li>Whether it is resting on a structure, a car, or a power line</li>
+<li>Whether it is urgent, so we can prioritize scheduling accordingly</li>
+</ul>`;
+const ctSec2 = `<h2>What Are You Reaching Out About?</h2>
+<ul>
+<li><strong><a href="/tree-removal/">Tree Removal</a></strong>: dead, hazardous or unwanted trees</li>
+<li><strong><a href="/tree-trimming/">Tree Trimming</a></strong>: pruning, thinning and clearance cuts</li>
+<li><strong><a href="/emergency-storm-damage-tree-removal/">Emergency Storm Damage Tree Removal</a></strong>: a
+  tree already down or resting on a structure</li>
+<li><strong><a href="/stump-grinding/">Stump Grinding</a></strong>: a stump from a recent job or an old one</li>
+<li><strong><a href="/hazardous-tree-removal/">Hazardous Tree Removal</a></strong>: a tree that has not fallen
+  yet but poses a risk</li>
+<li><strong><a href="/land-clearing/">Land Clearing</a></strong>: brush to full-acre lots</li>
+</ul>
+<p>See all our services on the <a href="/">homepage</a>.</p>`;
+const ctSec3 = `<h2>If a Tree Has Come Down on a Power Line</h2>
+<p>Stay clear of it, and call the utility company first, then call us. We will not
+work on a tree resting on a live line until the power company has addressed it.</p>`;
+---
+<BaseLayout
+  title={`Contact Tree Service Hickory NC | Free Estimate`}
+  description="Call Tree Service Hickory NC for a free estimate. Removal from $500, trimming from $500, stump grinding from $150. Same-day emergency response."
+  breadcrumb="Contact"
+>
+  <section class="hero" style={heroBg}>
+    <div class="wrap">
+      <Breadcrumbs label="Contact" />
+      <div class="hero-grid">
+        <div class="hcard">
+          <h1>Contact Tree Service Hickory NC</h1>
+          <div class="lede" set:html={opener} />
+          {HAS_PHONE && <p><a class="btn" href={CALL_CTA.href}>{CALL_CTA.label}</a></p>}
+        </div>
+        <QuoteForm source="contact" />
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <ul class="ticks">
+        {HAS_PHONE && <li><strong>Phone:</strong> <a href={SITE.phoneHref}>{SITE.phone}</a>. A real
+        person, not voicemail.</li>}
+        {HAS_EMAIL && <li><strong>Email:</strong> <a href={`mailto:${SITE.email}`}>{SITE.email}</a></li>}
+        <li><strong>Estimates:</strong> free, on site or on the phone for a range.</li>
+        <li><strong>Minimum callout:</strong> {SITE.minCallout} for removal, {SITE.stumpGrindingMinCallout} for stump grinding.</li>
+      </ul>
+      <article class="prose" set:html={ctSec0} />
+      <article class="prose" set:html={ctSec1} />
+      <article class="prose" set:html={ctSec2} />
+      <article class="prose" set:html={ctSec3} />
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,16 @@
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=()
+
+# Hashed filenames — safe to cache forever.
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/images/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# No Content-Security-Policy here on purpose. A CSP that forgets GA4 or the form
+# endpoint breaks them silently, with nothing in the UI to show why. Add one per site,
+# deliberately, after testing — not from a template.

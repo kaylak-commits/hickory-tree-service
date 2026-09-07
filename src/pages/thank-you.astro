@@ -1,0 +1,22 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE, HAS_PHONE } from '../config';
+---
+<BaseLayout
+  title={`Thank You | ${SITE.brand}`}
+  description="Thank you. We have your request and we will be in touch."
+  noindex={true}
+>
+  <section style="min-height:46vh">
+    <div class="wrap" style="max-width:760px;text-align:center;padding:40px 0">
+      <h1>Thank you, we have your request</h1>
+      <p style="font-size:1.12rem">Someone will be in touch with you shortly.{HAS_PHONE && (
+        <> If it is easier, call us directly on <a href={SITE.phoneHref}><strong>{SITE.phone}</strong></a>.</>
+      )}</p>
+      <p>It helps to have a few things ready when we speak: roughly how big the tree is, whether it is
+      leaning, dead or already down, how close it stands to a structure or power line, and how
+      wide the access to the yard is. Those answers get us most of the way to a real figure.</p>
+      <p style="margin-top:30px"><a class="cta" href="/">Back to the homepage</a></p>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,7 @@
+---
+import { SITE, HAS_PHONE, QUOTE_CTA } from '../config';
+---
+<div class="callbar">
+  {HAS_PHONE && <a class="c" href={SITE.phoneHref}>Call Now</a>}
+  <a class="q" href="#quote">{QUOTE_CTA}</a>
+</div>

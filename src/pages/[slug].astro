@@ -1,0 +1,185 @@
+---
+/* ============================================================================
+   ONE ROUTE FOR EVERY SERVICE AND LOCATION PAGE
+   ----------------------------------------------------------------------------
+   Four photo slots per page, and no photo may appear twice on the same page.
+   If the frontmatter repeats one, or leaves one out, the gap is filled from a
+   deterministic set of unused images rather than silently duplicating.
+   ============================================================================ */
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import QuoteForm from '../components/QuoteForm.astro';
+import Faq from '../components/Faq.astro';
+import LocationsBand from '../components/LocationsBand.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { IMAGES, SITE, CALL_CTA, SHOW_CALL_CTA, type ImageKey } from '../config';
+
+export async function getStaticPaths() {
+  const services = await getCollection('services');
+  const locations = await getCollection('locations');
+  const serviceIds = new Set(services.map((s) => s.id));
+
+  const seen = new Set<string>();
+  for (const e of [...services, ...locations]) {
+    if (seen.has(e.id)) {
+      throw new Error(
+        `Slug collision: "${e.id}" exists in both services and locations. ` +
+        `Two pages on one URL is cannibalisation — rename one.`
+      );
+    }
+    seen.add(e.id);
+  }
+
+  return [...services, ...locations].map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry, kind: serviceIds.has(entry.id) ? 'service' : 'location' },
+  }));
+}
+
+const { entry, kind } = Astro.props;
+await render(entry);                       // populates entry.rendered
+const data: any = entry.data;
+
+/* Split the page copy into four chunks at H2 boundaries so photos can sit
+   BETWEEN sections of text rather than all bunched at the end. */
+function splitCopy(html: string, parts = 4): string[] {
+  const secs = html.split(/(?=<h2)/g).filter((x) => x.trim());
+  if (secs.length <= 1) return [html];
+  const per = Math.ceil(secs.length / parts);
+  const out: string[] = [];
+  for (let i = 0; i < secs.length; i += per) out.push(secs.slice(i, i + per).join(''));
+  return out;
+}
+const chunks = splitCopy((entry as any).rendered?.html ?? '');
+
+/* --- pick four DISTINCT images ------------------------------------------- */
+const FALLBACKS: ImageKey[] = ['removal','trimming','storm','stump','landClearing',
+  'hazardous','arborist','deadwood','commercial','brush','hedge','cabling','planting',
+  'debris','bushHogging','fertilization','healthAssess','heroCrew','aboutCrew'];
+const usedSrc = new Set<string>();
+const srcOf = (k: ImageKey) => (IMAGES[k] as { src: string }).src;
+const take = (want: string | undefined): ImageKey => {
+  const k = want as ImageKey;
+  if (k && (IMAGES as Record<string, unknown>)[k] && !usedSrc.has(srcOf(k))) { usedSrc.add(srcOf(k)); return k; }
+  const free = FALLBACKS.find((f) => !usedSrc.has(srcOf(f))) ?? FALLBACKS[0];
+  usedSrc.add(srcOf(free));
+  return free;
+};
+const kHero = take(data.hero);
+const kBand = take(data.bandImage);
+const kBody = take(data.bodyImage);
+const kExtra = take(data.extraImage);
+const kBand2 = take(undefined);   // locations band — a 5th image, never a repeat
+
+const img = (k: ImageKey) => IMAGES[k] as { src: string; alt: string; pos?: string };
+const hero = img(kHero), band = img(kBand), body = img(kBody), extra = img(kExtra);
+
+const heroStyle = `background-image:linear-gradient(rgba(10,18,30,.46),rgba(10,18,30,.60)),url('${hero.src}');background-position:${hero.pos ?? 'center 55%'}`;
+const bandStyle = `background-image:linear-gradient(rgba(10,18,30,.66),rgba(10,18,30,.76)),url('${band.src}');background-position:${band.pos ?? 'center'}`;
+
+const label = kind === 'location' ? `${data.town}, NC` : data.h1;
+---
+<BaseLayout title={data.title} description={data.description} faqs={data.faqs} breadcrumb={label}>
+
+  {/* 1 — photo behind the H1 */}
+  <section class="hero" style={heroStyle}>
+    <div class="wrap">
+      <Breadcrumbs label={label} />
+      <div class="hero-grid">
+        <div class="hcard">
+          <h1>{data.h1}</h1>
+          <p class="lede" set:html={data.intro} />
+          {SHOW_CALL_CTA && (
+            <div class="cta-row" style="margin-top:24px">
+              <a class="cta" href={CALL_CTA.href}>{CALL_CTA.label}</a>
+            </div>
+          )}
+        </div>
+        <QuoteForm heading="Get a Quote" source={entry.id} />
+      </div>
+    </div>
+  </section>
+
+  {/* 2 — first chunk of copy, with the form alongside */}
+  <section class="cream" style="padding-top:52px">
+    <div class="wrap">
+      <article class="prose" set:html={chunks[0]} />
+    </div>
+  </section>
+
+  {/* 3 — full-width photo band */}
+  <section class="photoband" style={bandStyle}>
+    <div class="inner">
+      <div class="band-card">
+        <div class="t2">{kind === 'location' ? `Tree Work in ${data.town}` : 'Not sure what your tree actually needs?'}</div>
+        <p>{kind === 'location'
+          ? `We schedule ${data.town} the same way we schedule Hickory, at the same rates. The on-site estimate is where we work out tree size and access, whether it comes down whole or has to be rigged down in pieces, and how many visits it takes.`
+          : 'Tell us what the tree looks like and where it stands, and you get a real number and a real timeline before anything is cut.'}</p>
+        <p style="margin-top:20px"><a class="cta" href="#quote">Request a Quote</a></p>
+      </div>
+    </div>
+  </section>
+
+  {/* 4 — second chunk of copy */}
+  {chunks[1] && (
+    <section>
+      <div class="wrap"><article class="prose narrow" set:html={chunks[1]} /></div>
+    </section>
+  )}
+
+  {/* 5 — photo alongside a short block */}
+  <div class="imgrow">
+    <div class="ph"><img src={body.src} alt={body.alt} width="1600" height="1000" loading="lazy" style={`object-position:${body.pos ?? 'center'}`} /></div>
+    <div class="txt">
+      <div class="t3">One crew, one quote</div>
+      <p>Cutting, rigging, hauling and cleanup run as one job on one schedule,
+      rather than a crew that drops the wood and leaves the cleanup to you.</p>
+      <p>Debris is hauled off and the yard is raked clean before the truck leaves, so the
+      only thing left behind is the stump, if you asked us to leave it.</p>
+      <p style="margin-top:20px"><a class="cta" href="/services/">See all services</a></p>
+    </div>
+  </div>
+
+  {/* 6 — third chunk of copy */}
+  {chunks[2] && (
+    <section class="cream">
+      <div class="wrap"><article class="prose narrow" set:html={chunks[2]} /></div>
+    </section>
+  )}
+
+  {/* 7 — fourth photo, reversed */}
+  <div class="imgrow rev">
+    <div class="ph"><img src={extra.src} alt={extra.alt} width="1600" height="1000" loading="lazy" style={`object-position:${extra.pos ?? 'center'}`} /></div>
+    <div class="txt">
+      <div class="t3">{kind === 'location' ? `Serving ${data.town} and Catawba County` : 'Built for how trees fail here'}</div>
+      <p>{kind === 'location'
+        ? `Same pricing and the same crew in ${data.town} as in Hickory itself. Removal starts at ${SITE.minCallout} and stump grinding at ${SITE.stumpGrindingMinCallout}, and you get the number before anything is cut.`
+        : `Hickory takes about ${SITE.rainInches} inches of rain a year across roughly ${SITE.precipDays} days. Sustained wet soil is what lets a mature tree uproot rather than just shed limbs in wind, and repeated freeze-thaw cycles widen existing trunk and root defects over winter.`}</p>
+      <p style="margin-top:20px"><a class="cta" href="#quote">Get a free estimate</a></p>
+    </div>
+  </div>
+
+  {/* 8 — anything left over */}
+  {chunks[3] && (
+    <section>
+      <div class="wrap"><article class="prose narrow" set:html={chunks[3]} /></div>
+    </section>
+  )}
+
+  {data.faqs.length > 0 && <Faq items={data.faqs} heading={`${label} FAQs`} />}
+
+  <LocationsBand bg={kBand2} />
+
+  <section class="close">
+    <div class="wrap">
+      <div class="t2">Get a Free Estimate{kind === 'location' ? ` in ${data.town}` : ''}</div>
+      <p>Tell us what the tree looks like and where it stands. We come out, look at the job,
+      and give you a price and a timeline you can hold us to. Removal starts at {SITE.minCallout}.</p>
+      <div class="cta-row">
+        <a class="cta" href="#quote">Request a Quote</a>
+        {SHOW_CALL_CTA && <a class="cta" href={CALL_CTA.href}>{CALL_CTA.label}</a>}
+      </div>
+    </div>
+  </section>
+
+</BaseLayout>

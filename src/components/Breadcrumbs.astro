@@ -1,0 +1,10 @@
+---
+/* The visible trail and the BreadcrumbList schema come from the same label.
+   Pass the identical string to BaseLayout's `breadcrumb` prop and they can
+   never disagree. */
+interface Props { label: string; }
+const { label } = Astro.props;
+---
+<nav class="crumbs" aria-label="Breadcrumb">
+  <a href="/">Home</a><span class="sep" aria-hidden="true">›</span><span aria-current="page">{label}</span>
+</nav>

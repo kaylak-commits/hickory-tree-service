@@ -1,0 +1,93 @@
+---
+/* ============================================================================
+   /services — the index of everything that exists.
+   ----------------------------------------------------------------------------
+   ⚠️ TEMPORARY BEHAVIOUR: while the site is being built this page lists EVERY
+   page in both collections, so nothing is ever orphaned and everything can be
+   reached and reviewed. Before launch, consider dropping the Locations block
+   from here — locations already appear in the homepage band and in service-areas.
+   ============================================================================ */
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import QuoteForm from '../components/QuoteForm.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { IMAGES, SITE, PRICING, type ImageKey } from '../config';
+
+const services = (await getCollection('services')).sort(
+  (a, b) => (a.data.order ?? 99) - (b.data.order ?? 99)
+);
+const locations = (await getCollection('locations')).sort((a, b) =>
+  a.data.town.localeCompare(b.data.town)
+);
+
+const heroStyle =
+  `background-image:linear-gradient(rgba(12,22,36,.44),rgba(12,22,36,.58)),url('${IMAGES.trimming.src}')`;
+---
+<BaseLayout
+  title={`Tree Services in Hickory, NC | ${SITE.brand}`}
+  description="Every tree service we offer across Hickory and Catawba County: removal, trimming, stump grinding, land clearing, storm damage and more."
+  breadcrumb="Services"
+>
+  <section class="hero" style={heroStyle}>
+    <div class="wrap">
+      <Breadcrumbs label="Services" />
+      <div class="hero-grid">
+        <div class="hcard">
+          <h1>Tree Services in Hickory, NC</h1>
+          <p class="lede">Every tree service we offer, from a single hazardous limb to a
+          full-acre land clearing job. Removal starts at our {SITE.minCallout} minimum callout
+          and stump grinding starts at {SITE.stumpGrindingMinCallout}, the same pricing
+          everywhere in Catawba County.</p>
+        </div>
+        <QuoteForm heading="Get a Quote" source="services" />
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <h2>Tree Services</h2>
+      <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:30px;margin-top:30px">
+        {services.map((s) => {
+          const img = IMAGES[s.data.hero as ImageKey] ?? IMAGES.heroCrew;
+          const price = PRICING.find((p) => p.slug.replace(/\/$/, '') === `/${s.id}`);
+          return (
+            <a href={`/${s.id}/`} style="text-decoration:none;color:inherit;display:block;border:1px solid var(--line)">
+              <div class="ph" style="min-height:220px;border:0">
+                <img src={img.src} alt={img.alt} width="1600" height="1000" loading="lazy" />
+              </div>
+              <div style="padding:24px">
+                {price && <span class="tag">{price.range}</span>}
+                <h3 style="margin-top:10px">{s.data.h1}</h3>
+                <p style="font-size:.98rem;margin:0" set:html={s.data.description} />
+              </div>
+            </a>
+          );
+        })}
+      </div>
+
+      {services.length < 3 && (
+        <div class="note" style="margin-top:36px">
+          <strong>More service pages are being written.</strong> Everything published so far is
+          listed above, and nothing on this site is built without a link pointing at it.
+        </div>
+      )}
+    </div>
+  </section>
+
+  <section class="cream">
+    <div class="wrap">
+      <div>
+        <div>
+          <h2>Towns We Serve</h2>
+          <p>Tree service across Catawba County. Same rates in every town.</p>
+          <ul class="pagelist" style="margin-top:24px;padding-left:20px">
+            {locations.map((l) => (
+              <li><a href={`/${l.id}/`}>Tree Service in {l.data.town}, NC</a></li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

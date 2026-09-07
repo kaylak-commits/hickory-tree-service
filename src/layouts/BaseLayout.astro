@@ -1,0 +1,178 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import CallBar from '../components/CallBar.astro';
+import { getCollection } from 'astro:content';
+import { SITE, IMAGES, LOCATIONS, SERVICE_AREA_EXTRA, HAS_PHONE, HAS_EMAIL } from '../config';
+
+interface Props {
+  title: string;
+  description: string;
+  /** Optional canonical override. Defaults to the current URL. */
+  canonical?: string;
+  /** Emits LocalBusiness schema. Homepage only — one per site. */
+  business?: boolean;
+  faqs?: { q: string; a: string }[];
+  /** Keeps a page out of the index. Confirmation and utility pages only. */
+  noindex?: boolean;
+  /** Trailing breadcrumb label. Emits BreadcrumbList when set. */
+  breadcrumb?: string;
+}
+
+const {
+  title, description, canonical, business = false, faqs,
+  noindex = false, breadcrumb,
+} = Astro.props;
+
+const canonicalURL = canonical ?? new URL(Astro.url.pathname, Astro.site).href;
+/* Social share card. Absolute URL is required — Facebook, LinkedIn, iMessage and
+   Slack all reject a relative og:image. 1200x630 is the size they all crop to. */
+const ogImageURL = `${SITE.url}${IMAGES.heroCrew.src}`;
+const abs = (path: string) => new URL(path, SITE.url).href;
+
+/* The stable identifier every other schema block on the site points at.
+   Without it Google sees a handful of unrelated blobs instead of one business. */
+const BUSINESS_ID = `${SITE.url}/#business`;
+
+/* ⚠️ Schema pulls from config.ts. A NAP field that is not real is omitted
+   entirely — see the placeholder guards in config.ts. An invented address,
+   phone or email in schema is the exact risk the SOP warns about, and it is
+   worse here than on a page because this is the machine-readable claim. */
+const hasAddress = SITE.address.street !== '' && SITE.address.zip !== '';
+
+/* Service catalog, read from the content collection so it can never drift
+   from the pages that actually exist. */
+const services = business
+  ? (await getCollection('services'))
+      .filter((s) => !/^how much/i.test(s.data.h1))   // the cost page is a question, not a service
+      .sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99))
+  : [];
+
+const businessSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'GeneralContractor',
+  '@id': BUSINESS_ID,
+  name: SITE.brand,
+  url: SITE.url,
+  description: SITE.tagline,
+  image: abs(IMAGES.heroCrew.src),
+  logo: abs("/logo-wordmark.webp"),
+  priceRange: '$$',
+  ...(HAS_PHONE && { telephone: SITE.phone }),
+  ...(HAS_EMAIL && { email: SITE.email }),
+  /* Counties give the outer boundary; the towns are the entities people
+     actually search. Both, so the service area is unambiguous. */
+  areaServed: [
+    ...SITE.counties.map((c) => ({
+      '@type': 'AdministrativeArea', name: `${c} County, ${SITE.address.state}`,
+    })),
+    {
+      '@type': 'City', name: SITE.address.city,
+      addressRegion: SITE.address.state, addressCountry: 'US',
+    },
+    ...LOCATIONS.map((l) => ({
+      '@type': 'City', name: l.name,
+      addressRegion: SITE.address.state, addressCountry: 'US',
+    })),
+    ...SERVICE_AREA_EXTRA.map((n) => ({
+      '@type': 'City', name: n,
+      addressRegion: SITE.address.state, addressCountry: 'US',
+    })),
+  ],
+  ...(hasAddress && {
+    address: {
+      '@type': 'PostalAddress',
+      streetAddress: SITE.address.street,
+      addressLocality: SITE.address.city,
+      addressRegion: SITE.address.state,
+      postalCode: SITE.address.zip,
+      addressCountry: 'US',
+    },
+  }),
+  ...(services.length && {
+    hasOfferCatalog: {
+      '@type': 'OfferCatalog',
+      name: SITE.serviceCategory,
+      itemListElement: services.map((s) => ({
+        '@type': 'Offer',
+        itemOffered: {
+          '@type': 'Service',
+          name: s.data.h1,
+          url: abs(`/${s.id}`),
+          serviceType: s.data.h1.replace(SITE.h1Suffix, ''),
+          provider: { '@id': BUSINESS_ID },
+        },
+      })),
+    },
+  }),
+  ...(Object.values(SITE.social).some(Boolean) && {
+    sameAs: Object.values(SITE.social).filter(Boolean),
+  }),
+};
+
+const breadcrumbSchema = breadcrumb
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE.url}/` },
+        { '@type': 'ListItem', position: 2, name: breadcrumb, item: canonicalURL },
+      ],
+    }
+  : null;
+
+const faqSchema = faqs?.length
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: faqs.map((f) => ({
+        '@type': 'Question',
+        name: f.q,
+        acceptedAnswer: { '@type': 'Answer', text: f.a.replace(/<[^>]+>/g, '') },
+      })),
+    }
+  : null;
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  {noindex && <meta name="robots" content="noindex,follow" />}
+  <link rel="canonical" href={canonicalURL} />
+  <link rel="icon" href="/favicon.ico" sizes="any" />
+  <link rel="icon" href="/images/favicon.png" type="image/png" />
+  <link rel="apple-touch-icon" href="/images/favicon.png" />
+  <meta property="og:site_name" content={SITE.brand} />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={canonicalURL} />
+  <meta property="og:image" content={ogImageURL} />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content={`${SITE.brand} — ${SITE.tagline}`} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={ogImageURL} />
+  {business && <script type="application/ld+json" set:html={JSON.stringify(businessSchema)} />}
+  {breadcrumbSchema && <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />}
+  {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
+  {SITE.ga4 && <script async src={`https://www.googletagmanager.com/gtag/js?id=${SITE.ga4}`} />}
+  {SITE.callrailScript && <script async src={SITE.callrailScript} />}
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <Header />
+  <main id="main">
+    <slot />
+  </main>
+  <Footer />
+  <CallBar />
+</body>
+</html>

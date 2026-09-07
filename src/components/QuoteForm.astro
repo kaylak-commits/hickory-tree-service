@@ -1,0 +1,24 @@
+---
+import { QUOTE_HEADING } from '../config';
+interface Props { heading?: string; source?: string; }
+/* Default heading is gated on FREE_ESTIMATE_CONFIRMED in config.ts — "free"
+   is AMBER per 13 Trust Signal Rule and must not be baked into the template. */
+const { heading = QUOTE_HEADING, source = 'site' } = Astro.props;
+---
+<div class="fcard" id="quote">
+  <!-- Not an <h2>: the form is furniture, not a section of the page. It keeps
+       the same look, and aria-labelledby keeps it named for screen readers. -->
+  <div class="t2" id="quote-title">{heading}</div>
+  <form method="POST" action="/api/quote" aria-labelledby="quote-title">
+    <!-- Honeypot. Real people never fill this in; bots usually do. -->
+    <div style="position:absolute;left:-9999px" aria-hidden="true">
+      <label>Company <input type="text" name="company" tabindex="-1" autocomplete="off" /></label>
+    </div>
+    <input type="hidden" name="source" value={source} />
+    <input type="text"  name="name"  placeholder="Name"      aria-label="Name"  required />
+    <input type="email" name="email" placeholder="Email"     aria-label="Email" required />
+    <input type="tel"   name="phone" placeholder="Phone No." aria-label="Phone" required />
+    <textarea name="project" placeholder="Tell us what the damage looks like, or what needs hanging?" aria-label="Project"></textarea>
+    <button class="send" type="submit">Submit →</button>
+  </form>
+</div>

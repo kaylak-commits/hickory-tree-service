@@ -1,0 +1,33 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE, HAS_PHONE } from '../config';
+---
+<BaseLayout
+  title={`Page Not Found | ${SITE.brand}`}
+  description="That page does not exist. Find the tree service you were looking for, or call for a free estimate."
+  noindex={true}
+>
+  <section>
+    <div class="wrap" style="max-width:820px">
+      <h1>That page does not exist</h1>
+      <p>The link may be old, or the address may have a typo in it. Nothing is broken on our
+      end and the phone is still answered.</p>
+
+      <p>Here is where most people are heading:</p>
+
+      <ul class="ticks">
+        <li><a href="/services/">All tree services</a> — removal, trimming, stump grinding and land clearing</li>
+        <li><a href="/service-areas/">Towns we cover</a> — Hickory and the rest of Catawba County</li>
+        <li><a href="/contact/">Contact and free estimate</a></li>
+        <li><a href="/">Home</a></li>
+      </ul>
+
+      {HAS_PHONE && (
+        <div class="cta-row">
+          <a class="cta" href={SITE.phoneHref}>Call {SITE.phone}</a>
+          <a class="cta" href="/contact/">Get a Free Estimate</a>
+        </div>
+      )}
+    </div>
+  </section>
+</BaseLayout>

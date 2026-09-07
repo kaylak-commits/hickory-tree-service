@@ -1,0 +1,47 @@
+---
+/* Nav with real dropdowns. Both menus are generated from the content
+   collections, so a page appears in the menu the moment its markdown file
+   exists — and a menu can never point at a page that doesn't. */
+import { getCollection } from 'astro:content';
+import { SITE, IMAGES, HAS_PHONE } from '../config';
+
+const services = (await getCollection('services')).sort(
+  (a, b) => (a.data.order ?? 99) - (b.data.order ?? 99)
+);
+---
+<header>
+  <div class="wrap bar">
+    <a class="logo" href="/">
+      <img src="/logo-wordmark.webp" alt={SITE.brand} width="1000" height="231" />
+    </a>
+
+    <input type="checkbox" id="nt" />
+    <label class="burger" for="nt" aria-label="Menu">☰</label>
+
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about/">About</a></li>
+
+        <li class="has-sub">
+          <a href="/services/">Services <span class="caret">▾</span></a>
+          <ul class="sub">
+            {services.map((s) => (
+              <li><a href={`/${s.id}/`}>{s.data.h1.replace(SITE.h1Suffix, '')}</a></li>
+            ))}
+            <li class="sub-all"><a href="/services/">All services →</a></li>
+          </ul>
+        </li>
+
+        <li><a href="/contact/">Contact</a></li>
+      </ul>
+    </nav>
+
+    <div class="callbox">
+      {HAS_PHONE
+        ? <a class="phone" href={SITE.phoneHref}>📞 {SITE.phone}</a>
+        : <a class="phone" href="/contact/">✉️ Request a Quote</a>}
+      <div class="creds" set:html={SITE.credentials.join('<br>')} />
+    </div>
+  </div>
+</header>

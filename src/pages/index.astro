@@ -1,0 +1,259 @@
+---
+/* THE HOMEPAGE — the site's strongest page, and treated as a money page.
+
+   ⚠️ HARD RULE: the body of this page links to the THREE MONEY PAGES AND
+   NOTHING ELSE (tree-removal, tree-trimming, emergency-storm-damage-tree-removal).
+   Every other service is named and priced in prose but never linked, per
+   Page Templates §2a and Kayla's 2026-09-07 confirmation (see STATUS.md).
+   Long-tail and main service pages are reached from the nav and from the
+   money pages, never from here.
+
+   Content below is HAND-PORTED VERBATIM from copy/homepage.md (2,159 words,
+   already passed voicecheck/seocheck/factcheck at Tier C) — converted from
+   Markdown to HTML by 01 PROCESS' Python markdown lib, not retyped or
+   shortened. Do not edit the prose here; edit copy/homepage.md and
+   re-run the conversion if the copy changes. */
+import BaseLayout from '../layouts/BaseLayout.astro';
+import QuoteForm from '../components/QuoteForm.astro';
+import LocationsBand from '../components/LocationsBand.astro';
+import Faq from '../components/Faq.astro';
+import { SITE, IMAGES, CALL_CTA, SHOW_CALL_CTA } from '../config';
+
+const heroStyle = `background-image:linear-gradient(rgba(20,32,48,.55),rgba(20,32,48,.68)),url('${IMAGES.heroCrew.src}')`;
+const bandStyle = `background-image:linear-gradient(rgba(20,32,48,.58),rgba(20,32,48,.70)),url('${IMAGES.storm.src}')`;
+
+const opener = `<p>Tree Service Hickory NC removes, trims and clears trees for homeowners, landlords and
+small commercial properties across Hickory and Catawba County. A standing dead loblolly
+pine leaning toward a fence, a red maple splitting at a codominant trunk after a storm, or
+a tree already down on a roof, one crew handles all of it. Every job gets a written price
+before a saw starts, whether it's a single hazardous white oak or a yard full of sweetgum
+and tulip poplar.</p>
+<p>We work on single-family lots, rental properties and small commercial sites. Equipment is
+sized to the job: a bucket truck and ground crew for open-yard work, climbing gear and
+rigging near a structure or power line, and a crane for large or technical drops. Southern
+pine beetle, oak wilt and verticillium wilt are all real, local reasons a tree gets
+flagged for removal instead of trimming. The crew can tell you which one applies to your
+tree, and why, before anything comes down. Removal starts at $500, and trimming runs $500
+to $2,500. Licensed and insured, with the same pricing whether the call comes from
+Hickory, Conover, Newton, Longview, Maiden, Claremont or the rest of Catawba County.</p>
+<p><a href="#quote">Get a Free Estimate</a> · <a href="tel:+18285229430">Call (828) 522-9430</a></p>`;
+const secServices = `<h2>Tree Services in Hickory and Catawba County</h2>
+<h3><a href="/tree-removal/">Tree Removal</a></h3>
+<p>Whole-tree drops in open yards, climbing jobs beside a house or power line, and crane work
+for large or hazardous trees. Every removal starts with a site inspection to plan the drop
+or the rigging, followed by a written price before any saw starts. Standing dead pines,
+storm-weakened oaks, and healthy trees that simply need to come out for a new build or a
+view all get the same process: assess the lean and the root condition, quote it in
+writing, then fell or section it depending on what's around it. A whole tree drops in one
+piece in an open yard. Anything near a house, a fence or a power line comes down in
+sections instead, roped and lowered rather than let fall. The stump gets ground the same
+day if you want it gone, and everything cut gets hauled or chipped before the crew leaves.
+From $500, with most jobs landing between $500 and $3,000 depending on the tree's size and
+how hard it is to reach.</p>
+<h3><a href="/tree-trimming/">Tree Trimming</a></h3>
+<p>Structural pruning on young trees, canopy thinning on mature ones, deadwood removal, and
+clearance cuts away from a roofline or power line. A bucket truck handles most clearance
+and canopy work, and climbing gear comes out for limbs a truck can't reach. The point of
+structural pruning while a tree is young is correcting a weak union, a codominant trunk or
+included bark, before it becomes a removal problem ten years later. On a mature tree,
+thinning a heavy, top-heavy canopy is what lets it shed wind and rain weight in a storm
+instead of losing a limb or going over at the roots. Every cut gets hauled away before the
+crew leaves. Trimming usually runs $500 to $2,500 depending on scope, tree size and how
+much climbing the job needs.</p>
+<h3><a href="/emergency-storm-damage-tree-removal/">Emergency Storm Damage Removal</a></h3>
+<p>A tree resting on a roof gets rigged and sectioned differently than one already down in
+the yard, and the crew plans for whichever one shows up. A tree that's already fallen and
+clear of a structure is usually the faster job: section it, haul it, done. A tree still
+resting against a house, a car or a power line has to be assessed for the load it's
+putting on whatever it landed on before a single cut gets made, because cutting the wrong
+piece first can drop the load the wrong way. Response covers homes, cars, driveways and
+yards, with the crew working around downed power lines and structural damage rather than
+around either one alone. Cost is driven mainly by damage and access, running $2,000 to
+$20,000.</p>`;
+const secFullService = `<h2>Full-Service Tree Care</h2>
+<p>Beyond removal, trimming and storm response, the crew also covers the rest of what a
+Catawba County property actually needs. Stump grinding starts at $150 and grinds it flush below grade, whether it's one left from today's job or several from an earlier removal, including work another crew did. Land clearing runs $2,500 to $12,000 or more per
+acre for a build site, a driveway or a pasture, cleared tree by tree rather than pushed in
+bulk so what stays gets marked and kept. Hazardous tree removal, for a standing dead or
+visibly leaning tree, runs $500 to $9,000 or more depending on lean and location relative
+to a structure. A certified arborist assessment, worked to ANSI A300, starts at $250 for a
+tree health diagnosis, a risk assessment, or a treatment recommendation before anyone
+decides to remove instead of treat. Cabling and bracing is an alternative to removal for a structurally weak tree with a split union or a storm-prone lean. It starts with that same $250 to $1,000 assessment, then installs steel cable or support rods instead of taking the tree down. Tree fertilization for a nutrient-deficient tree runs $500 to $2,000 or more,
+based on a soil test rather than a bag off a store shelf.</p>
+<p>The crew also covers brush clearing along fence lines and property edges, and hedge and
+shrub trimming priced at the visit for boxwood, holly and foundation plantings. Tree
+planting includes species selection and correct root flare depth rather than whatever's on
+sale, and tree transplanting moves an established tree by tree spade rather than removing
+it outright when it's worth saving. Debris hauling and wood chip removal is often included
+in a $500 removal, or priced on its own when a homeowner already has cut wood to clear.
+Bush hogging flattens overgrown pasture, fence lines and rural acreage with a rotary
+cutter, far faster than hand clearing. Commercial tree service covers removal, trimming, stump grinding and land clearing for multi-tenant and business properties. It's scoped at a site walk-through that accounts for tenant access and the hours the property can tolerate a crew on site. A certificate of insurance goes to the property manager or general
+contractor before the crew arrives. Ask about any of it when you call.</p>`;
+const secWhyTrees = `<h2>Why Hickory Trees Need Professional Care, Not a Weekend Job</h2>
+<p>Hickory gets about 45 inches of rain a year over roughly 107 days, and most yards here sit
+on sandy loam. Sandy loam drains faster than clay, but it still saturates during a
+sustained rain, and it holds a tree's roots less firmly than denser soil once the ground is
+wet through. That combination is why mature trees here are more likely to uproot whole
+than to just shed a limb in a storm. Catawba County also sees close to 85 freezing days a
+year, and each freeze-thaw cycle widens any weak branch union or existing trunk defect a
+little further. Loblolly pine, common across this area, holds dense, top-heavy growth that
+catches wind hard once it's gone too long without thinning, and it's shallow-rooted for its
+height on top of that. Water oak and red maple carry a different risk: a codominant trunk
+with included bark at the union, which is a structural weak point whether or not the tree
+looks healthy from the outside. Knowing which risk applies to which species, and cutting or
+rigging accordingly, is the difference between a job that goes as planned and one that
+doesn't.</p>`;
+const secProcess = `<h2>How a Tree Service Job Runs</h2>
+<p>Every job, from a single stump to a multi-acre clearing, follows the same order. First, a
+site inspection: the crew looks at the tree's lean, root condition, and proximity to a
+structure, fence or power line, or walks the land being cleared to mark what stays. Second,
+a written price, before any saw starts and before anything gets cut. Third, the work itself, done with equipment sized to the job. A bucket truck and ground crew handle open-yard removal or trimming, climbing gear and rigging cover anything near a structure, and a crane takes a large or technical drop. Fourth, cleanup: debris hauled or chipped, a stump ground
+below grade if you want it gone, and the site left the way it was found aside from the tree
+that came down. Nothing about that order changes for an emergency call. It just compresses,
+because the assessment and the written price still happen before a saw starts, they just
+happen faster.</p>`;
+const secWhyChoose = `<h2>Why Choose Tree Service Hickory NC</h2>
+<p>What separates a good tree job from a bad one usually comes down to five things.</p>
+<ul>
+<li><strong>Licensed and insured</strong> on every job, residential or commercial.</li>
+<li><strong>Free estimates</strong>, with a written price before anything is cut.</li>
+<li><strong>One crew for the whole scope</strong>: removal, trimming, stump grinding and land clearing,
+  without subcontracting between trades or handing off between crews.</li>
+<li><strong>Equipment matched to the job</strong>: a bucket truck and ground crew for open-yard work,
+  climbing gear and rigging near a structure or power line, and a crane for large or
+  technical drops.</li>
+<li><strong>The same pricing everywhere in Catawba County</strong>, with no travel charge added for the
+  towns outside Hickory.</li>
+</ul>`;
+const secServiceArea = `<h2>Service Area</h2>
+<p>Tree Service Hickory NC covers Hickory and twelve other Catawba County towns: Conover,
+Newton, Longview, Maiden, Claremont, Catawba, Sherrills Ford, Terrell, Mountain View, St
+Stephens, Startown and Brookford. All of them get the same pricing and the same crew, with
+no separate travel charge anywhere on that list.</p>`;
+const closeBody = `<p>Removal starts at $500 and trimming runs $500 to $2,500, with the number in writing before
+anything is cut. Licensed and insured, free estimates, and the same pricing across Hickory
+and the rest of Catawba County.</p>
+<p>Call Tree Service Hickory NC at (828) 522-9430, or send the details and we'll come look.</p>`;
+
+const faqs = [
+  { q: `How much does tree service cost in Hickory, NC?`, a: `Removal starts at a $500 minimum, and most jobs run $500 to $3,000 depending on tree size and access. Trimming runs $500 to $2,500 depending on scope, stump grinding starts at $150, and land clearing runs $2,500 to $12,000 or more per acre. Every job gets a written price before a saw starts, so the number is never a surprise once the work begins.` },
+  { q: `Do you handle emergency storm damage?`, a: `Yes. A tree down on a house, a car or a driveway gets handled the way access allows. Cost runs $2,000 to $20,000, driven mainly by damage and access rather than a flat rate.` },
+  { q: `Do I need a permit to remove a tree on my own property in Hickory?`, a: `No. Ordinary residential tree removal on a single-family or two-family lot does not require a city permit under Hickory's Land Development Code. A permit applies only to a tree in a public right-of-way or a job tied to new commercial construction, and we handle that permit when it's needed.` },
+  { q: `What towns do you serve?`, a: `Hickory and the rest of Catawba County. No separate travel charge applies to the towns outside Hickory.` },
+  { q: `Are you licensed and insured?`, a: `Yes, on every job, residential and commercial.` },
+  { q: `What's the difference between tree trimming and tree removal?`, a: `Trimming cuts back limbs and leaves the tree standing. Removal takes the whole tree down. A tree that looks stressed rather than obviously dead is usually a trimming or an assessment question first, not an automatic removal.` },
+  { q: `Do you grind stumps left behind by another crew?`, a: `Yes, single stumps, several from the same removal, or ones another crew left. All of them get ground flush below grade starting at $150.` },
+  { q: `What does land clearing cost in Hickory?`, a: `$2,500 to $12,000 or more per acre, depending on vegetation and access. Every job starts with a walk of the property to mark what stays and what comes out, then a written price by the acre.` },
+  { q: `Do you offer certified arborist assessments?`, a: `Yes. An ISA-certified arborist assessment, worked to ANSI A300, starts at $250. It covers a tree health diagnosis, a risk assessment, or a written treatment recommendation before anyone decides to remove instead of treat.` },
+  { q: `Why do trees uproot here instead of just losing limbs?`, a: `Sandy loam soil drains fast but still saturates during Hickory's roughly 45 inches of annual rain, which loosens root anchorage on a saturated lot. A shallow-rooted species like loblolly pine is the most common one this affects.` },
+  { q: `Can you tell me which service I actually need before I call?`, a: `Usually, yes, over the phone, once we know what the tree looks like and what's near it. A short description and a photo if you have one is often enough to point you toward removal, trimming, an assessment, or cabling and bracing before a crew ever comes out.` },
+  { q: `Do you offer financing or payment plans for larger jobs?`, a: `Larger jobs like land clearing or a multi-tree removal are quoted as one written price before work starts. Payment terms for a job that size get discussed at the estimate, not assumed ahead of time.` },
+  { q: `What happens to the wood after a tree comes down?`, a: `Debris hauling and chipping is part of most removals, and it's often included in the $500 minimum rather than billed as a separate line. Larger trunk sections can sometimes be left on site if you want the firewood, which is worth mentioning at the estimate.` }
+];
+---
+<BaseLayout
+  title={`Tree Service Hickory NC | Removal, Trimming & Storm Damage`}
+  description="Tree Service Hickory NC covers removal, trimming and storm damage across Catawba County. Removal from $500. Licensed and insured. Free estimate."
+  business={true}
+  faqs={faqs}
+>
+
+  {/* 1 — opener. Two paragraphs plus the CTA line, then the form, both above the fold. */}
+  <section class="hero" style={heroStyle}>
+    <div class="wrap">
+      <div class="hero-grid">
+        <div class="hcard">
+          <span class="tag">REMOVAL · TRIMMING · STORM DAMAGE</span>
+          <h1>Tree Service in Hickory, NC</h1>
+          <div class="lede" set:html={opener} />
+        </div>
+        <QuoteForm heading="Get a Free Estimate" source="homepage" />
+      </div>
+    </div>
+  </section>
+
+  {/* 2 — the three money pages, verbatim from copy/homepage.md */}
+  <section class="cream">
+    <div class="wrap">
+      <article class="prose" set:html={secServices} />
+    </div>
+  </section>
+
+  {/* 3 — photo band with the primary ask. */}
+  <section class="photoband" style={bandStyle}>
+    <div class="inner">
+      <div class="band-card">
+        <div class="t2">Not sure what your tree actually needs?</div>
+        <p>Tell us what it looks like and where it stands. You get a real number and a real
+        timeline on site, before anything is cut, and the estimate costs nothing either way.</p>
+        <p style="margin-top:20px"><a class="cta" href="#quote">Get a Free Estimate</a></p>
+      </div>
+    </div>
+  </section>
+
+  {/* 4 — full-service tree care, named but not linked (long-tail layer). */}
+  <section>
+    <div class="wrap">
+      <article class="prose narrow" set:html={secFullService} />
+    </div>
+  </section>
+
+  {/* 5 — photo alongside a short block */}
+  <div class="imgrow">
+    <div class="ph">
+      <img src={IMAGES.trimming.src} alt={IMAGES.trimming.alt} width="1600" height="1000" loading="lazy" />
+    </div>
+    <div class="txt">
+      <div class="t3">One crew, one quote</div>
+      <p>Cutting, rigging, hauling and cleanup run as one job on one schedule, rather than a
+      crew that drops the wood and leaves the cleanup to you.</p>
+      <p style="margin-top:20px"><a class="cta" href="#quote">Get a Free Estimate</a></p>
+    </div>
+  </div>
+
+  {/* 6 — the local angle. Climate and soil, because both are sourceable. */}
+  <section class="cream">
+    <div class="wrap">
+      <article class="prose narrow" set:html={secWhyTrees} />
+    </div>
+  </section>
+
+  {/* 7 — process, named steps. */}
+  <section>
+    <div class="wrap">
+      <article class="prose narrow steps" set:html={secProcess} />
+    </div>
+  </section>
+
+  {/* 8 — why us. */}
+  <section class="cream">
+    <div class="wrap">
+      <article class="prose narrow" set:html={secWhyChoose} />
+    </div>
+  </section>
+
+  {/* 9 — service area. */}
+  <section>
+    <div class="wrap">
+      <article class="prose narrow" set:html={secServiceArea} />
+    </div>
+  </section>
+
+  {/* 10 — service area band, FAQ, close. */}
+  <LocationsBand bg="landClearing" linked={false} />
+
+  <Faq items={faqs} heading="Tree Service Questions We Get Asked in Hickory" />
+
+  <section class="close">
+    <div class="wrap">
+      <div class="t2">Get Your Tree Service Job Quoted</div>
+      <div set:html={closeBody} />
+      {SHOW_CALL_CTA && (
+        <div class="cta-row" style="margin-top:24px">
+          <a class="cta" href={CALL_CTA.href}>{CALL_CTA.label}</a>
+          <a class="cta ghost" href="#quote">Get a Free Estimate</a>
+        </div>
+      )}
+    </div>
+  </section>
+</BaseLayout>
