@@ -106,7 +106,7 @@ problems later, once soil gets placed over ground that was not actually clear. C
 in wet conditions without accounting for drainage can leave standing water on graded
 land that used to shed rain through the trees that are now gone.
 
-## What We Do and What We Don't
+## What Land Clearing Includes (and What It Doesn't)
 
 We clear brush, remove trees of any size, and grind or pull stumps as the job calls
 for. We do not do the grading, fill or utility work a build site needs after clearing,

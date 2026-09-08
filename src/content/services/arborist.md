@@ -111,7 +111,7 @@ sense of what looks right. That means pruning cuts sized correctly to the branch
 a documented basis for any removal recommendation, and a soil or root diagnosis before a
 fertilization plan gets written, not after.
 
-## What We Do and What We Don't
+## What Arborist Services Include (and What They Don't)
 
 We diagnose tree health, assess structural risk, and recommend the right next step,
 treatment, pruning, cabling or removal. We do not apply restricted-use pesticide or

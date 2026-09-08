@@ -70,7 +70,7 @@ A final pass catches any missed strips along fence lines or edges, and any large
 
 Mowing over a hidden stump, rock or piece of buried debris without a walk-through first can damage the cutter blade or throw debris at speed, a real safety risk for anyone nearby. Cutting too close to a fence line without spotting the actual property boundary first can knock down a neighbor's fence or a section that was meant to stay standing. Running a bush hog over saplings too thick for the cutter can stall the tractor or leave a jagged, half-cut stand rather than a clean flat pass. Skipping a hazard check on acreage with a well, a septic field or buried utility lines risks real damage a homeowner does not find out about until later.
 
-## What We Do and What We Don't
+## What Bush Hogging Includes (and What It Doesn't)
 
 We mow overgrown pasture, fence lines, ATV trails and rural acreage flat with a rotary cutter. We do not selectively clear or preserve specific plants and trees while mowing, that precision work is [brush clearing](/brush-clearing), done by hand rather than with a tractor. We do not remove stumps, grade the ground or clear a lot down to bare dirt for construction, that is [land clearing](/land-clearing), priced and equipped differently. If a field has a tree or fence line worth marking off before we mow, we flag it at the walk-through instead of running the cutter over it.
 

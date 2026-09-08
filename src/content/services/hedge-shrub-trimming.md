@@ -70,7 +70,7 @@ Cuttings get raked, bagged or hauled the same visit, and the crew leaves the pro
 
 A crew that shapes a hedge to the same outline every visit without ever cutting back into older wood can leave a shell of green growth over a dead, woody core that stops filling in. Trimming a flowering shrub at the wrong time of year can cut off the wood that would have produced next season's blooms. Cutting an overgrown hedge back too hard in one visit can shock the plant and leave bare, brown patches that take a full season to fill back in. Skipping the health check and shaping around dead or diseased wood rather than removing it lets a problem spread to the rest of the hedge.
 
-## What We Do and What We Don't
+## What Hedge and Shrub Trimming Includes (and What It Doesn't)
 
 We shape hedges, foundation shrubs and property-line plantings in any yard, and clear the cuttings the same visit. We do not diagnose or treat plant disease with fungicide or pesticide, that work calls for a pesticide applicator license from the state. We point you toward who handles it if a shrub looks diseased rather than just overgrown. We do not remove a hedge or shrub entirely and grind the root ball unless you ask for it as part of the same job. If a hedge trim call turns out to be an actual tree needing canopy work, we say so at the visit rather than shaping it the wrong way.
 

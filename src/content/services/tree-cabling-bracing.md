@@ -70,7 +70,7 @@ The finished install gets inspected from the ground and from the canopy, and you
 
 A split union left unsupported eventually opens further under wind or ice load, often failing in a storm rather than on a predictable schedule. Cabling installed without a proper assessment can end up supporting the wrong union while missing the one that is actually failing. Hardware installed too rigid for the tree's natural movement can create a new stress point at the anchor rather than relieving the original one. Skipping the reassessment a cabled tree needs every few years lets a system that was correct when installed fall out of date as the tree keeps growing.
 
-## What We Do and What We Don't
+## What Tree Cabling and Bracing Includes (and What It Doesn't)
 
 We assess, cable and brace trees with a structural issue that has not progressed to full hazard, and reassess installed systems on request. We do not install cabling on a tree that has already failed structurally, that tree needs removal, and we say so plainly at the assessment rather than installing hardware that will not hold. We do not diagnose or treat tree disease with fungicide or pesticide, that work calls for a pesticide applicator license from the state. If a tree needs a full health workup rather than a structural one, our certified arborist handles that assessment instead.
 

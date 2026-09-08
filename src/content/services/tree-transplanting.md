@@ -70,7 +70,7 @@ Soil goes back around the root ball, stakes go in if the tree's size calls for e
 
 Attempting to move a tree with a trunk diameter too large for the equipment on hand can tear or crush the root ball beyond what the tree can recover from. Transplanting during the growing season rather than the dormant season puts a tree under far more stress than it can handle while also trying to push new growth. Skipping a root health check before the move can waste the effort on a tree whose roots were already compromised and were never going to survive relocation regardless of timing. Failing to keep up a consistent watering schedule after the move is one of the most common reasons an otherwise well-executed transplant still fails to establish.
 
-## What We Do and What We Don't
+## What Tree Transplanting Includes (and What It Doesn't)
 
 We transplant small to medium trees with a trunk diameter suited to our tree spade equipment, evaluate root health first, and handle the full move in one visit. We do not attempt to transplant a large mature tree. A trunk that size calls for a removal-and-replant situation rather than a spade job, and we say so plainly instead of promising a move that will not survive. We do not diagnose disease on a tree being considered for transplant, that calls for our [Certified Arborist](/arborist) assessment first if the tree looks stressed already. If a property's tree is a better candidate for removal and a fresh planting than a move, we recommend that instead.
 

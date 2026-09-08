@@ -59,7 +59,7 @@ dead or diseased tree sits at the higher end of the range, similar to any large
 removal. You get an exact number after the inspection, in writing, before anything is
 cut.
 
-## How Long It Takes
+## How Long Deadwood and Diseased Tree Removal Takes in Hickory
 
 Deadwooding a handful of limbs from an otherwise healthy tree usually takes under two
 hours. A full removal of a dead or diseased tree takes about as long as a standard
@@ -68,7 +68,7 @@ severely diseased tree with brittle wood can actually take extra care, since dea
 disease-weakened wood can fail unpredictably during the cut rather than behaving like
 sound timber. You get a time estimate at the inspection based on the actual tree.
 
-## How the Job Runs, Start to Finish
+## How a Deadwood and Diseased Tree Removal Job Runs, Start to Finish
 
 Every job follows the same four stages, whether it is a few dead limbs or a full
 removal.
@@ -92,7 +92,7 @@ care taken around brittle or hollow sections.
 Limbs, trunk sections and debris get hauled off the same day. If you want the stump
 ground after a full removal, that is available in the same visit.
 
-## What Goes Wrong When This Is Done Badly
+## What Goes Wrong When Deadwood and Diseased Tree Removal Is Done Badly
 
 Cutting into disease-weakened or dead wood without accounting for how brittle it is
 can cause a limb or section to fail unpredictably mid-cut. Leaving dead limbs in a
@@ -103,13 +103,13 @@ promptly lets the infestation spread to healthy trees nearby before anyone acts.
 Skipping the inspection and assuming a dead-looking tree is simple to drop can miss
 that the trunk itself is hollow or compromised, changing how it needs to come down.
 
-## What We Do and What We Don't
+## What Deadwood and Diseased Tree Removal Includes (and What It Doesn't)
 
 We remove dead limbs, deadwood full canopies, and take down trees that are dead or too
 far gone from disease to save. We do not diagnose the specific disease or pathogen involved, that calls for a certified arborist's assessment. We also do not apply fertilizer, fungicide or pesticide, since that work calls for a pesticide applicator license from the state. If a tree looks like it might respond to treatment rather than
 removal, we say so and point you toward who can make that call.
 
-## Why Choose Tree Service Hickory NC
+## Why Choose Tree Service Hickory NC for Deadwood and Diseased Tree Removal
 
 - **Licensed and Insured**: every job is covered, on every property we work.
 - **Deadwooding or Full Removal, Your Call**: the inspection settles honestly which one
@@ -120,7 +120,7 @@ removal, we say so and point you toward who can make that call.
   on the invoice.
 - **Same-Visit Stump Grinding**: available after a full removal, no separate trip.
 
-## What a Typical Job Looks Like
+## What a Typical Deadwood and Diseased Tree Removal Job Looks Like
 
 A homeowner calls about a loblolly pine with browning needles starting at the top and
 small pitch tubes on the bark, a sign of southern pine beetle. The inspection confirms

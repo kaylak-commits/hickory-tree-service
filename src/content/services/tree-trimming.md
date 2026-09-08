@@ -22,7 +22,7 @@ faqs:
     a: "Yes. For a tree already down or hanging after a storm, see our [Emergency Storm Damage Tree Removal](/emergency-storm-damage-tree-removal) page."
 ---
 
-## Why Hickory Trees Need Regular Trimming
+## Why Trees in Hickory, NC Need Regular Trimming
 
 Hickory gets about 45 inches of rain a year over roughly 107 days, and the sandy loam
 soil under most yards here holds a tree's roots less firmly than denser soil once the
@@ -138,7 +138,7 @@ Loblolly pine and other heavy-canopied species get thinned rather than topped fo
 resistance. Oak and maple structural work is timed to the tree's dormant season where
 the job allows it, which reduces stress on the tree.
 
-## What We Do and What We Don't
+## What Tree Trimming Includes (and What It Doesn't)
 
 We prune, thin, deadwood and clear limbs from live and structurally sound trees. We do
 not diagnose or treat tree disease, and we do not apply fertilizer or pesticide, that

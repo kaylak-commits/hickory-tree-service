@@ -105,7 +105,7 @@ underlying problem keeps spreading. Skipping the soil check on Hickory's sandy l
 particular risks applying a feeding that leaches past the root zone before the tree
 gets the benefit.
 
-## What We Do and What We Don't
+## What Tree Fertilization Includes (and What It Doesn't)
 
 We diagnose nutrient deficiencies, test soil at the root zone, and apply root-zone or
 deep-root fertilization matched to species and soil condition. We do not apply

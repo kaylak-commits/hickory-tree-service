@@ -70,7 +70,7 @@ The tree gets watered in immediately, and you get a watering schedule for the fi
 
 Planting a tree too deep, burying the root flare under extra soil, is one of the most common mistakes and one of the slowest to show up, often not causing visible decline for several years. Skipping species selection and planting whatever is available can put a beetle-vulnerable pine or a wilt-vulnerable oak right next to existing disease pressure. Staking too tight or leaving stakes on too long can girdle a trunk as it grows. No staking at all on a tall, top-heavy tree can let wind rock the root ball loose before it establishes. Watering on a fixed schedule rather than checking actual soil moisture in Hickory's fast-draining sandy loam can leave a new planting dry between waterings even after a rain.
 
-## What We Do and What We Don't
+## What Tree Planting Includes (and What It Doesn't)
 
 We select species, plant and stake new trees, and provide the first watering and care instructions the tree needs. We do not guarantee survival, since weather, soil and homeowner watering after we leave all affect an establishing tree, though proper root flare depth and staking give a planting its best chance. We do not diagnose disease on an existing mature tree as part of a planting job, that calls for our [Certified Arborist](/arborist) assessment instead. If a property already has a tree worth keeping rather than replacing, we say so instead of recommending a new planting.
 

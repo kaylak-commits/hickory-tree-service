@@ -82,7 +82,7 @@ The yard gets a final pass to catch smaller debris the equipment missed, leaving
 
 A pile of limbs and brush left against a fence or structure becomes a fire hazard that sits there long after the original job is finished. Wet debris left on a lawn for weeks can kill the grass underneath and leave a bare patch that takes a season to recover. Storm-downed material left in a yard can hide a hazard, a broken branch under leaves, or attract pests looking for shelter in a wet pile. Trunk sections too heavy to move by hand, left behind by a crew without the right equipment, often turn into a second, more expensive call once a homeowner tries to deal with them alone.
 
-## What We Do and What We Don't
+## What Debris Hauling Includes (and What It Doesn't)
 
 We haul or chip limbs, trunk sections and brush from our own jobs and from work another crew or a storm has already done. We do not haul general household debris, construction waste or yard clippings unrelated to tree work, that calls for a general hauling or waste service instead. We do not haul debris off a property without a walk-through first if the volume is large enough that pricing over the phone would not be accurate. If cut wood is a usable firewood size and species, we leave it on request rather than hauling it away by default.
 

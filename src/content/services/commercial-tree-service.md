@@ -71,7 +71,7 @@ Debris gets hauled the same day, the lot is left walkable, and any documentation
 
 A crew without a certificate of insurance on file can leave a property manager exposed if something is damaged mid-job, a real cost on a property with tenants or customers on site. Work scheduled during business hours without coordinating with the property can block an entrance, a loading dock or a fire lane, drawing complaints or a code issue. A trimming job cut to a rough canopy height rather than a proper clearance line grows back into the same sightline or signage problem within a season. Skipping the walk-through and quoting a commercial job over the phone almost always produces a change order once the crew sees the actual site, a cost the property was never told about up front.
 
-## What We Do and What We Don't
+## What Commercial Tree Service Includes (and What It Doesn't)
 
 We handle removal, trimming, stump grinding, land clearing and debris hauling on commercial and multi-tenant properties of any size. We do not handle landscape design, irrigation or paving work that follows a clearing job, and can point a property manager toward who does. We do not diagnose or treat tree disease or apply fertilizer, that work calls for a pesticide applicator license from the state. If a property's job needs a landscape plan reviewed under the City of Hickory's commercial development code, we say so at the walk-through rather than starting work that a permit review would hold up.
 

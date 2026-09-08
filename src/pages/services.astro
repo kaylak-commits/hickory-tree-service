@@ -13,9 +13,9 @@ import QuoteForm from '../components/QuoteForm.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import { IMAGES, SITE, PRICING, type ImageKey } from '../config';
 
-const services = (await getCollection('services')).sort(
-  (a, b) => (a.data.order ?? 99) - (b.data.order ?? 99)
-);
+const services = (await getCollection('services'))
+  .filter((s) => s.id !== 'service-areas')
+  .sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99));
 const locations = (await getCollection('locations')).sort((a, b) =>
   a.data.town.localeCompare(b.data.town)
 );
@@ -47,13 +47,13 @@ const heroStyle =
   <section>
     <div class="wrap">
       <h2>Tree Services</h2>
-      <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:30px;margin-top:30px">
+      <div class="services-index-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:30px;margin-top:30px">
         {services.map((s) => {
           const img = IMAGES[s.data.hero as ImageKey] ?? IMAGES.heroCrew;
           const price = PRICING.find((p) => p.slug.replace(/\/$/, '') === `/${s.id}`);
           return (
             <a href={`/${s.id}/`} style="text-decoration:none;color:inherit;display:block;border:1px solid var(--line)">
-              <div class="ph" style="min-height:220px;border:0">
+              <div class="ph" style="border:0">
                 <img src={img.src} alt={img.alt} width="1600" height="1000" loading="lazy" />
               </div>
               <div style="padding:24px">

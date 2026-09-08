@@ -111,7 +111,7 @@ maple causes sudden branch death and is soil-borne rather than airborne. Water o
 be hollow inside while looking healthy from the outside, which is part of why a visual
 check alone is not a diagnosis.
 
-## What We Do and What We Don't
+## What Tree Health Assessments Include (and What They Don't)
 
 We diagnose tree health against known species and disease entities, assess structural
 risk, and give a written recommendation. We do not apply restricted-use pesticide or

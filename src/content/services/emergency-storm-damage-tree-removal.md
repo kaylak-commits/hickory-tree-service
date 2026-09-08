@@ -22,7 +22,7 @@ faqs:
     a: "No, that is a different trade. We clear the tree and can point you to a contractor for structural repairs once the tree itself is gone."
 ---
 
-## Why Storm Damage Hits Hickory Trees Hard
+## Why Storm Damage Hits Trees Hard in Hickory, NC
 
 Hickory gets about 45 inches of rain a year, and the sandy loam soil under most yards
 saturates during a heavy storm rather than draining it off. Saturated ground holds a
@@ -130,7 +130,7 @@ warning and no control over where it lands. Skipping the phone assessment is the
 common shortcut. It sends a crew in blind, without knowing whether power lines are
 involved, which makes it the most dangerous one too.
 
-## What We Do and What We Don't
+## What Emergency Tree Removal Includes (and What It Doesn't)
 
 We remove storm-damaged trees and limbs from structures, vehicles, driveways and
 yards, and we clear hung and leaning trees under controlled rigging. We do not work

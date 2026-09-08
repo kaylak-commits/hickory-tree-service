@@ -112,7 +112,7 @@ step and cutting into a tree that turns out to be hollow or already split can ca
 to fail unpredictably mid-cut. A dead or diseased tree left standing near a property
 line can also spread the same disease or pest pressure to healthy trees nearby.
 
-## What We Do and What We Don't
+## What Hazardous Tree Removal Includes (and What It Doesn't)
 
 We remove hazardous trees of any size, standing dead, leaning, split or storm-
 weakened. We do not repair the fence, roof or structure a tree may have already

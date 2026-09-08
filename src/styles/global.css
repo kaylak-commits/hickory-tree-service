@@ -454,3 +454,8 @@ header nav li.has-sub:last-of-type ul.sub .sub-all{grid-column:1/-1}
   header nav li.has-sub:last-of-type:hover > ul.sub,
   header nav li.has-sub:last-of-type:focus-within > ul.sub{display:flex}
 }
+
+/* /services index grid — fixed photo height so cards line up regardless of
+   column width; .ph alone only had min-height here, which doesn't reliably
+   resolve img{height:100%} and let photos render at uneven heights. */
+.services-index-grid .ph{height:220px}

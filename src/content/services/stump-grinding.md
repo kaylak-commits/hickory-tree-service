@@ -121,7 +121,7 @@ grading tolerances are different from a lawn. Large surface roots radiating out 
 the stump get ground back several feet where they would otherwise interfere with
 mowing or a walkway.
 
-## What We Do and What We Don't
+## What Stump Grinding Includes (and What It Doesn't)
 
 We grind stumps of any size, single or multiple, fresh or old. We do not fill or
 regrade the resulting hole beyond raking the chips level, that is landscaping work we

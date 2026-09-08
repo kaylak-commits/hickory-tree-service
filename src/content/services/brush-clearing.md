@@ -70,7 +70,7 @@ Cut brush gets hauled off the yard or run through a chipper on site, based on wh
 
 A crew cutting vines out of a tree canopy without care can strip live bark or break limbs the vine had grown into over several seasons. Clearing a fence line without marking the actual property boundary first can put equipment on a neighbor's land by mistake. Leaving root balls and sapling stumps in the ground after a rushed job lets the same brush grow back within a year. Cutting alone does not stop resprouting the way pulling or grinding the roots does. Piling cut brush against a fence or a structure rather than hauling it off creates a fire hazard that sits there long after the job is supposedly finished.
 
-## What We Do and What We Don't
+## What Brush Clearing Includes (and What It Doesn't)
 
 We clear brush, vines, saplings and underbrush from yards, fence lines and property edges of any size. We do not clear a wooded lot for a new build or a driveway, that is a land-clearing job priced per acre, and we point every caller in that direction if the scope is actually acreage. We do not remove healthy ornamental shrubs or hedges someone wants shaped rather than cleared, that work is [hedge and shrub trimming](/hedge-shrub-trimming), not clearing. If a section has a mature tree worth keeping mixed in with the brush, we flag it at the walk-through rather than cutting around it blind.
 

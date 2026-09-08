@@ -151,7 +151,7 @@ is tied to new construction, we handle that permit for you. Water oak can be hol
 inside while looking healthy from the outside, so a crew checks each one for rot and
 weak spots before setting a felling plan, not just cutting on sight.
 
-## What We Do and What We Don't
+## What Tree Removal Includes (and What It Doesn't)
 
 We remove trees, trim and prune, grind stumps and clear land. We do not diagnose or treat
 tree disease, and we do not apply fertilizer or pesticide, that work calls for a pesticide
