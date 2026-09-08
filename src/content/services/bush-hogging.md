@@ -24,7 +24,7 @@ faqs:
 
 Pasture and fence-line growth comes back fast here on about 45 inches of rain a year, so rural acreage that skips a season of mowing can look like it has not been touched in years. See our [Tree Removal](/tree-removal) page for the local climate detail behind that.
 
-## Tree Services We Provide
+## Other Tree Services We Provide in Hickory
 
 ### Land Clearing
 Full acreage clearing tree by tree for a build site, priced per acre. See our [Land Clearing](/land-clearing) page if the job is a build site rather than open pasture.
@@ -46,11 +46,11 @@ Three services get requested for the same overgrown acreage and they leave very 
 
 A mowing job like this is priced per acre at the walk-through rather than a flat number. The cost depends on how thick and tall the growth is, how much of it is woody sapling versus soft brush, and how the tractor can access the acreage. Open pasture with soft growth mows faster and cheaper per acre than a fence line thick with saplings or brambles the cutter has to work through slowly. A property with rough terrain, ditches or limited tractor access also affects the per-acre rate. You get an exact price for your actual acreage after the walk-through, before the tractor arrives.
 
-## How Long Bush Hogging Takes
+## How Long Bush Hogging Takes in Hickory
 
 A single open acre of soft pasture growth can usually be mowed in well under an hour with a rotary cutter. Thicker growth, woody saplings, or acreage with rough terrain that slows the tractor down takes longer per acre than open ground. A larger property, several acres of pasture or fence line, scales up from there, and access matters too, a field the tractor can drive straight into moves faster than one needing a path cleared first. You get a time estimate at the walk-through, based on your actual acreage and terrain.
 
-## How a Bush Hogging Job Runs, Start to Finish
+## How a Bush Hogging Job Runs in Hickory, Start to Finish
 
 Every bush hogging job follows the same four stages, whether it is one field or several acres of rural land.
 
@@ -66,11 +66,11 @@ The tractor makes overlapping passes across the acreage with the rotary cutter, 
 ### Final Pass and Cleanup
 A final pass catches any missed strips along fence lines or edges, and any larger debris the cutter could not process gets flagged for hauling.
 
-## What Goes Wrong When Bush Hogging Is Done Badly
+## What Goes Wrong When Bush Hogging Is Done Badly in Hickory
 
 Mowing over a hidden stump, rock or piece of buried debris without a walk-through first can damage the cutter blade or throw debris at speed, a real safety risk for anyone nearby. Cutting too close to a fence line without spotting the actual property boundary first can knock down a neighbor's fence or a section that was meant to stay standing. Running a bush hog over saplings too thick for the cutter can stall the tractor or leave a jagged, half-cut stand rather than a clean flat pass. Skipping a hazard check on acreage with a well, a septic field or buried utility lines risks real damage a homeowner does not find out about until later.
 
-## What Bush Hogging Includes (and What It Doesn't)
+## What Bush Hogging Includes in Hickory (and What It Doesn't)
 
 We mow overgrown pasture, fence lines, ATV trails and rural acreage flat with a rotary cutter. We do not selectively clear or preserve specific plants and trees while mowing, that precision work is [brush clearing](/brush-clearing), done by hand rather than with a tractor. We do not remove stumps, grade the ground or clear a lot down to bare dirt for construction, that is [land clearing](/land-clearing), priced and equipped differently. If a field has a tree or fence line worth marking off before we mow, we flag it at the walk-through instead of running the cutter over it.
 
@@ -82,11 +82,11 @@ We mow overgrown pasture, fence lines, ATV trails and rural acreage flat with a 
 - **Hazard Check Before the Tractor Arrives**: fence lines, wells, buried debris and property boundaries all get flagged first.
 - **[Tree Service Hickory NC](/)** also handles the tree removal, land clearing and debris hauling that a rural property sometimes needs alongside a mowing job.
 
-## What a Typical Bush Hogging Job Looks Like
+## What a Typical Bush Hogging Job Looks Like in Hickory
 
 A landowner calls about three acres of pasture that has not been mowed in two seasons and has grown up with brambles and young saplings along the fence line. The walk-through flags the fence posts, a shallow ditch running through the middle of the field, and a scattering of buried debris near an old barn site. The tractor makes overlapping passes across the open pasture, then works more slowly along the bramble-thick fence line. The field is left flat and walkable the same day, with the debris near the barn site flagged for a separate haul-off.
 
-## Where We Work
+## Where We Provide Bush Hogging in Hickory
 
 A rural lot outside Hickory and a pasture out toward Conover both get the same tractor, the same per-acre rate and the same hazard check first. See our [Service Areas](/service-areas) page for the full list of Catawba County towns we cover.
 

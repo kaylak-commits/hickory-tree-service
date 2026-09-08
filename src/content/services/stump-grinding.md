@@ -26,7 +26,7 @@ Wet ground and sandy loam soil are common across Hickory yards, which is part of
 stump left in place keeps sending up root suckers years later. See our
 [Tree Removal](/tree-removal) page for the local climate detail behind that.
 
-## Tree Services We Provide
+## Other Tree Services We Provide in Hickory
 
 ### Tree Removal
 Full removal of a dead, hazardous or unwanted tree. See our
@@ -72,7 +72,7 @@ under a couple feet across sits at the low end. A wide, old-growth stump, or sev
 stumps ground in the same visit, sits toward the top of that range or above it. You get
 an exact number after we look at the stump, in writing, before the grinder starts.
 
-## How Long Stump Grinding Takes
+## How Long Stump Grinding Takes in Hickory
 
 A single small stump usually grinds out in under an hour once the crew is set up. A
 wide or old stump with an established root flare takes longer, since the grinder works
@@ -80,7 +80,7 @@ in from the edges rather than through the center in one pass. Multiple stumps on
 property add time per stump rather than a flat rate for the visit. You get a time
 estimate when we look at the actual stump, not a generic range.
 
-## How a Stump Grinding Job Runs, Start to Finish
+## How a Stump Grinding Job Runs in Hickory, Start to Finish
 
 Every stump grinding job follows the same four stages, whether it is one stump or a
 whole lot.
@@ -102,7 +102,7 @@ mower.
 ### Cleanup and Chip Removal
 Leftover stump chips get raked out and hauled off, or left in a pile for you to keep for mulch, at your choice. The area is left level and walkable.
 
-## What Goes Wrong When Stump Grinding Is Done Badly
+## What Goes Wrong When Stump Grinding Is Done Badly in Hickory
 
 Grinding shallow instead of down to a proper depth leaves a stump that resurfaces as
 the ground settles, or that a mower catches a year later. Skipping a check for nearby
@@ -121,7 +121,7 @@ grading tolerances are different from a lawn. Large surface roots radiating out 
 the stump get ground back several feet where they would otherwise interfere with
 mowing or a walkway.
 
-## What Stump Grinding Includes (and What It Doesn't)
+## What Stump Grinding Includes in Hickory (and What It Doesn't)
 
 We grind stumps of any size, single or multiple, fresh or old. We do not fill or
 regrade the resulting hole beyond raking the chips level, that is landscaping work we
@@ -142,13 +142,13 @@ so at the inspection rather than grinding blind.
 - **Same-Visit With a Removal**: grind the stump the same day as a tree removal, no
   second trip or second crew.
 
-## What a Typical Stump Grinding Job Looks Like
+## What a Typical Stump Grinding Job Looks Like in Hickory
 
 A homeowner calls about two stumps left in the side yard from trees removed years ago,
 now surrounded by established grass. The inspection finds both stumps solid enough that
 the grinder can work straight through rather than around soft, rotted wood. The crew grinds each stump down below grade, working the surface roots back a few feet from the main flare. The chips get raked into a pile at the edge of the yard for the homeowner to use as mulch. Total time on site runs under two hours for a job this size.
 
-## Where We Work
+## Where We Provide Stump Grinding in Hickory
 
 A grinder and trailer travel the same route across Hickory, Conover and the rest of
 Catawba County at no extra charge, one backyard stump or several on an older lot. See our [Service Areas](/service-areas)

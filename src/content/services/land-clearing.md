@@ -26,7 +26,7 @@ Sandy loam soil and about 45 inches of rain a year mean cleared ground here need
 grading and drainage thought through before it sits bare. See our
 [Tree Removal](/tree-removal) page for the local climate detail behind that.
 
-## Tree Services We Provide
+## Other Tree Services We Provide in Hickory
 
 ### Tree Removal
 Full removal of a single dead, hazardous or unwanted tree. See our
@@ -64,7 +64,7 @@ heavily wooded acre with limited equipment access, or a job requiring stump and 
 removal for a building pad, sits toward the top of that range or above it. You get an
 exact number per acre after we walk the property, in writing, before equipment moves in.
 
-## How Long Land Clearing Takes
+## How Long Land Clearing Takes in Hickory
 
 A single acre of light brush and overgrowth can be cleared in a day with a mulching
 head. A heavily wooded acre with mature trees takes longer, since larger trees get
@@ -73,7 +73,7 @@ its own time on top of the clearing itself. Site access matters too, a lot that
 equipment can reach directly moves faster than one needing a path cut in first. You get
 a time estimate after the walk-through, based on your actual acreage and what is on it.
 
-## How a Land Clearing Job Runs, Start to Finish
+## How a Land Clearing Job Runs in Hickory, Start to Finish
 
 Every land clearing job follows the same four stages, whether it is a quarter acre of
 brush or several wooded acres for a new build.
@@ -95,7 +95,7 @@ brush.
 Larger trunks and unusable material get hauled off, brush gets chipped or left as mulch
 per your preference, and the site is left graded and walkable for whatever comes next.
 
-## What Goes Wrong When Land Clearing Is Done Badly
+## What Goes Wrong When Land Clearing Is Done Badly in Hickory
 
 Pushing everything, brush and mature trees alike, into a single pile rather than
 processing separately wastes usable timber and leaves a burn pile that takes months to
@@ -106,7 +106,7 @@ problems later, once soil gets placed over ground that was not actually clear. C
 in wet conditions without accounting for drainage can leave standing water on graded
 land that used to shed rain through the trees that are now gone.
 
-## What Land Clearing Includes (and What It Doesn't)
+## What Land Clearing Includes in Hickory (and What It Doesn't)
 
 We clear brush, remove trees of any size, and grind or pull stumps as the job calls
 for. We do not do the grading, fill or utility work a build site needs after clearing,
@@ -128,7 +128,7 @@ walk-through rather than clearing it all the same way.
 - **Stump and Debris Options**: grind stumps, chip brush or haul everything off, based
   on what the next step on your land requires.
 
-## What a Typical Land Clearing Job Looks Like
+## What a Typical Land Clearing Job Looks Like in Hickory
 
 A homeowner calls about a half-acre lot they plan to build a driveway and pad across, a
 mix of mature pine and overgrown brush. The walk-through marks which trees stay along
@@ -138,7 +138,7 @@ usable trunks, then grinds the stumps in the building footprint so grading can s
 without hitting buried wood. Total time on site runs about a day and a half for a lot
 this size.
 
-## Where We Work
+## Where We Provide Land Clearing in Hickory
 
 From half-acre residential lots inside Hickory to larger rural parcels out toward
 Conover and the rest of Catawba County, equipment access is confirmed at the

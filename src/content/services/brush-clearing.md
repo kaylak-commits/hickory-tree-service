@@ -24,7 +24,7 @@ faqs:
 
 Sandy loam soil and about 45 inches of rain a year push fast, thick brush growth in any patch of yard that stops getting mowed or maintained. See our [Tree Removal](/tree-removal) page for the local climate detail behind that.
 
-## Tree Services We Provide
+## Other Tree Services We Provide in Hickory
 
 ### Land Clearing
 Full acreage clearing for a build site, driveway or pasture, priced per acre. See our [Land Clearing](/land-clearing) page if your job covers a whole lot rather than a section of yard.
@@ -46,11 +46,11 @@ Two jobs get called the same thing and price very differently. **Brush clearing*
 
 Pricing for this kind of job is set at the walk-through rather than a flat per-acre number, since a short fence line runs very differently from a half-acre of overgrown yard edge. The crew looks at how dense the growth is, how much of it is sapling and vine versus soft brush, and whether stumps or root balls need to come out with it. A section that only needs cutting and hauling runs faster and cheaper than one where saplings have taken root and need pulling or grinding. You get a written price for the section you actually need cleared before any cutting starts.
 
-## How Long Brush Clearing Takes
+## How Long Brush Clearing Takes in Hickory
 
 A single fence line or yard edge can usually be cleared in a few hours. A larger area, or one thick with vines that have climbed into nearby trees and need careful removal to avoid damaging the canopy above, takes longer. Hauling and chipping the cut material off site adds time on top of the cutting itself, more so if a chipper has to come out for a bigger volume of brush. You get a time estimate at the walk-through, based on the actual section of your property being cleared.
 
-## How a Brush Clearing Job Runs, Start to Finish
+## How a Brush Clearing Job Runs in Hickory, Start to Finish
 
 Every brush clearing job runs through the same four stages, whether it is a short fence line or a full yard edge.
 
@@ -66,11 +66,11 @@ Brush, saplings and vines get cut by hand or with a chainsaw, and any stumps or 
 ### Hauling or Chipping
 Cut brush gets hauled off the yard or run through a chipper on site, based on whether you want the material gone or left as mulch.
 
-## What Goes Wrong When Brush Clearing Is Done Badly
+## What Goes Wrong When Brush Clearing Is Done Badly in Hickory
 
 A crew cutting vines out of a tree canopy without care can strip live bark or break limbs the vine had grown into over several seasons. Clearing a fence line without marking the actual property boundary first can put equipment on a neighbor's land by mistake. Leaving root balls and sapling stumps in the ground after a rushed job lets the same brush grow back within a year. Cutting alone does not stop resprouting the way pulling or grinding the roots does. Piling cut brush against a fence or a structure rather than hauling it off creates a fire hazard that sits there long after the job is supposedly finished.
 
-## What Brush Clearing Includes (and What It Doesn't)
+## What Brush Clearing Includes in Hickory (and What It Doesn't)
 
 We clear brush, vines, saplings and underbrush from yards, fence lines and property edges of any size. We do not clear a wooded lot for a new build or a driveway, that is a land-clearing job priced per acre, and we point every caller in that direction if the scope is actually acreage. We do not remove healthy ornamental shrubs or hedges someone wants shaped rather than cleared, that work is [hedge and shrub trimming](/hedge-shrub-trimming), not clearing. If a section has a mature tree worth keeping mixed in with the brush, we flag it at the walk-through rather than cutting around it blind.
 
@@ -82,11 +82,11 @@ We clear brush, vines, saplings and underbrush from yards, fence lines and prope
 - **Marks What Stays**: fence posts, young trees and plants worth keeping get flagged before cutting starts.
 - **[Tree Service Hickory NC](/)** also handles the removal, stump grinding and debris hauling a brush job sometimes turns up along the way.
 
-## What a Typical Brush Clearing Job Looks Like
+## What a Typical Brush Clearing Job Looks Like in Hickory
 
 A homeowner calls about a back fence line buried in privet and honeysuckle vine that has climbed several feet into two young trees along the property line. The walk-through confirms the property boundary and flags the two trees to keep clear of. The crew cuts the vine out of the canopy by hand first, then clears the privet and underbrush along the fence, pulling the smaller root balls so the growth does not come back within a season. Cut material gets hauled off the same afternoon, and the fence line is left clear and walkable.
 
-## Where We Work
+## Where We Provide Brush Clearing in Hickory
 
 A fence line in Hickory and a yard edge out toward Conover get the same crew, the same tools and the same pricing. See our [Service Areas](/service-areas) page for the full list of Catawba County towns we cover.
 

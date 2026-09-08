@@ -24,7 +24,7 @@ faqs:
 
 Hickory's cooler months give a transplanted tree's root system time to settle into sandy loam soil before summer heat puts it under stress. See our [Tree Planting](/tree-planting) page for the local climate detail behind site preparation.
 
-## Tree Services We Provide
+## Other Tree Services We Provide in Hickory
 
 ### Tree Planting
 Putting a new tree in the ground rather than relocating one already established on the property. See our [Tree Planting](/tree-planting) page.
@@ -46,11 +46,11 @@ Three things decide whether a tree is worth moving instead of removing. **Trunk 
 
 A move like this is priced at the walk-through rather than a flat number. The cost depends on the trunk diameter and root ball size, the distance between the old and new location, and how much site preparation the new hole needs. A smaller ornamental moved a short distance on the same property costs less than a larger tree needing a bigger spade and a longer move. You get a written price for your actual tree and both locations before the spade arrives.
 
-## How Long Tree Transplanting Takes
+## How Long Tree Transplanting Takes in Hickory
 
 A single transplant on an accessible property can usually be finished in a few hours from digging the new hole through resetting the tree and watering it in. A larger tree, or a site where the tree spade needs a cleared path to reach either location, takes longer to set up and execute. Establishment after the move is a separate timeline. A transplanted tree needs a full growing season or more of regular watering before its root system is considered settled at the new spot.
 
-## How a Tree Transplanting Job Runs, Start to Finish
+## How a Tree Transplanting Job Runs in Hickory, Start to Finish
 
 Every transplant job runs through the same four stages, sized to the tree being moved.
 
@@ -66,11 +66,11 @@ The tree spade cuts and lifts the root ball intact from its current spot, then c
 ### Backfill, Staking and Watering
 Soil goes back around the root ball, stakes go in if the tree's size calls for extra support, and the tree gets watered in immediately after the move.
 
-## What Goes Wrong When Tree Transplanting Is Done Badly
+## What Goes Wrong When Tree Transplanting Is Done Badly in Hickory
 
 Attempting to move a tree with a trunk diameter too large for the equipment on hand can tear or crush the root ball beyond what the tree can recover from. Transplanting during the growing season rather than the dormant season puts a tree under far more stress than it can handle while also trying to push new growth. Skipping a root health check before the move can waste the effort on a tree whose roots were already compromised and were never going to survive relocation regardless of timing. Failing to keep up a consistent watering schedule after the move is one of the most common reasons an otherwise well-executed transplant still fails to establish.
 
-## What Tree Transplanting Includes (and What It Doesn't)
+## What Tree Transplanting Includes in Hickory (and What It Doesn't)
 
 We transplant small to medium trees with a trunk diameter suited to our tree spade equipment, evaluate root health first, and handle the full move in one visit. We do not attempt to transplant a large mature tree. A trunk that size calls for a removal-and-replant situation rather than a spade job, and we say so plainly instead of promising a move that will not survive. We do not diagnose disease on a tree being considered for transplant, that calls for our [Certified Arborist](/arborist) assessment first if the tree looks stressed already. If a property's tree is a better candidate for removal and a fresh planting than a move, we recommend that instead.
 
@@ -82,11 +82,11 @@ We transplant small to medium trees with a trunk diameter suited to our tree spa
 - **Honest Size Limits**: a tree too large for a successful move gets told to you straight, not oversold.
 - **[Tree Service Hickory NC](/)** also handles the new planting, health assessment and removal work that surrounds a transplant decision.
 
-## What a Typical Tree Transplanting Job Looks Like
+## What a Typical Tree Transplanting Job Looks Like in Hickory
 
 A homeowner calls about a young maple planted too close to where a new patio is going in, and wants to save it rather than remove it. The evaluation confirms the trunk diameter fits the tree spade and the roots are healthy, with the move scheduled for late winter while the tree is still dormant. The crew prepares the new hole ahead of time, spades out the tree with its root ball intact, and resets it across the yard the same afternoon. The homeowner gets a watering schedule to follow through the coming growing season while the roots settle in.
 
-## Where We Work
+## Where We Provide Tree Transplanting in Hickory
 
 A young maple moved across a Hickory yard and a shade tree relocated ahead of a build out toward Conover both wait for the same dormant-season window. See our [Service Areas](/service-areas) page for the full list of towns we cover.
 

@@ -24,7 +24,7 @@ Sandy loam soil that saturates during Hickory's 45 inches of yearly rain stresse
 in ways that show up in the canopy long before a tree looks obviously sick. See our
 [Tree Removal](/tree-removal) page for the local climate detail behind that pattern.
 
-## Tree Health Services We Provide
+## Other Tree Health Services We Provide in Hickory
 
 ### Certified Arborist Services
 ISA-certified arborists working to ANSI A300 standards behind every assessment. See our
@@ -63,7 +63,7 @@ insurance purposes. A single-tree diagnosis on an easy lot sits at the low end. 
 trees, or a report built for legal, insurance or real estate use, sits toward the top of
 that range. You get an exact number before the arborist starts.
 
-## How Long a Tree Health Assessment Takes
+## How Long a Tree Health Assessment Takes in Hickory
 
 A single-tree assessment typically takes under an hour, covering the canopy, trunk,
 root flare and soil at the base. Several trees, or an assessment that includes a written
@@ -71,7 +71,7 @@ report, takes longer, since documentation and photographs are part of the visit 
 than added afterward. You get a time estimate at booking, based on the number of trees
 involved.
 
-## How a Tree Health Assessment Runs, Start to Finish
+## How a Tree Health Assessment Runs in Hickory, Start to Finish
 
 ### Site Walk and Species ID
 The arborist identifies each tree in question, loblolly pine, oak, maple or otherwise,
@@ -90,7 +90,7 @@ with the reasoning behind it stated in the visit.
 A report documenting the tree's condition and our recommendation goes to you the same
 visit or shortly after, usable for your own records, an insurer or a buyer.
 
-## What Goes Wrong Without a Real Assessment
+## What Goes Wrong Without a Real Assessment in Hickory
 
 Skipping the assessment and guessing at a removal call can take down a tree that soil
 work or targeted treatment could have saved. Early southern pine beetle and
@@ -111,7 +111,7 @@ maple causes sudden branch death and is soil-borne rather than airborne. Water o
 be hollow inside while looking healthy from the outside, which is part of why a visual
 check alone is not a diagnosis.
 
-## What Tree Health Assessments Include (and What They Don't)
+## What Tree Health Assessments Include in Hickory (and What They Don't)
 
 We diagnose tree health against known species and disease entities, assess structural
 risk, and give a written recommendation. We do not apply restricted-use pesticide or
@@ -136,7 +136,7 @@ Homeowners, landlords and property managers across Catawba County turn to
 [Tree Service Hickory NC](/) for the same reason on every job: a straight answer before
 money gets spent.
 
-## What a Typical Tree Health Assessment Looks Like
+## What a Typical Tree Health Assessment Looks Like in Hickory
 
 A property manager calls about a loblolly pine with browning needles near the top of the
 canopy. The assessment finds white pitch tubes on the trunk consistent with southern
@@ -146,7 +146,7 @@ documented in a written report the same day. A neighboring red maple checked dur
 same visit shows early verticillium symptoms instead, and gets a fertilization and
 monitoring plan rather than removal.
 
-## Where We Work
+## Where We Provide Tree Health Assessments in Hickory
 
 A property manager with trees on more than one site can book an assessment anywhere
 in Catawba County: Hickory proper, Conover, Newton, Longview or Maiden. A homeowner

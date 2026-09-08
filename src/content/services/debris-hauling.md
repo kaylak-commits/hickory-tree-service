@@ -24,7 +24,7 @@ faqs:
 
 About 45 inches of rain a year means storm-downed limbs and brush left on the ground can sit in wet conditions and start to break down or attract pests if they are not cleared promptly. See our [Tree Removal](/tree-removal) page for the local climate detail behind that.
 
-## Tree Services We Provide
+## Other Tree Services We Provide in Hickory
 
 ### Tree Removal
 Full tree removal that includes debris hauling as part of the same visit. See our [Tree Removal](/tree-removal) page for pricing and process.
@@ -58,11 +58,11 @@ Two outcomes get requested under the same word, and they leave a yard looking ve
 
 Debris hauling that follows one of our own tree jobs is typically included in the price of that job, folded into the same written estimate as the removal, trimming or clearing itself. A single removal already starts at our $500 minimum callout, and that figure includes standard haul-off unless you ask us to leave the material. Standalone hauling, clearing a pile another crew or a storm left behind, is priced at the walk-through based on the volume and size of material and how it needs to be loaded. You get an exact number in writing before a truck loads anything.
 
-## How Long Debris Hauling Takes
+## How Long Debris Hauling Takes in Hickory
 
 Hauling that follows our own job happens the same visit, since the crew is already on site with the equipment loaded. A standalone haul-off depends on the volume of material and whether it needs chipping, cutting down to loadable sections, or straight loading onto a truck. A single storm-downed limb can be cleared within an hour. A yard full of brush and trunk sections from an old clearing job takes considerably longer, and a job that size sometimes needs more than one truckload to finish in a single visit.
 
-## How a Debris Hauling Job Runs, Start to Finish
+## How a Debris Hauling Job Runs in Hickory, Start to Finish
 
 Every standalone hauling job runs through the same four stages, separate from a job that already includes it.
 
@@ -78,11 +78,11 @@ Brush and smaller limbs go through the chipper if you have chosen that option, a
 ### Final Cleanup
 The yard gets a final pass to catch smaller debris the equipment missed, leaving the property clear and walkable before the crew leaves.
 
-## What Goes Wrong When Debris Is Left On Site
+## What Goes Wrong When Debris Is Left On Site in Hickory
 
 A pile of limbs and brush left against a fence or structure becomes a fire hazard that sits there long after the original job is finished. Wet debris left on a lawn for weeks can kill the grass underneath and leave a bare patch that takes a season to recover. Storm-downed material left in a yard can hide a hazard, a broken branch under leaves, or attract pests looking for shelter in a wet pile. Trunk sections too heavy to move by hand, left behind by a crew without the right equipment, often turn into a second, more expensive call once a homeowner tries to deal with them alone.
 
-## What Debris Hauling Includes (and What It Doesn't)
+## What Debris Hauling Includes in Hickory (and What It Doesn't)
 
 We haul or chip limbs, trunk sections and brush from our own jobs and from work another crew or a storm has already done. We do not haul general household debris, construction waste or yard clippings unrelated to tree work, that calls for a general hauling or waste service instead. We do not haul debris off a property without a walk-through first if the volume is large enough that pricing over the phone would not be accurate. If cut wood is a usable firewood size and species, we leave it on request rather than hauling it away by default.
 
@@ -94,11 +94,11 @@ We haul or chip limbs, trunk sections and brush from our own jobs and from work 
 - **Your Choice on Chips and Firewood**: leave mulch on site or usable rounds for firewood instead of a full haul-off.
 - **[Tree Service Hickory NC](/)** clears the yard the same visit on nearly every job we run, from a single limb to a full acre of land clearing.
 
-## What a Typical Debris Hauling Job Looks Like
+## What a Typical Debris Hauling Job Looks Like in Hickory
 
 A homeowner calls after a storm dropped a large limb across the backyard and wants it gone before the weekend. The walk-through confirms the limb is too large to move by hand and sits close enough to a fence that careful sectioning is needed. The crew sections the limb, chips the smaller brush on site for mulch, and hauls the larger trunk pieces off the same afternoon. The yard is cleared and walkable before the crew leaves, with no debris left behind against the fence.
 
-## Where We Work
+## Where We Provide Debris Hauling in Hickory
 
 Hauling and chipping service is available across Hickory, Conover and the rest of Catawba County, with the same pricing whether the material came from our crew or someone else's. See our [Service Areas](/service-areas) page for the full list of towns we cover.
 

@@ -24,7 +24,7 @@ faqs:
 
 Hedges and foundation shrubs grow fast most of the season with about 45 inches of rain a year falling here. A line left unshaped for a year or two gets away from a homeowner quickly as a result. See our [Tree Removal](/tree-removal) page for the local climate detail behind that.
 
-## Tree Services We Provide
+## Other Tree Services We Provide in Hickory
 
 ### Tree Trimming
 Structural pruning and canopy work on a tree, not a shrub. See our [Tree Trimming](/tree-trimming) page if the job is actually a tree rather than a hedge.
@@ -46,11 +46,11 @@ Two jobs get called trimming on the phone and they are not the same crew or cut.
 
 A hedge and shrub trimming job is priced at the visit rather than a single flat number, and the price depends on the actual plants on your property. The crew looks at the length of hedge or number of shrubs, how overgrown the growth is, and whether it is a routine shaping visit or a first-time cutback on years of unmanaged growth. A property on a regular shaping schedule costs less per visit than a one-time job untangling years of growth. You get a written price for your actual hedges and shrubs before any cutting starts.
 
-## How Long Hedge and Shrub Trimming Takes
+## How Long Hedge and Shrub Trimming Takes in Hickory
 
 A routine shaping visit on a maintained hedge or a small group of foundation shrubs usually wraps in an hour or two. A property-line hedge that has not been shaped in several years takes considerably longer, since the crew has to cut back further and remove more material per plant. Cleanup and haul-off of the cuttings adds time on top of the cutting itself, more so on a first-time job with years of growth to clear. You get a time estimate at the visit, based on your actual hedges and how overgrown they are.
 
-## How a Hedge and Shrub Trimming Job Runs, Start to Finish
+## How a Hedge and Shrub Trimming Job Runs in Hickory, Start to Finish
 
 Every trimming job runs through the same four stages on the property, whether it is routine shaping or a first-time cutback.
 
@@ -66,11 +66,11 @@ Hand shears keep a formal hedge line crisp in a small yard, and power trimmers m
 ### Cleanup and Haul-Off
 Cuttings get raked, bagged or hauled the same visit, and the crew leaves the property clean before heading to the next job.
 
-## What Goes Wrong When Hedge and Shrub Trimming Is Done Badly
+## What Goes Wrong When Hedge and Shrub Trimming Is Done Badly in Hickory
 
 A crew that shapes a hedge to the same outline every visit without ever cutting back into older wood can leave a shell of green growth over a dead, woody core that stops filling in. Trimming a flowering shrub at the wrong time of year can cut off the wood that would have produced next season's blooms. Cutting an overgrown hedge back too hard in one visit can shock the plant and leave bare, brown patches that take a full season to fill back in. Skipping the health check and shaping around dead or diseased wood rather than removing it lets a problem spread to the rest of the hedge.
 
-## What Hedge and Shrub Trimming Includes (and What It Doesn't)
+## What Hedge and Shrub Trimming Includes in Hickory (and What It Doesn't)
 
 We shape hedges, foundation shrubs and property-line plantings in any yard, and clear the cuttings the same visit. We do not diagnose or treat plant disease with fungicide or pesticide, that work calls for a pesticide applicator license from the state. We point you toward who handles it if a shrub looks diseased rather than just overgrown. We do not remove a hedge or shrub entirely and grind the root ball unless you ask for it as part of the same job. If a hedge trim call turns out to be an actual tree needing canopy work, we say so at the visit rather than shaping it the wrong way.
 
@@ -82,11 +82,11 @@ We shape hedges, foundation shrubs and property-line plantings in any yard, and 
 - **Shaping and Health Pruning, Both Covered**: a clean outline and the cuts a shrub needs to keep growing well.
 - **[Tree Service Hickory NC](/)** also handles the tree trimming, brush clearing and debris hauling that often comes up on the same property.
 
-## What a Typical Hedge Trimming Job Looks Like
+## What a Typical Hedge Trimming Job Looks Like in Hickory
 
 A homeowner calls about a boxwood hedge along the front walk that has grown wide and shapeless over two seasons without a trim. The visit confirms the plants are healthy, just overgrown, and sets a plan to cut back further than a routine shaping visit would. The crew shapes the hedge to a clean line, removing enough growth to bring it back into scale without cutting into old wood all at once. Cuttings are bagged and hauled the same afternoon, and a follow-up visit gets scheduled later in the season to finish bringing the hedge back to its intended size.
 
-## Where We Work
+## Where We Provide Hedge and Shrub Trimming in Hickory
 
 Foundation shrubs in a Hickory subdivision and a long property-line hedge out toward Conover get the same crew and the same visit-based pricing. See our [Service Areas](/service-areas) page for the full list of Catawba County towns we cover.
 

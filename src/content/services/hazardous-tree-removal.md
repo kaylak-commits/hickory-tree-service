@@ -27,7 +27,7 @@ that widen existing trunk and root damage, are a big part of why hazardous trees
 up here. See our [Tree Removal](/tree-removal) page for the local climate detail
 behind that.
 
-## Tree Services We Provide
+## Other Tree Services We Provide in Hickory
 
 ### Tree Removal
 Full removal of a dead, hazardous or unwanted tree on a normal schedule. See our
@@ -74,13 +74,13 @@ removal. A large leaning tree close to a structure, needing a crane and piece-by
 work to protect what is nearby, sits toward the top of that range or above it. You get
 an exact number after the assessment, in writing, before anything is cut.
 
-## How Long Hazardous Tree Removal Takes
+## How Long Hazardous Tree Removal Takes in Hickory
 
 A smaller hazardous tree with room to drop clear can come down in a couple of hours,
 similar to a standard removal. A large leaning tree near a structure takes considerably longer. The crew has to assess the lean and root condition carefully before the first cut, then often work section by section under rigging rather than felling it whole. You get a time estimate at the assessment, based on the
 actual tree and what is around it.
 
-## How a Hazardous Tree Removal Runs, Start to Finish
+## How a Hazardous Tree Removal Runs in Hickory, Start to Finish
 
 Every hazardous removal follows the same four stages, whether the risk is a lean, a
 split trunk or a dead canopy.
@@ -103,7 +103,7 @@ nothing swings free on the way down.
 Limbs and trunk sections get hauled off the same day. If you want the stump ground,
 that is available in the same visit.
 
-## What Goes Wrong When a Hazardous Tree Is Left Alone or Rushed
+## What Goes Wrong When a Hazardous Tree Is Left Alone or Rushed in Hickory
 
 A tree with a worsening lean that gets ignored eventually fails, often in the next storm rather than on a predictable schedule. By then it may be too close to a structure to remove without risk to what is nearby. Felling a leaning tree in the
 wrong direction, misreading how much the root plate has already let go, can send it
@@ -112,7 +112,7 @@ step and cutting into a tree that turns out to be hollow or already split can ca
 to fail unpredictably mid-cut. A dead or diseased tree left standing near a property
 line can also spread the same disease or pest pressure to healthy trees nearby.
 
-## What Hazardous Tree Removal Includes (and What It Doesn't)
+## What Hazardous Tree Removal Includes in Hickory (and What It Doesn't)
 
 We remove hazardous trees of any size, standing dead, leaning, split or storm-
 weakened. We do not repair the fence, roof or structure a tree may have already
@@ -134,7 +134,7 @@ removal, we say so at the assessment rather than defaulting to a cut.
 - **A Price Before Work Starts**: even on a hazardous removal, you know the number
   before the crew cuts anything.
 
-## What a Typical Hazardous Removal Looks Like
+## What a Typical Hazardous Removal Looks Like in Hickory
 
 A homeowner calls about a large water oak that has developed a visible lean toward the
 house over the past year, with soil starting to lift on one side of the base. The
@@ -143,7 +143,7 @@ worsening rather than stabilize. The crew rigs the tree for a sectional removal,
 debris before the crew leaves. Total time on site runs several hours for a job of this
 size.
 
-## Where We Work
+## Where We Provide Hazardous Tree Removal in Hickory
 
 A tree close to a structure gets priority scheduling regardless of which town the
 call comes from, Hickory, Conover or elsewhere in Catawba County, since the risk

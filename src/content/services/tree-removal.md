@@ -42,7 +42,7 @@ risk, splitting at a codominant trunk (a double leader with a weak union) rather
 inspection identifies which of these a given tree is heading toward before the crew
 ever picks up a saw.
 
-## Tree Services We Provide
+## Other Tree Services We Provide in Hickory
 
 ### Tree Trimming
 Structural pruning cuts back storm-prone limbs and thins a heavy canopy without taking
@@ -95,7 +95,7 @@ pine, runs $2,000 to $3,000. Trees over 80 feet, or any job needing a crane, can
 $3,500 and up. Stump grinding prices separately, starting at a $150 minimum. You get an
 exact number after the inspection, in writing, before we start.
 
-## How Long a Tree Removal Takes
+## How Long a Tree Removal Takes in Hickory
 
 A tree removal has no flat number for duration. Three things drive it: whether the tree
 drops whole or comes down in sections, whether the crew climbs or works from the ground,
@@ -105,7 +105,7 @@ pieces next to a structure takes considerably longer, since every section gets l
 on a rope rather than dropped. You get a time estimate at the inspection, based on your
 actual tree and yard, not a generic range.
 
-## How a Tree Removal Runs, Start to Finish
+## How a Tree Removal Runs in Hickory, Start to Finish
 
 Every removal follows the same four stages, whether the tree is a small dead pine or a
 large oak next to the house.
@@ -129,7 +129,7 @@ the trunk.
 Limbs and trunk sections get hauled off the same day. If you want the stump ground, that
 happens in the same visit rather than a second trip.
 
-## What Goes Wrong When Tree Removal Is Done Badly
+## What Goes Wrong When Tree Removal Is Done Badly in Hickory
 
 A section of tree dropped without rigging can swing into a fence, a roof or a power line
 on the way down. A trunk felled without reading the lean correctly can land in the
@@ -151,7 +151,7 @@ is tied to new construction, we handle that permit for you. Water oak can be hol
 inside while looking healthy from the outside, so a crew checks each one for rot and
 weak spots before setting a felling plan, not just cutting on sight.
 
-## What Tree Removal Includes (and What It Doesn't)
+## What Tree Removal Includes in Hickory (and What It Doesn't)
 
 We remove trees, trim and prune, grind stumps and clear land. We do not diagnose or treat
 tree disease, and we do not apply fertilizer or pesticide, that work calls for a pesticide
@@ -170,7 +170,7 @@ or landscape installation, and can point you toward who does.
 - **Same-Visit Stump Grinding**: no separate trip or separate crew if you want the stump
   gone too.
 
-## What a Typical Tree Removal Job Looks Like
+## What a Typical Tree Removal Job Looks Like in Hickory
 
 A homeowner calls about a large oak leaning toward the house after a storm. The inspection
 finds a split trunk with a crack at the union, too far gone to cable or brace. The
@@ -180,7 +180,7 @@ down last, cut low and hauled out. The stump gets ground the same afternoon, and
 is cleared before the crew leaves. Total time on site runs about five hours for a job
 this size.
 
-## Where We Work
+## Where We Provide Tree Removal in Hickory
 
 Tree Service Hickory NC removes trees throughout Hickory and Catawba County, including
 Conover and the surrounding towns within the Hickory-Lenoir-Morganton area. See our

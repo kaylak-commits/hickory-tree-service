@@ -25,7 +25,7 @@ nutrients past shallow roots before a tree ever uses them, a real driver of the
 deficiencies an assessment finds here. See our
 [Tree Health Assessments](/tree-health-assessments) page for how that gets diagnosed.
 
-## Tree Health Services We Provide
+## Other Tree Health Services We Provide in Hickory
 
 ### Tree Health Assessments
 The diagnosis that tells you whether fertilization is actually the right fix. See our
@@ -66,7 +66,7 @@ Several large trees, or a property needing a full soil workup before any product
 down, sits toward the top of that range. You get an exact number after the assessment,
 in writing, before any fertilizer goes into the ground.
 
-## How Long Tree Fertilization Takes
+## How Long Tree Fertilization Takes in Hickory
 
 A single-tree feeding usually takes under an hour once the crew is on site and the soil
 plan is set. A property with several trees, or one needing soil injection at multiple
@@ -75,7 +75,7 @@ rather than treating the whole yard at once. Results are not immediate, root upt
 visible canopy improvement typically show over the following growing season, not the
 following week.
 
-## How a Tree Fertilization Job Runs, Start to Finish
+## How a Tree Fertilization Job Runs in Hickory, Start to Finish
 
 ### Assessment and Soil Check
 We confirm the diagnosis behind the request, check soil condition at the root zone, and
@@ -94,7 +94,7 @@ the roots before uptake.
 We give you a realistic timeline for the tree's visible improvement, and tell you
 whether a repeat feeding next season is part of the plan.
 
-## What Goes Wrong With Tree Fertilization Done Badly
+## What Goes Wrong With Tree Fertilization Done Badly in Hickory
 
 A surface-spread fertilizer with no soil test behind it can miss the actual deficiency
 entirely, feeding a tree more of what it already has enough of while the real shortage
@@ -105,7 +105,7 @@ underlying problem keeps spreading. Skipping the soil check on Hickory's sandy l
 particular risks applying a feeding that leaches past the root zone before the tree
 gets the benefit.
 
-## What Tree Fertilization Includes (and What It Doesn't)
+## What Tree Fertilization Includes in Hickory (and What It Doesn't)
 
 We diagnose nutrient deficiencies, test soil at the root zone, and apply root-zone or
 deep-root fertilization matched to species and soil condition. We do not apply
@@ -131,7 +131,7 @@ Property owners across Catawba County call
 [Tree Service Hickory NC](/) for the same reason they call us for removal or trimming: a
 straight answer about what a tree actually needs before any work gets scheduled.
 
-## What a Typical Tree Fertilization Job Looks Like
+## What a Typical Tree Fertilization Job Looks Like in Hickory
 
 A homeowner calls about a mature white oak with thinning canopy and slower growth than
 the oaks nearby. The assessment finds a nutrient deficiency in the sandy loam soil
@@ -140,7 +140,7 @@ plan targeted to the drip line, applies it the same visit, and sets a follow-up
 assessment for the next growing season to check canopy response. No pesticide or
 fungicide is part of the job, since the cause was nutrient, not disease.
 
-## Where We Work
+## Where We Provide Tree Fertilization in Hickory
 
 Tree fertilization runs on the same schedule as our assessment and removal crews across
 Hickory, Conover, Newton, Longview and Maiden. See our

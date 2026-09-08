@@ -24,7 +24,7 @@ faqs:
 
 Close to 85 freezing days a year here widen an existing crack at a trunk union over several winters, which is often what turns a stable-looking split into a structural risk. See our [Tree Removal](/tree-removal) page for the local climate detail behind that.
 
-## Tree Services We Provide
+## Other Tree Services We Provide in Hickory
 
 ### Hazardous Tree Removal
 A tree whose lean or split has already gone past what cabling can support. See our [Hazardous Tree Removal](/hazardous-tree-removal) page.
@@ -46,11 +46,11 @@ Three conditions decide whether a tree is a cabling candidate or a removal call.
 
 Cabling and bracing starts with the same kind of assessment as a hazardous-tree evaluation. That runs $250 to $1,000 or more depending on the number of trees and unions being evaluated and how easy the site is to access. The installation itself is priced once the assessment identifies how many cables or brace rods the tree actually needs and where the anchor points go. A single split union takes far less hardware than a full canopy support system on a larger tree. You get an exact number in writing before any cable goes up.
 
-## How Long a Tree Cabling and Bracing Job Takes
+## How Long a Tree Cabling and Bracing Job Takes in Hickory
 
 The assessment itself usually takes under an hour for a single tree, longer if several unions or several trees on the same property need evaluating. Installing a cable system in the upper canopy means climbing to the anchor points. A straightforward single-cable job can be finished in a few hours, and a tree needing several cables or a brace rod through the trunk takes longer. You get a time estimate once the assessment is complete, based on the actual hardware your tree needs.
 
-## How a Tree Cabling and Bracing Job Runs, Start to Finish
+## How a Tree Cabling and Bracing Job Runs in Hickory, Start to Finish
 
 Every cabling and bracing job follows the same four stages, from first look to finished install.
 
@@ -66,11 +66,11 @@ A climber sets the cables or drills for a brace rod at the planned anchor points
 ### Final Check and Documentation
 The finished install gets inspected from the ground and from the canopy, and you get documentation of what was installed for your records or an insurer.
 
-## What Goes Wrong When Cabling and Bracing Is Skipped or Done Badly
+## What Goes Wrong When Cabling and Bracing Is Skipped or Done Badly in Hickory
 
 A split union left unsupported eventually opens further under wind or ice load, often failing in a storm rather than on a predictable schedule. Cabling installed without a proper assessment can end up supporting the wrong union while missing the one that is actually failing. Hardware installed too rigid for the tree's natural movement can create a new stress point at the anchor rather than relieving the original one. Skipping the reassessment a cabled tree needs every few years lets a system that was correct when installed fall out of date as the tree keeps growing.
 
-## What Tree Cabling and Bracing Includes (and What It Doesn't)
+## What Tree Cabling and Bracing Includes in Hickory (and What It Doesn't)
 
 We assess, cable and brace trees with a structural issue that has not progressed to full hazard, and reassess installed systems on request. We do not install cabling on a tree that has already failed structurally, that tree needs removal, and we say so plainly at the assessment rather than installing hardware that will not hold. We do not diagnose or treat tree disease with fungicide or pesticide, that work calls for a pesticide applicator license from the state. If a tree needs a full health workup rather than a structural one, our certified arborist handles that assessment instead.
 
@@ -82,11 +82,11 @@ We assess, cable and brace trees with a structural issue that has not progressed
 - **Climbing Crew, Not Just a Ground Crew**: anchor points get set properly in the canopy, not estimated from the ground.
 - **[Tree Service Hickory NC](/)** pairs cabling and bracing with the same certified arborist assessment used on our tree health and hazardous-tree work.
 
-## What a Typical Cabling Job Looks Like
+## What a Typical Cabling Job Looks Like in Hickory
 
 A homeowner calls about a large red maple with a codominant trunk that has a visible crack at the union but has not separated further in over a year. The assessment finds the union structurally sound enough to support with hardware, and rules out a lean that would rule out cabling as an option. A climber installs a dynamic cable system between the two leaders, set to allow natural movement in wind while limiting how far the union can spread. The tree is scheduled for a reassessment in a few years to confirm the system still fits as it grows.
 
-## Where We Work
+## Where We Provide Tree Cabling and Bracing in Hickory
 
 A structural assessment for this kind of work is available across Hickory, Conover and the rest of Catawba County, with the same climbing crew and ANSI A300 standard on every job regardless of the town. See our [Service Areas](/service-areas) page for the full list of towns we cover.
 

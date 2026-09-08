@@ -64,7 +64,7 @@ estate transaction. A single-tree diagnosis on an easy-to-reach lot sits at the 
 Several trees on a larger property, or a report written for legal or insurance use, sits
 toward the top of that range. You get an exact number before the arborist starts.
 
-## How Long an Arborist Assessment Takes
+## How Long an Arborist Assessment Takes in Hickory
 
 A single-tree assessment usually runs under an hour once the arborist is on site,
 covering the trunk, canopy, root flare and soil condition around the base. A property
@@ -92,7 +92,7 @@ cable, or remove, with the reasoning behind it, not just the verdict.
 The arborist writes up the tree's condition the same visit or shortly after, a report
 useful for your own records, an insurer or a buyer's inspection.
 
-## What Goes Wrong Without a Real Arborist Assessment
+## What Goes Wrong Without a Real Arborist Assessment in Hickory
 
 A removal crew without arborist training can misread a tree that is actually treatable and
 recommend cutting it down, costing you a healthy, mature tree that soil work or pruning
@@ -111,7 +111,7 @@ sense of what looks right. That means pruning cuts sized correctly to the branch
 a documented basis for any removal recommendation, and a soil or root diagnosis before a
 fertilization plan gets written, not after.
 
-## What Arborist Services Include (and What They Don't)
+## What Arborist Services Include in Hickory (and What They Don't)
 
 We diagnose tree health, assess structural risk, and recommend the right next step,
 treatment, pruning, cabling or removal. We do not apply restricted-use pesticide or
@@ -136,7 +136,7 @@ Homeowners, landlords, HOAs and small commercial properties across Catawba Count
 [Tree Service Hickory NC](/) for the same reason: a real answer about a tree, not a
 guess.
 
-## What a Typical Arborist Assessment Looks Like
+## What a Typical Arborist Assessment Looks Like in Hickory
 
 A homeowner calls about a red maple with leaves browning on one side of the canopy while
 the rest of the tree looks healthy. The arborist checks the trunk, root flare and soil
@@ -146,7 +146,7 @@ fertilization plan rather than removal, since the tree is not yet a structural r
 written summary goes to the homeowner the same day, with a follow-up assessment
 suggested for next season.
 
-## Where We Work
+## Where We Provide Arborist Services in Hickory
 
 Arborist assessments run across Hickory, Conover, Newton, Longview, Maiden and the rest
 of Catawba County, on the same schedule as our removal and trimming crews. See our

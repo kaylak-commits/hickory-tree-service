@@ -35,7 +35,7 @@ catches wind hard when it has not been thinned. Water oak and red maple carry a 
 at the union. Structural pruning while the tree is young can often correct that weak
 union before it becomes a removal problem.
 
-## Tree Services We Provide
+## Other Tree Services We Provide in Hickory
 
 ### Tree Removal
 Full removal for trees too far gone for pruning to save. See our
@@ -83,7 +83,7 @@ top of that range or above it. Stump grinding and full removal price separately,
 our [Tree Removal](/tree-removal) and [Stump Grinding](/stump-grinding) pages. You get
 an exact number after the inspection, in writing, before any cut is made.
 
-## How Long Tree Trimming Takes
+## How Long Tree Trimming Takes in Hickory
 
 A single tree with deadwooding or light clearance pruning usually takes under two
 hours. Canopy thinning on a large, mature tree takes longer, since every cut is
@@ -92,7 +92,7 @@ move faster than one that has to climb. Multiple trees on one property add time 
 proportion to their number and size rather than a flat rate per tree. You get a time
 estimate at the inspection based on the actual trees on your property.
 
-## How a Tree Trimming Job Runs, Start to Finish
+## How a Tree Trimming Job Runs in Hickory, Start to Finish
 
 Every trimming job follows the same four stages, from a single ornamental to a mature
 oak needing full canopy work.
@@ -116,7 +116,7 @@ cuts, thinning cuts and deadwood removal are made in that order.
 Every limb and branch gets chipped or hauled off the same day. The yard is cleared of
 debris before the crew leaves.
 
-## What Goes Wrong When Tree Trimming Is Done Badly
+## What Goes Wrong When Tree Trimming Is Done Badly in Hickory
 
 **Topping** cuts main limbs down to stubs instead of pruning to a lateral branch. It is
 the most common bad practice in this trade, and it is illegal in Hickory wherever the
@@ -138,7 +138,7 @@ Loblolly pine and other heavy-canopied species get thinned rather than topped fo
 resistance. Oak and maple structural work is timed to the tree's dormant season where
 the job allows it, which reduces stress on the tree.
 
-## What Tree Trimming Includes (and What It Doesn't)
+## What Tree Trimming Includes in Hickory (and What It Doesn't)
 
 We prune, thin, deadwood and clear limbs from live and structurally sound trees. We do
 not diagnose or treat tree disease, and we do not apply fertilizer or pesticide, that
@@ -158,7 +158,7 @@ pruning around the problem.
 - **We Know Local Species**: loblolly pine, water oak, red maple and the rest of what
   grows here, and how each one responds to pruning.
 
-## What a Typical Tree Trimming Job Looks Like
+## What a Typical Tree Trimming Job Looks Like in Hickory
 
 A homeowner calls about a large water oak with limbs hanging over the roofline after a
 growth spurt. The inspection finds sound structure overall, just overdue for clearance
@@ -168,7 +168,7 @@ rather than catching the whole crown. Deadwood scattered through the upper canop
 out in the same visit. Brush gets chipped on site and hauled away before the crew
 leaves. Total time on site runs about two hours for a job this size.
 
-## Where We Work
+## Where We Provide Tree Trimming in Hickory
 
 Trimming crews run out to Conover and the rest of Catawba County on the same schedule
 as Hickory itself, no separate trip charge either way. If a tree on your property turns

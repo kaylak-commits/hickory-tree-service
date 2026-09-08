@@ -35,7 +35,7 @@ that tear apart under wind or ice load rather than one solid trunk. A tree that
 survives one storm with hidden root or trunk damage is often the one that comes down
 in the next.
 
-## Tree Services We Provide
+## Other Tree Services We Provide in Hickory
 
 ### Tree Removal
 Full removal of a dead, hazardous or unwanted tree on a normal schedule, not an
@@ -86,7 +86,7 @@ needing a crane and careful piece-by-piece work to avoid further damage, sits at
 top of that range. You get a price before anything starts, even on an emergency call,
 based on what you describe and confirmed once the crew is on site.
 
-## How Long Emergency Tree Removal Takes
+## How Long Emergency Tree Removal Takes in Hickory
 
 A tree already down and clear of a structure can be cleared in a few hours. A tree
 resting on a roof or a vehicle takes longer. The weight has to be assessed first,
@@ -120,7 +120,7 @@ ground is cut and hauled with standard equipment.
 Limbs, trunk sections and debris get hauled off, and the site is left clear. If you
 want the stump ground the same visit, that is available too.
 
-## What Goes Wrong When Storm Cleanup Is Done Badly
+## What Goes Wrong When Storm Cleanup Is Done Badly in Hickory
 
 Cutting into a tree still under tension from a roofline, a fence, or another tree can
 cause it to spring or roll unpredictably.  Removing the wrong piece first from a tree
@@ -130,7 +130,7 @@ warning and no control over where it lands. Skipping the phone assessment is the
 common shortcut. It sends a crew in blind, without knowing whether power lines are
 involved, which makes it the most dangerous one too.
 
-## What Emergency Tree Removal Includes (and What It Doesn't)
+## What Emergency Tree Removal Includes in Hickory (and What It Doesn't)
 
 We remove storm-damaged trees and limbs from structures, vehicles, driveways and
 yards, and we clear hung and leaning trees under controlled rigging. We do not work
@@ -152,7 +152,7 @@ of what grows here, and how each one tends to fail in a storm.
 - **A Price Before Work Starts**: even on an emergency call, you know the number before
 the crew cuts anything.
 
-## What a Typical Emergency Call Looks Like
+## What a Typical Emergency Call Looks Like in Hickory
 
 A homeowner calls after a storm with a large pine resting across the roof and the
 carport. The phone assessment rules out power lines and confirms the tree is stable
@@ -162,7 +162,7 @@ remaining limbs from the carport by hand. The yard and driveway are cleared of d
 before the crew leaves, and the stump is left for a separate visit at the homeowner's
 choice.
 
-## Where We Work
+## Where We Provide Emergency Tree Removal in Hickory
 
 Storm calls get the same response across the whole service area, Hickory, Conover and
 the rest of Catawba County, no separate charge for the drive. If the same storm left
