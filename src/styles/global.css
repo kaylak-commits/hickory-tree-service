@@ -149,6 +149,10 @@ details .a ul{margin:0;padding-left:22px}
 
 .close{background:var(--deep);color:#C0CEDE;text-align:center;padding:76px 0}
 .close h2,.close .t2{color:#fff}
+/* text-align:center on the section centers text but not a flex row's items —
+   the closing CTA buttons were left-aligned under the centered heading and
+   paragraph above them (Kayla, 2026-09-08 screenshot). */
+.close .cta-row{justify-content:center}
 footer{background:var(--ink);color:#98A8BC;padding:54px 0 30px;font-size:.94rem}
 footer h4{color:#fff;font-size:.78rem;letter-spacing:.15em;text-transform:uppercase;margin:0 0 12px}
 footer a{color:#98A8BC}
@@ -376,7 +380,12 @@ header nav li.has-sub::after{content:"";position:absolute;left:0;right:0;top:100
 @media(max-width:1200px){.service-grid.cols-4{grid-template-columns:repeat(2,1fr)}}
 .service-card{background:#fff;border:1px solid var(--line)}
 .service-card .ph{height:170px}
-.service-card h3{background:var(--deep);color:#fff;margin:0;padding:11px 16px;font-size:1rem;line-height:1.3}
+/* Fixed height, flex-centered: some card titles wrap to 2 lines ("Emergency
+   Storm Damage Removal"), most don't, which left the header bars uneven
+   across the row (Kayla, 2026-09-08 screenshot). A fixed height + vertical
+   centering makes every bar the same height regardless of line count. */
+.service-card h3{background:var(--deep);color:#fff;margin:0;padding:11px 16px;font-size:1rem;line-height:1.3;
+  height:64px;display:flex;align-items:center}
 .service-card h3 a{color:#fff;text-decoration:none}
 .service-card h3 a:hover{color:var(--sand)}
 .service-card p{padding:0 16px;margin:0 0 10px;font-size:.9rem;line-height:1.55}
@@ -388,7 +397,10 @@ header nav li.has-sub::after{content:"";position:absolute;left:0;right:0;top:100
 
 .species-list{list-style:none;margin:16px 0 0;padding:0;display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
 .species-list li{background:#fff;border:1px solid var(--line);padding:0;margin:0;font-size:.92rem;line-height:1.55}
-.species-list li strong{background:var(--deep);color:#fff;display:block;padding:10px 14px;font-size:.98rem}
+/* Same fixed-height fix as .service-card h3 — "White Oak, Red Oak and Water
+   Oak" wraps to 2 lines while its neighbors don't. */
+.species-list li strong{background:var(--deep);color:#fff;display:flex;align-items:center;
+  height:56px;padding:10px 14px;font-size:.98rem}
 .species-list li span{display:block;padding:12px 14px}
 
 .steps ol{padding-left:0;list-style:none;counter-reset:steps}
