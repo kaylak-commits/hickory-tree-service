@@ -5,8 +5,28 @@
 import { getCollection } from 'astro:content';
 import { SITE, IMAGES, HAS_PHONE } from '../config';
 
-const services = (await getCollection('services')).sort(
-  (a, b) => (a.data.order ?? 99) - (b.data.order ?? 99)
+/* Three menus, driven by fields the content schema already defines:
+     - Services:       inMenu === true (the money + main tier)
+     - Other Services:  layer === 'longtail' (long-tail service pages —
+                         Kayla, 2026-09-08: these get their own nav menu so
+                         Google can crawl them from every page on first
+                         pass; fold this menu away once the site is crawled
+                         and each page has inbound links from elsewhere)
+     - Locations:       the locations collection, with the service-areas
+                         hub page (still filed in the services collection)
+                         pinned at the top
+   A page appears in a menu the moment its frontmatter says so — no menu
+   can point at a page that doesn't exist. */
+const allServices = await getCollection('services');
+const services = allServices
+  .filter((s) => s.data.inMenu)
+  .sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99));
+const otherServices = allServices
+  .filter((s) => s.data.layer === 'longtail')
+  .sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99));
+const serviceAreasHub = allServices.find((s) => s.id === 'service-areas');
+const locations = (await getCollection('locations')).sort((a, b) =>
+  a.data.town.localeCompare(b.data.town)
 );
 ---
 <header>
@@ -34,6 +54,30 @@ const services = (await getCollection('services')).sort(
               <li><a href={`/${s.id}/`}>{s.data.h1.replace(SITE.h1Suffix, '')}</a></li>
             ))}
             <li class="sub-all"><a href="/services/">All services →</a></li>
+          </ul>
+        </li>
+
+        {otherServices.length > 0 && (
+          <li class="has-sub">
+            <a href="/services/">Other Services <span class="caret">▾</span></a>
+            <ul class="sub">
+              {otherServices.map((s) => (
+                <li><a href={`/${s.id}/`}>{s.data.h1.replace(SITE.h1Suffix, '')}</a></li>
+              ))}
+              <li class="sub-all"><a href="/services/">All services →</a></li>
+            </ul>
+          </li>
+        )}
+
+        <li class="has-sub">
+          <a href="/service-areas/">Locations <span class="caret">▾</span></a>
+          <ul class="sub">
+            {serviceAreasHub && (
+              <li><a href={`/${serviceAreasHub.id}/`}>{serviceAreasHub.data.h1}</a></li>
+            )}
+            {locations.map((l) => (
+              <li><a href={`/${l.id}/`}>Tree Service in {l.data.town}, NC</a></li>
+            ))}
           </ul>
         </li>
 
