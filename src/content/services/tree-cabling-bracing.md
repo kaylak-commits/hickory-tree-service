@@ -24,20 +24,6 @@ faqs:
 
 Close to 85 freezing days a year here widen an existing crack at a trunk union over several winters, which is often what turns a stable-looking split into a structural risk. See our [Tree Removal](/tree-removal) page for the local climate detail behind that.
 
-## Other Tree Services We Provide in Hickory
-
-### Hazardous Tree Removal
-A tree whose lean or split has already gone past what cabling can support. See our [Hazardous Tree Removal](/hazardous-tree-removal) page.
-
-### Certified Arborist
-An ISA-certified assessment and treatment recommendation for a tree that looks stressed or structurally uncertain. See our [Certified Arborist](/arborist) page.
-
-### Tree Trimming
-Reducing canopy weight on a limb that is already cabled, lowering the load the hardware has to carry. See our [Tree Trimming](/tree-trimming) page.
-
-### Tree Removal
-Full removal once an assessment shows a tree is past saving with cables or a brace rod. See our [Tree Removal](/tree-removal) page for pricing and process.
-
 ## Is Cabling and Bracing the Right Call for Your Tree?
 
 Three conditions decide whether a tree is a cabling candidate or a removal call. A **split union between two codominant trunks** that is still structurally intact, with bark connecting both sides rather than a full separation, is a strong cabling candidate. A **storm-prone lean that has stabilized**, meaning the root plate has not continued to lift after the initial event, can often be braced rather than removed. A **tree with a lean that is still actively worsening, a root plate visibly lifting further, or a trunk that is hollow or fully split** is past what hardware can hold. That tree belongs on our [Hazardous Tree Removal](/hazardous-tree-removal) page instead. The assessment is what tells you which of these describes your tree before any decision gets made.
@@ -89,6 +75,20 @@ A homeowner calls about a large red maple with a codominant trunk that has a vis
 ## Where We Provide Tree Cabling and Bracing in Hickory
 
 A structural assessment for this kind of work is available across Hickory, Conover and the rest of Catawba County, with the same climbing crew and ANSI A300 standard on every job regardless of the town. See our [Service Areas](/service-areas) page for the full list of towns we cover.
+
+## Other Tree Services We Provide Alongside Tree Cabling and Bracing in Hickory
+
+### Hazardous Tree Removal
+A tree whose lean or split has already gone past what cabling can support. See our [Hazardous Tree Removal](/hazardous-tree-removal) page.
+
+### Certified Arborist
+An ISA-certified assessment and treatment recommendation for a tree that looks stressed or structurally uncertain. See our [Certified Arborist](/arborist) page.
+
+### Tree Trimming
+Reducing canopy weight on a limb that is already cabled, lowering the load the hardware has to carry. See our [Tree Trimming](/tree-trimming) page.
+
+### Tree Removal
+Full removal once an assessment shows a tree is past saving with cables or a brace rod. See our [Tree Removal](/tree-removal) page for pricing and process.
 
 ## Get Your Free Tree Cabling and Bracing Assessment
 

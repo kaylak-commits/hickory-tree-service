@@ -42,34 +42,6 @@ risk, splitting at a codominant trunk (a double leader with a weak union) rather
 inspection identifies which of these a given tree is heading toward before the crew
 ever picks up a saw.
 
-## Other Tree Services We Provide in Hickory
-
-### Tree Trimming
-Structural pruning cuts back storm-prone limbs and thins a heavy canopy without taking
-the tree down. See our [Tree Trimming](/tree-trimming) page for pricing and process.
-
-### Emergency and Storm Damage Removal
-A tree down on a structure, a car or a driveway after a storm, or a hung tree still
-attached and swaying. See our
-[Emergency Storm Damage Tree Removal](/emergency-storm-damage-tree-removal) page for
-response details.
-
-### Stump Grinding
-Grinding a stump flush below grade after a removal, or on its own for a stump left by
-another crew. See our [Stump Grinding](/stump-grinding) page for pricing.
-
-### Hazardous Tree Removal
-Dead, leaning or storm-weakened trees that pose an immediate risk to a structure, a fence
-or a person. See our [Hazardous Tree Removal](/hazardous-tree-removal) page.
-
-### Land Clearing
-Clearing a wooded lot for a build site, a driveway or a pasture, priced per acre rather
-than per tree. See our [Land Clearing](/land-clearing) page.
-
-### Deadwood and Diseased Tree Removal
-Dead limbs or a tree too far gone from disease to save. See our
-[Deadwood and Diseased Tree Removal](/deadwood-diseased-tree-removal) page.
-
 ## Which Tree Service Do You Actually Need?
 
 Four situations get called "tree removal" and they price and schedule differently. A
@@ -186,6 +158,34 @@ Tree Service Hickory NC removes trees throughout Hickory and Catawba County, inc
 Conover and the surrounding towns within the Hickory-Lenoir-Morganton area. See our
 [Service Areas](/service-areas) page for the full list of towns we cover. Same pricing and
 the same crew regardless of which town the job is in.
+
+## Other Tree Services We Provide Alongside Tree Removal in Hickory
+
+### Tree Trimming
+Structural pruning cuts back storm-prone limbs and thins a heavy canopy without taking
+the tree down. See our [Tree Trimming](/tree-trimming) page for pricing and process.
+
+### Emergency and Storm Damage Removal
+A tree down on a structure, a car or a driveway after a storm, or a hung tree still
+attached and swaying. See our
+[Emergency Storm Damage Tree Removal](/emergency-storm-damage-tree-removal) page for
+response details.
+
+### Stump Grinding
+Grinding a stump flush below grade after a removal, or on its own for a stump left by
+another crew. See our [Stump Grinding](/stump-grinding) page for pricing.
+
+### Hazardous Tree Removal
+Dead, leaning or storm-weakened trees that pose an immediate risk to a structure, a fence
+or a person. See our [Hazardous Tree Removal](/hazardous-tree-removal) page.
+
+### Land Clearing
+Clearing a wooded lot for a build site, a driveway or a pasture, priced per acre rather
+than per tree. See our [Land Clearing](/land-clearing) page.
+
+### Deadwood and Diseased Tree Removal
+Dead limbs or a tree too far gone from disease to save. See our
+[Deadwood and Diseased Tree Removal](/deadwood-diseased-tree-removal) page.
 
 ## Get Your Free Tree Removal Inspection
 

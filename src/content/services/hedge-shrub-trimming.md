@@ -24,20 +24,6 @@ faqs:
 
 Hedges and foundation shrubs grow fast most of the season with about 45 inches of rain a year falling here. A line left unshaped for a year or two gets away from a homeowner quickly as a result. See our [Tree Removal](/tree-removal) page for the local climate detail behind that.
 
-## Other Tree Services We Provide in Hickory
-
-### Tree Trimming
-Structural pruning and canopy work on a tree, not a shrub. See our [Tree Trimming](/tree-trimming) page if the job is actually a tree rather than a hedge.
-
-### Brush Clearing
-Clearing overgrown brush, vines and saplings from a yard or fence line rather than shaping an existing hedge. See our [Brush Clearing](/brush-clearing) page.
-
-### Debris Hauling
-Full haul-off of trimmed cuttings and old hedge material from your yard the same day. See our [Debris Hauling](/debris-hauling) page.
-
-### Stump Grinding
-Grinding out a hedge or shrub root ball that needs to come out entirely. See our [Stump Grinding](/stump-grinding) page.
-
 ## Which Trim Job Do You Actually Need?
 
 Two jobs get called trimming on the phone and they are not the same crew or cut. **Hedge and shrub trimming** covers shorter growth, foundation plantings, boxwood or holly hedges, and property-line rows, shaped for form rather than for a tree's long-term structure. **Tree trimming** covers canopy and structural work on an actual tree, cutting back limbs for clearance or health rather than shaping a plant's outline. If the job is above head height and involves limbs rather than stems, our [Tree Trimming](/tree-trimming) page is the right fit. Shaping is also different from health pruning within the hedge and shrub category itself. Shaping cuts new growth back to a clean line for appearance, and health pruning removes dead or diseased wood inside the plant so the whole shrub keeps growing well, not just the visible outer edge.
@@ -89,6 +75,20 @@ A homeowner calls about a boxwood hedge along the front walk that has grown wide
 ## Where We Provide Hedge and Shrub Trimming in Hickory
 
 Foundation shrubs in a Hickory subdivision and a long property-line hedge out toward Conover get the same crew and the same visit-based pricing. See our [Service Areas](/service-areas) page for the full list of Catawba County towns we cover.
+
+## Other Tree Services We Provide Alongside Hedge and Shrub Trimming in Hickory
+
+### Tree Trimming
+Structural pruning and canopy work on a tree, not a shrub. See our [Tree Trimming](/tree-trimming) page if the job is actually a tree rather than a hedge.
+
+### Brush Clearing
+Clearing overgrown brush, vines and saplings from a yard or fence line rather than shaping an existing hedge. See our [Brush Clearing](/brush-clearing) page.
+
+### Debris Hauling
+Full haul-off of trimmed cuttings and old hedge material from your yard the same day. See our [Debris Hauling](/debris-hauling) page.
+
+### Stump Grinding
+Grinding out a hedge or shrub root ball that needs to come out entirely. See our [Stump Grinding](/stump-grinding) page.
 
 ## Get Your Free Hedge and Shrub Trimming Estimate
 

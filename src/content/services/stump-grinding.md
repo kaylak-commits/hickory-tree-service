@@ -26,32 +26,6 @@ Wet ground and sandy loam soil are common across Hickory yards, which is part of
 stump left in place keeps sending up root suckers years later. See our
 [Tree Removal](/tree-removal) page for the local climate detail behind that.
 
-## Other Tree Services We Provide in Hickory
-
-### Tree Removal
-Full removal of a dead, hazardous or unwanted tree. See our
-[Tree Removal](/tree-removal) page for pricing and process.
-
-### Tree Trimming
-Structural pruning, canopy thinning and clearance work on a tree that is still sound.
-See our [Tree Trimming](/tree-trimming) page for pricing and process.
-
-### Emergency and Storm Damage Removal
-A tree down on a structure or blocking a driveway after a storm. See our
-[Emergency Storm Damage Tree Removal](/emergency-storm-damage-tree-removal) page.
-
-### Hazardous Tree Removal
-A dead or storm-weakened tree that has not fallen yet but poses a real risk. See our
-[Hazardous Tree Removal](/hazardous-tree-removal) page.
-
-### Land Clearing
-Clearing a wooded lot for a build site or a driveway, priced per acre. See our
-[Land Clearing](/land-clearing) page.
-
-### Deadwood and Diseased Tree Removal
-Dead limbs or a tree too far gone from disease to save. See our
-[Deadwood and Diseased Tree Removal](/deadwood-diseased-tree-removal) page.
-
 ## Which Stump Grinding Job Do You Actually Need?
 
 Three situations get called "stump grinding" and they price differently. **A single
@@ -112,7 +86,7 @@ sending up new growth around the old stump for years, particularly with red mapl
 Grinding without hauling or spreading the chips leaves a pile that has to be dealt with
 separately, an extra trip that should have been part of the same visit.
 
-## What We Grind To
+## Stump Grinding Standards We Grind To at Tree Service Hickory NC
 
 Stumps get ground to 4 to 6 inches below grade as standard, deep enough to cover with
 soil and reseed or lay sod without a bump showing. A job going in ahead of new
@@ -153,6 +127,32 @@ the grinder can work straight through rather than around soft, rotted wood. The 
 A grinder and trailer travel the same route across Hickory, Conover and the rest of
 Catawba County at no extra charge, one backyard stump or several on an older lot. See our [Service Areas](/service-areas)
 page for the full list of towns we cover.
+
+## Other Tree Services We Provide Alongside Stump Grinding in Hickory
+
+### Tree Removal
+Full removal of a dead, hazardous or unwanted tree. See our
+[Tree Removal](/tree-removal) page for pricing and process.
+
+### Tree Trimming
+Structural pruning, canopy thinning and clearance work on a tree that is still sound.
+See our [Tree Trimming](/tree-trimming) page for pricing and process.
+
+### Emergency and Storm Damage Removal
+A tree down on a structure or blocking a driveway after a storm. See our
+[Emergency Storm Damage Tree Removal](/emergency-storm-damage-tree-removal) page.
+
+### Hazardous Tree Removal
+A dead or storm-weakened tree that has not fallen yet but poses a real risk. See our
+[Hazardous Tree Removal](/hazardous-tree-removal) page.
+
+### Land Clearing
+Clearing a wooded lot for a build site or a driveway, priced per acre. See our
+[Land Clearing](/land-clearing) page.
+
+### Deadwood and Diseased Tree Removal
+Dead limbs or a tree too far gone from disease to save. See our
+[Deadwood and Diseased Tree Removal](/deadwood-diseased-tree-removal) page.
 
 ## Get Your Free Stump Grinding Estimate
 

@@ -35,32 +35,6 @@ catches wind hard when it has not been thinned. Water oak and red maple carry a 
 at the union. Structural pruning while the tree is young can often correct that weak
 union before it becomes a removal problem.
 
-## Other Tree Services We Provide in Hickory
-
-### Tree Removal
-Full removal for trees too far gone for pruning to save. See our
-[Tree Removal](/tree-removal) page for pricing and process.
-
-### Emergency and Storm Damage Removal
-A tree down on a structure or blocking a driveway after a storm. See our
-[Emergency Storm Damage Tree Removal](/emergency-storm-damage-tree-removal) page.
-
-### Stump Grinding
-Grinding a stump flush below grade after a removal. See our
-[Stump Grinding](/stump-grinding) page for pricing.
-
-### Hazardous Tree Removal
-Dead, leaning or storm-weakened trees that pose an immediate risk. See our
-[Hazardous Tree Removal](/hazardous-tree-removal) page.
-
-### Land Clearing
-Clearing a wooded lot for a build site or a driveway, priced per acre. See our
-[Land Clearing](/land-clearing) page.
-
-### Deadwood and Diseased Tree Removal
-Dead limbs or a tree too far gone from disease to save. See our
-[Deadwood and Diseased Tree Removal](/deadwood-diseased-tree-removal) page.
-
 ## Which Type of Trimming Do You Actually Need?
 
 Four jobs get called "tree trimming" and they are not the same work. **Structural
@@ -128,7 +102,7 @@ wound, which invites rot into the trunk itself. Over-thinning a canopy in one vi
 the work over a couple of seasons, can shock a tree. That shock triggers a flush of
 weak regrowth exactly where a storm will catch it hardest next time.
 
-## Standards We Cut To
+## Tree Trimming Standards We Cut To at Tree Service Hickory NC
 
 Pruning cuts follow ANSI A300 standard practice, the industry standard for where and
 how a cut is made relative to the branch collar and the trunk. We do not top trees,
@@ -175,6 +149,32 @@ as Hickory itself, no separate trip charge either way. If a tree on your propert
 out to need more than pruning, the same visit covers a quote for
 [full removal](/tree-removal) instead. See our [Service Areas](/service-areas) page for
 the full list of towns we cover.
+
+## Other Tree Services We Provide Alongside Tree Trimming in Hickory
+
+### Tree Removal
+Full removal for trees too far gone for pruning to save. See our
+[Tree Removal](/tree-removal) page for pricing and process.
+
+### Emergency and Storm Damage Removal
+A tree down on a structure or blocking a driveway after a storm. See our
+[Emergency Storm Damage Tree Removal](/emergency-storm-damage-tree-removal) page.
+
+### Stump Grinding
+Grinding a stump flush below grade after a removal. See our
+[Stump Grinding](/stump-grinding) page for pricing.
+
+### Hazardous Tree Removal
+Dead, leaning or storm-weakened trees that pose an immediate risk. See our
+[Hazardous Tree Removal](/hazardous-tree-removal) page.
+
+### Land Clearing
+Clearing a wooded lot for a build site or a driveway, priced per acre. See our
+[Land Clearing](/land-clearing) page.
+
+### Deadwood and Diseased Tree Removal
+Dead limbs or a tree too far gone from disease to save. See our
+[Deadwood and Diseased Tree Removal](/deadwood-diseased-tree-removal) page.
 
 ## Get Your Free Tree Trimming Estimate
 

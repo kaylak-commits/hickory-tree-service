@@ -24,32 +24,6 @@ faqs:
 
 About 45 inches of rain a year means storm-downed limbs and brush left on the ground can sit in wet conditions and start to break down or attract pests if they are not cleared promptly. See our [Tree Removal](/tree-removal) page for the local climate detail behind that.
 
-## Other Tree Services We Provide in Hickory
-
-### Tree Removal
-Full tree removal that includes debris hauling as part of the same visit. See our [Tree Removal](/tree-removal) page for pricing and process.
-
-### Tree Trimming
-Canopy work that leaves cut limbs behind, hauled or chipped the same day. See our [Tree Trimming](/tree-trimming) page.
-
-### Stump Grinding
-Grinding a stump leaves wood chips behind that can be hauled off or left as mulch. See our [Stump Grinding](/stump-grinding) page.
-
-### Land Clearing
-Full acreage clearing that produces large volumes of brush and trunk material. See our [Land Clearing](/land-clearing) page.
-
-### Brush Clearing
-Smaller-scale clearing along a fence line or yard edge that still needs the cut brush hauled. See our [Brush Clearing](/brush-clearing) page.
-
-### Bush Hogging
-Rotary mowing of rough acreage that leaves mulched material behind rather than a haul pile. See our [Bush Hogging](/bush-hogging) page.
-
-### Commercial Tree Service
-Debris removal scheduled around business hours on a commercial or multi-tenant property. See our [Commercial Tree Service](/commercial-tree-service) page.
-
-### Tree Cabling and Bracing
-A cabling or bracing job that leaves only a small amount of pruning debris behind. See our [Tree Cabling and Bracing](/tree-cabling-bracing) page.
-
 ## Do You Need a Haul-Off or Just Chipping?
 
 Two outcomes get requested under the same word, and they leave a yard looking very different afterward. **Full haul-off** removes every limb, trunk section and pile of brush from the property, leaving a clear yard with nothing left behind. **Chipping in place** runs the smaller material through a chipper and leaves the resulting mulch on site. That is useful if you want ground cover for a bed or a bare patch instead of paying to haul it away. Larger trunk sections do not chip well and usually get hauled regardless of which option you choose for the smaller material. Some homeowners also ask us to leave cut rounds for firewood rather than hauling or chipping them, which we are glad to do when the wood is a usable size and species.
@@ -101,6 +75,32 @@ A homeowner calls after a storm dropped a large limb across the backyard and wan
 ## Where We Provide Debris Hauling in Hickory
 
 Hauling and chipping service is available across Hickory, Conover and the rest of Catawba County, with the same pricing whether the material came from our crew or someone else's. See our [Service Areas](/service-areas) page for the full list of towns we cover.
+
+## Other Tree Services We Provide Alongside Debris Hauling in Hickory
+
+### Tree Removal
+Full tree removal that includes debris hauling as part of the same visit. See our [Tree Removal](/tree-removal) page for pricing and process.
+
+### Tree Trimming
+Canopy work that leaves cut limbs behind, hauled or chipped the same day. See our [Tree Trimming](/tree-trimming) page.
+
+### Stump Grinding
+Grinding a stump leaves wood chips behind that can be hauled off or left as mulch. See our [Stump Grinding](/stump-grinding) page.
+
+### Land Clearing
+Full acreage clearing that produces large volumes of brush and trunk material. See our [Land Clearing](/land-clearing) page.
+
+### Brush Clearing
+Smaller-scale clearing along a fence line or yard edge that still needs the cut brush hauled. See our [Brush Clearing](/brush-clearing) page.
+
+### Bush Hogging
+Rotary mowing of rough acreage that leaves mulched material behind rather than a haul pile. See our [Bush Hogging](/bush-hogging) page.
+
+### Commercial Tree Service
+Debris removal scheduled around business hours on a commercial or multi-tenant property. See our [Commercial Tree Service](/commercial-tree-service) page.
+
+### Tree Cabling and Bracing
+A cabling or bracing job that leaves only a small amount of pruning debris behind. See our [Tree Cabling and Bracing](/tree-cabling-bracing) page.
 
 ## Get Your Free Debris Hauling Estimate
 

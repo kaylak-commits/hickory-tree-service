@@ -24,20 +24,6 @@ faqs:
 
 Sandy loam soil and about 45 inches of rain a year push fast, thick brush growth in any patch of yard that stops getting mowed or maintained. See our [Tree Removal](/tree-removal) page for the local climate detail behind that.
 
-## Other Tree Services We Provide in Hickory
-
-### Land Clearing
-Full acreage clearing for a build site, driveway or pasture, priced per acre. See our [Land Clearing](/land-clearing) page if your job covers a whole lot rather than a section of yard.
-
-### Tree Removal
-Removal of a single dead, hazardous or unwanted tree found within the brush. See our [Tree Removal](/tree-removal) page for pricing and process.
-
-### Stump Grinding
-Grinding stumps left behind once brush and saplings are cleared. See our [Stump Grinding](/stump-grinding) page for pricing.
-
-### Debris Hauling
-Full haul-off of cut brush and cleared vines once the job wraps. See our [Debris Hauling](/debris-hauling) page.
-
 ## Which Clearing Job Do You Actually Need?
 
 Two jobs get called the same thing and price very differently. **Brush clearing** covers a fence line, a yard edge or a bank that has grown up over a season or two. Saplings, vines and underbrush get cut back by hand or with a chainsaw over a defined area. **Land clearing** covers a whole wooded lot being prepared for a build, a driveway or a pasture, cleared acre by acre with an excavator and a mulching head. If your job is a build site or covers more than a fraction of an acre, our [Land Clearing](/land-clearing) page has the right pricing and process. If it is a patch of overgrown yard, a fence line or a bank of invasive vines, this page is the right fit. The walk-through sorts out which one your property actually needs before anything gets priced.
@@ -89,6 +75,20 @@ A homeowner calls about a back fence line buried in privet and honeysuckle vine 
 ## Where We Provide Brush Clearing in Hickory
 
 A fence line in Hickory and a yard edge out toward Conover get the same crew, the same tools and the same pricing. See our [Service Areas](/service-areas) page for the full list of Catawba County towns we cover.
+
+## Other Tree Services We Provide Alongside Brush Clearing in Hickory
+
+### Land Clearing
+Full acreage clearing for a build site, driveway or pasture, priced per acre. See our [Land Clearing](/land-clearing) page if your job covers a whole lot rather than a section of yard.
+
+### Tree Removal
+Removal of a single dead, hazardous or unwanted tree found within the brush. See our [Tree Removal](/tree-removal) page for pricing and process.
+
+### Stump Grinding
+Grinding stumps left behind once brush and saplings are cleared. See our [Stump Grinding](/stump-grinding) page for pricing.
+
+### Debris Hauling
+Full haul-off of cut brush and cleared vines once the job wraps. See our [Debris Hauling](/debris-hauling) page.
 
 ## Get Your Free Brush Clearing Estimate
 

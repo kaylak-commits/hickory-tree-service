@@ -26,25 +26,6 @@ Hickory's sandy loam soil drains fast but anchors roots less than denser ground,
 part of why a tree here can look sound above grade and be failing below it. See our
 [Tree Health Assessments](/tree-health-assessments) page for what that inspection covers.
 
-## Arborist Services We Provide
-
-### Tree Health Assessments
-A full diagnostic look at a stressed or declining tree, species by species. See our
-[Tree Health Assessments](/tree-health-assessments) page for what we check and what it
-costs.
-
-### Tree Fertilization
-Soil amendment and root-zone fertilization for a tree an assessment flags as nutrient-
-deficient. See our [Tree Fertilization](/tree-fertilization) page for scope and pricing.
-
-### Tree Removal
-Full removal once an arborist confirms a tree cannot be saved. See our
-[Tree Removal](/tree-removal) page for pricing and process.
-
-### Hazardous Tree Removal
-A lean, split trunk or storm-weakened tree that needs a risk read before any cut. See our
-[Hazardous Tree Removal](/hazardous-tree-removal) page.
-
 ## Which Arborist Service Do You Actually Need?
 
 Three calls come in sounding the same and are not. **A tree that looks stressed but is
@@ -103,7 +84,7 @@ recommendation made without checking the actual disease or pest present can also
 money on the wrong fix, since a soil deficiency and a fungal pathogen do not respond to
 the same correction.
 
-## Standards We Work To
+## Arborist Standards We Work To at Tree Service Hickory NC
 
 ANSI A300 sets the national standard for tree pruning, cabling, fertilization and risk
 assessment, and every arborist visit here is worked against it rather than a general
@@ -151,6 +132,25 @@ suggested for next season.
 Arborist assessments run across Hickory, Conover, Newton, Longview, Maiden and the rest
 of Catawba County, on the same schedule as our removal and trimming crews. See our
 [Service Areas](/service-areas) page for the full list of towns we cover.
+
+## Other Tree Services We Provide Alongside Arborist Services in Hickory
+
+### Tree Health Assessments
+A full diagnostic look at a stressed or declining tree, species by species. See our
+[Tree Health Assessments](/tree-health-assessments) page for what we check and what it
+costs.
+
+### Tree Fertilization
+Soil amendment and root-zone fertilization for a tree an assessment flags as nutrient-
+deficient. See our [Tree Fertilization](/tree-fertilization) page for scope and pricing.
+
+### Tree Removal
+Full removal once an arborist confirms a tree cannot be saved. See our
+[Tree Removal](/tree-removal) page for pricing and process.
+
+### Hazardous Tree Removal
+A lean, split trunk or storm-weakened tree that needs a risk read before any cut. See our
+[Hazardous Tree Removal](/hazardous-tree-removal) page.
 
 ## Get Your Free Arborist Assessment
 

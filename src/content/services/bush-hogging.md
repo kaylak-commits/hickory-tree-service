@@ -24,20 +24,6 @@ faqs:
 
 Pasture and fence-line growth comes back fast here on about 45 inches of rain a year, so rural acreage that skips a season of mowing can look like it has not been touched in years. See our [Tree Removal](/tree-removal) page for the local climate detail behind that.
 
-## Other Tree Services We Provide in Hickory
-
-### Land Clearing
-Full acreage clearing tree by tree for a build site, priced per acre. See our [Land Clearing](/land-clearing) page if the job is a build site rather than open pasture.
-
-### Brush Clearing
-Selective hand and chainsaw clearing of a fence line, yard edge or specific area. See our [Brush Clearing](/brush-clearing) page if you need to keep certain plants or trees in place.
-
-### Tree Removal
-Removal of a single hazardous or unwanted tree found on rural acreage. See our [Tree Removal](/tree-removal) page for pricing and process.
-
-### Debris Hauling
-Haul-off for any larger material a bush hog cannot process, like a fallen limb or trunk section. See our [Debris Hauling](/debris-hauling) page.
-
 ## Bush Hogging, Brush Clearing or Land Clearing?
 
 Three services get requested for the same overgrown acreage and they leave very different results. **Bush hogging** mows everything in its path flat with a rotary cutter, fast and inexpensive per acre, right for open pasture, fence lines and ATV trails where nothing specific needs to be kept standing. **Brush clearing** works selectively by hand or with a chainsaw over a smaller, defined section, right when specific plants, young trees or a fence line need to be worked around rather than flattened. **Land clearing** removes trees, stumps and roots entirely for a build site or driveway, priced per acre with an excavator rather than a mower. If your acreage just needs to be knocked back flat and nothing on it needs saving, bush hogging is the fastest and cheapest of the three per acre.
@@ -89,6 +75,20 @@ A landowner calls about three acres of pasture that has not been mowed in two se
 ## Where We Provide Bush Hogging in Hickory
 
 A rural lot outside Hickory and a pasture out toward Conover both get the same tractor, the same per-acre rate and the same hazard check first. See our [Service Areas](/service-areas) page for the full list of Catawba County towns we cover.
+
+## Other Tree Services We Provide Alongside Bush Hogging in Hickory
+
+### Land Clearing
+Full acreage clearing tree by tree for a build site, priced per acre. See our [Land Clearing](/land-clearing) page if the job is a build site rather than open pasture.
+
+### Brush Clearing
+Selective hand and chainsaw clearing of a fence line, yard edge or specific area. See our [Brush Clearing](/brush-clearing) page if you need to keep certain plants or trees in place.
+
+### Tree Removal
+Removal of a single hazardous or unwanted tree found on rural acreage. See our [Tree Removal](/tree-removal) page for pricing and process.
+
+### Debris Hauling
+Haul-off for any larger material a bush hog cannot process, like a fallen limb or trunk section. See our [Debris Hauling](/debris-hauling) page.
 
 ## Get Your Free Bush Hogging Estimate
 

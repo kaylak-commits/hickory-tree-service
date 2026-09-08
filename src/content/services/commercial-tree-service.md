@@ -22,23 +22,6 @@ faqs:
 
 Sandy loam soil and about 45 inches of rain a year put the same root and drainage pressure on a commercial lot's trees as on a residential yard. See our [Tree Removal](/tree-removal) page for the local climate detail behind that.
 
-## Other Tree Services We Provide in Hickory
-
-### Tree Removal
-Removal of a single hazardous or unwanted tree from a commercial lot. See our [Tree Removal](/tree-removal) page for pricing and process.
-
-### Tree Trimming
-Canopy clearance over a roofline, walkway or parking area. See our [Tree Trimming](/tree-trimming) page for pricing and process.
-
-### Land Clearing
-Clearing a lot for new construction or an expanded parking area, priced per acre. See our [Land Clearing](/land-clearing) page.
-
-### Stump Grinding
-Grinding stumps flush so a lot can be paved, landscaped or mowed without an obstruction. See our [Stump Grinding](/stump-grinding) page for pricing.
-
-### Debris Hauling
-Full haul-off of limbs, trunk sections and brush once a job wraps. See our [Debris Hauling](/debris-hauling) page.
-
 ## Which Commercial Job Do You Actually Need?
 
 Three types of job get called commercial tree service and they price differently. A **single hazardous or dead tree on an otherwise finished property** is a standard removal, priced and scheduled like a residential job with the added step of a certificate of insurance for the property file. A **parking lot or storefront with canopy overhanging traffic or signage** usually calls for trimming and clearance rather than removal, cut back to a code-compliant clearance height over drive lanes. A **lot being prepared for new construction or an expanded footprint** is a land-clearing job priced per acre, not per tree. It is often tied to a landscape plan the City of Hickory reviews for new commercial development. If you are not sure which describes your property, the walk-through sorts it out before anything is priced.
@@ -90,6 +73,23 @@ A property manager calls about three dead pines along a retail lot's back fence 
 ## Where We Provide Commercial Tree Service in Hickory
 
 Commercial properties across Hickory, Conover, Newton and the rest of Catawba County get the same crew, pricing structure and insurance documentation regardless of the town. See our [Service Areas](/service-areas) page for the full list of towns we cover.
+
+## Other Tree Services We Provide Alongside Commercial Tree Service in Hickory
+
+### Tree Removal
+Removal of a single hazardous or unwanted tree from a commercial lot. See our [Tree Removal](/tree-removal) page for pricing and process.
+
+### Tree Trimming
+Canopy clearance over a roofline, walkway or parking area. See our [Tree Trimming](/tree-trimming) page for pricing and process.
+
+### Land Clearing
+Clearing a lot for new construction or an expanded parking area, priced per acre. See our [Land Clearing](/land-clearing) page.
+
+### Stump Grinding
+Grinding stumps flush so a lot can be paved, landscaped or mowed without an obstruction. See our [Stump Grinding](/stump-grinding) page for pricing.
+
+### Debris Hauling
+Full haul-off of limbs, trunk sections and brush once a job wraps. See our [Debris Hauling](/debris-hauling) page.
 
 ## Get Your Free Commercial Tree Service Estimate
 

@@ -26,28 +26,6 @@ Sandy loam soil and about 45 inches of rain a year mean cleared ground here need
 grading and drainage thought through before it sits bare. See our
 [Tree Removal](/tree-removal) page for the local climate detail behind that.
 
-## Other Tree Services We Provide in Hickory
-
-### Tree Removal
-Full removal of a single dead, hazardous or unwanted tree. See our
-[Tree Removal](/tree-removal) page for pricing and process.
-
-### Tree Trimming
-Structural pruning, canopy thinning and clearance work on a tree that is still sound.
-See our [Tree Trimming](/tree-trimming) page for pricing and process.
-
-### Stump Grinding
-Grinding a stump flush below grade after a removal. See our
-[Stump Grinding](/stump-grinding) page for pricing.
-
-### Hazardous Tree Removal
-A dead or storm-weakened tree that has not fallen yet but poses a real risk. See our
-[Hazardous Tree Removal](/hazardous-tree-removal) page.
-
-### Deadwood and Diseased Tree Removal
-Dead limbs or a tree too far gone from disease to save. See our
-[Deadwood and Diseased Tree Removal](/deadwood-diseased-tree-removal) page.
-
 ## Which Type of Land Clearing Do You Actually Need?
 
 Three jobs get called "land clearing" and they price and run differently. **Full
@@ -144,6 +122,28 @@ From half-acre residential lots inside Hickory to larger rural parcels out towar
 Conover and the rest of Catawba County, equipment access is confirmed at the
 walk-through rather than assumed. See our [Service Areas](/service-areas) page for
 the full list of towns we cover.
+
+## Other Tree Services We Provide Alongside Land Clearing in Hickory
+
+### Tree Removal
+Full removal of a single dead, hazardous or unwanted tree. See our
+[Tree Removal](/tree-removal) page for pricing and process.
+
+### Tree Trimming
+Structural pruning, canopy thinning and clearance work on a tree that is still sound.
+See our [Tree Trimming](/tree-trimming) page for pricing and process.
+
+### Stump Grinding
+Grinding a stump flush below grade after a removal. See our
+[Stump Grinding](/stump-grinding) page for pricing.
+
+### Hazardous Tree Removal
+A dead or storm-weakened tree that has not fallen yet but poses a real risk. See our
+[Hazardous Tree Removal](/hazardous-tree-removal) page.
+
+### Deadwood and Diseased Tree Removal
+Dead limbs or a tree too far gone from disease to save. See our
+[Deadwood and Diseased Tree Removal](/deadwood-diseased-tree-removal) page.
 
 ## Get Your Free Land Clearing Estimate
 

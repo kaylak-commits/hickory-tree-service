@@ -24,25 +24,6 @@ Sandy loam soil that saturates during Hickory's 45 inches of yearly rain stresse
 in ways that show up in the canopy long before a tree looks obviously sick. See our
 [Tree Removal](/tree-removal) page for the local climate detail behind that pattern.
 
-## Other Tree Health Services We Provide in Hickory
-
-### Certified Arborist Services
-ISA-certified arborists working to ANSI A300 standards behind every assessment. See our
-[Arborist](/arborist) page for scope and pricing.
-
-### Tree Fertilization
-The follow-up service when an assessment finds a tree with a nutrient deficiency
-rather than a disease entity. See our [Tree Fertilization](/tree-fertilization) page
-for scope and pricing.
-
-### Hazardous Tree Removal
-For a tree where the assessment finds a structural risk instead of, or alongside, a
-health problem. See our [Hazardous Tree Removal](/hazardous-tree-removal) page.
-
-### Tree Removal
-For a tree an assessment confirms is past the point treatment can help. See our
-[Tree Removal](/tree-removal) page for pricing and process.
-
 ## When Should You Actually Get a Tree Health Assessment?
 
 Four situations call for one before anything else. **A tree looking stressed but not
@@ -153,6 +134,25 @@ in Catawba County: Hickory proper, Conover, Newton, Longview or Maiden. A homeow
 scheduling a second opinion before a big decision pays no separate trip charge for it
 either. See our [Service Areas](/service-areas) page for the full list of
 towns we cover.
+
+## Other Tree Health Services We Provide Alongside Tree Health Assessments in Hickory
+
+### Certified Arborist Services
+ISA-certified arborists working to ANSI A300 standards behind every assessment. See our
+[Arborist](/arborist) page for scope and pricing.
+
+### Tree Fertilization
+The follow-up service when an assessment finds a tree with a nutrient deficiency
+rather than a disease entity. See our [Tree Fertilization](/tree-fertilization) page
+for scope and pricing.
+
+### Hazardous Tree Removal
+For a tree where the assessment finds a structural risk instead of, or alongside, a
+health problem. See our [Hazardous Tree Removal](/hazardous-tree-removal) page.
+
+### Tree Removal
+For a tree an assessment confirms is past the point treatment can help. See our
+[Tree Removal](/tree-removal) page for pricing and process.
 
 ## Get Your Free Tree Health Assessment
 

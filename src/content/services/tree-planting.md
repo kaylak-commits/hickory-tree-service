@@ -24,20 +24,6 @@ faqs:
 
 Hickory's sandy loam soil drains fast, which affects how often a newly planted tree needs watering compared to denser clay ground. See our [Tree Removal](/tree-removal) page for the local climate detail behind that.
 
-## Other Tree Services We Provide in Hickory
-
-### Certified Arborist
-Species selection and site evaluation for a tree planting where disease pressure in the yard needs a professional look first. See our [Certified Arborist](/arborist) page.
-
-### Tree Health Assessments
-A checkup for a newly planted tree that is not establishing well. See our [Tree Health Assessments](/tree-health-assessments) page.
-
-### Tree Fertilization
-Soil amendment for a planting site that needs nutrient correction before or after a tree goes in. See our [Tree Fertilization](/tree-fertilization) page.
-
-### Tree Transplanting
-Moving an established tree already on your property rather than planting a new one. See our [Tree Transplanting](/tree-transplanting) page.
-
 ## Which Species Actually Belongs on Your Property?
 
 Species choice for a new tree depends on what is already growing in the yard nearby, not just what looks good on the day it goes in the ground. A **loblolly pine** grows fast and tall but is shallow-rooted for its height and vulnerable to southern pine beetle, a poor choice for a lot already showing beetle pressure in neighboring pines. A **white oak or red oak** is a strong long-term shade tree, but oak wilt spreads between nearby oaks, so planting one near a stand already showing wilt symptoms adds risk rather than avoiding it. A **red maple** establishes quickly and tolerates a range of soil, though its shallow, aggressive root system can lift a walkway or invade a septic line if planted too close to either. A **tulip poplar** grows fast but carries brittle limbs prone to storm failure, better suited well back from a house or driveway than close to one. The right call depends on the actual lot, and the walk-through is where that gets decided.
@@ -89,6 +75,20 @@ A homeowner calls about replacing a large pine removed the previous year and wan
 ## Where We Provide Tree Planting in Hickory
 
 A shade tree going into a Hickory lot and a windbreak row planted out toward Conover both start with the same species-first evaluation. See our [Service Areas](/service-areas) page for the full list of Catawba County towns we cover.
+
+## Other Tree Services We Provide Alongside Tree Planting in Hickory
+
+### Certified Arborist
+Species selection and site evaluation for a tree planting where disease pressure in the yard needs a professional look first. See our [Certified Arborist](/arborist) page.
+
+### Tree Health Assessments
+A checkup for a newly planted tree that is not establishing well. See our [Tree Health Assessments](/tree-health-assessments) page.
+
+### Tree Fertilization
+Soil amendment for a planting site that needs nutrient correction before or after a tree goes in. See our [Tree Fertilization](/tree-fertilization) page.
+
+### Tree Transplanting
+Moving an established tree already on your property rather than planting a new one. See our [Tree Transplanting](/tree-transplanting) page.
 
 ## Get Your Free Tree Planting Estimate
 

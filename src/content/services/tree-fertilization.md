@@ -25,25 +25,6 @@ nutrients past shallow roots before a tree ever uses them, a real driver of the
 deficiencies an assessment finds here. See our
 [Tree Health Assessments](/tree-health-assessments) page for how that gets diagnosed.
 
-## Other Tree Health Services We Provide in Hickory
-
-### Tree Health Assessments
-The diagnosis that tells you whether fertilization is actually the right fix. See our
-[Tree Health Assessments](/tree-health-assessments) page for what we check and what it
-costs.
-
-### Certified Arborist Services
-ISA-certified arborists working to ANSI A300 standards for the assessment behind a
-fertilization plan. See our [Arborist](/arborist) page for scope and pricing.
-
-### Tree Removal
-For a tree an assessment finds past the point fertilization can help. See our
-[Tree Removal](/tree-removal) page for pricing and process.
-
-### Hazardous Tree Removal
-When a declining tree has also become a structural risk rather than just a health
-problem. See our [Hazardous Tree Removal](/hazardous-tree-removal) page.
-
 ## Which Fertilization Approach Do You Actually Need?
 
 Three situations get called "fertilization" and are not the same job. **A young or newly
@@ -145,6 +126,25 @@ fungicide is part of the job, since the cause was nutrient, not disease.
 Tree fertilization runs on the same schedule as our assessment and removal crews across
 Hickory, Conover, Newton, Longview and Maiden. See our
 [Service Areas](/service-areas) page for the full list of towns we cover.
+
+## Other Tree Health Services We Provide Alongside Tree Fertilization in Hickory
+
+### Tree Health Assessments
+The diagnosis that tells you whether fertilization is actually the right fix. See our
+[Tree Health Assessments](/tree-health-assessments) page for what we check and what it
+costs.
+
+### Certified Arborist Services
+ISA-certified arborists working to ANSI A300 standards for the assessment behind a
+fertilization plan. See our [Arborist](/arborist) page for scope and pricing.
+
+### Tree Removal
+For a tree an assessment finds past the point fertilization can help. See our
+[Tree Removal](/tree-removal) page for pricing and process.
+
+### Hazardous Tree Removal
+When a declining tree has also become a structural risk rather than just a health
+problem. See our [Hazardous Tree Removal](/hazardous-tree-removal) page.
 
 ## Get Your Free Tree Fertilization Estimate
 

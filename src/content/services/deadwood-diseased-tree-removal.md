@@ -26,24 +26,6 @@ Loblolly pine, water oak and red maple, common across Hickory yards, each carry 
 own disease and pest risks that show up as dead or dying sections of canopy. See our
 [Tree Removal](/tree-removal) page for the local climate detail behind that.
 
-## Other Tree Services We Provide in Hickory
-
-### Tree Removal
-Full removal of a dead, hazardous or unwanted tree. See our
-[Tree Removal](/tree-removal) page for pricing and process.
-
-### Tree Trimming
-Structural pruning, canopy thinning and clearance work on a tree that is still sound.
-See our [Tree Trimming](/tree-trimming) page for pricing and process.
-
-### Hazardous Tree Removal
-A dead or storm-weakened tree that has not fallen yet but poses a real risk. See our
-[Hazardous Tree Removal](/hazardous-tree-removal) page.
-
-### Stump Grinding
-Grinding a stump flush below grade after a removal. See our
-[Stump Grinding](/stump-grinding) page for pricing.
-
 ## Deadwooding or Full Removal, Which Do You Need?
 
 Three situations get called about a dead or sick-looking tree, and they are not the
@@ -136,6 +118,24 @@ Southern pine beetle and oak wilt spread from yard to yard regardless of the tow
 and removal standard applies inside Hickory or out toward Conover and the rest of
 Catawba County. See our
 [Service Areas](/service-areas) page for the full list of towns we cover.
+
+## Other Tree Services We Provide Alongside Deadwood and Diseased Tree Removal in Hickory
+
+### Tree Removal
+Full removal of a dead, hazardous or unwanted tree. See our
+[Tree Removal](/tree-removal) page for pricing and process.
+
+### Tree Trimming
+Structural pruning, canopy thinning and clearance work on a tree that is still sound.
+See our [Tree Trimming](/tree-trimming) page for pricing and process.
+
+### Hazardous Tree Removal
+A dead or storm-weakened tree that has not fallen yet but poses a real risk. See our
+[Hazardous Tree Removal](/hazardous-tree-removal) page.
+
+### Stump Grinding
+Grinding a stump flush below grade after a removal. See our
+[Stump Grinding](/stump-grinding) page for pricing.
 
 ## Get Your Free Inspection
 

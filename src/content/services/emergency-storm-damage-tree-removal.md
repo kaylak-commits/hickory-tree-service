@@ -35,32 +35,6 @@ that tear apart under wind or ice load rather than one solid trunk. A tree that
 survives one storm with hidden root or trunk damage is often the one that comes down
 in the next.
 
-## Other Tree Services We Provide in Hickory
-
-### Tree Removal
-Full removal of a dead, hazardous or unwanted tree on a normal schedule, not an
-emergency. See our [Tree Removal](/tree-removal) page for pricing and process.
-
-### Tree Trimming
-Structural pruning, canopy thinning and clearance work on a tree that is still sound.
-See our [Tree Trimming](/tree-trimming) page for pricing and process.
-
-### Stump Grinding
-Grinding a stump flush below grade after a removal. See our [Stump
-Grinding](/stump-grinding) page for pricing.
-
-### Hazardous Tree Removal
-A dead or storm-weakened tree that has not fallen yet but poses a real risk. See our
-[Hazardous Tree Removal](/hazardous-tree-removal) page.
-
-### Land Clearing
-Clearing a wooded lot for a build site or a driveway, priced per acre. See our
-[Land Clearing](/land-clearing) page.
-
-### Deadwood and Diseased Tree Removal
-Dead limbs or a tree too far gone from disease to save. See our
-[Deadwood and Diseased Tree Removal](/deadwood-diseased-tree-removal) page.
-
 ## What Kind of Storm Damage Are You Dealing With?
 
 Four situations get the call after a storm, and each one changes what happens first.
@@ -170,6 +144,32 @@ other weakened trees standing nearby, the crew can quote [hazardous
 removal](/hazardous-tree-removal) or [stump grinding](/stump-grinding) during the
 same visit. See our [Service Areas](/service-areas) page for the full list of towns
 we cover.
+
+## Other Tree Services We Provide Alongside Emergency Tree Removal in Hickory
+
+### Tree Removal
+Full removal of a dead, hazardous or unwanted tree on a normal schedule, not an
+emergency. See our [Tree Removal](/tree-removal) page for pricing and process.
+
+### Tree Trimming
+Structural pruning, canopy thinning and clearance work on a tree that is still sound.
+See our [Tree Trimming](/tree-trimming) page for pricing and process.
+
+### Stump Grinding
+Grinding a stump flush below grade after a removal. See our [Stump
+Grinding](/stump-grinding) page for pricing.
+
+### Hazardous Tree Removal
+A dead or storm-weakened tree that has not fallen yet but poses a real risk. See our
+[Hazardous Tree Removal](/hazardous-tree-removal) page.
+
+### Land Clearing
+Clearing a wooded lot for a build site or a driveway, priced per acre. See our
+[Land Clearing](/land-clearing) page.
+
+### Deadwood and Diseased Tree Removal
+Dead limbs or a tree too far gone from disease to save. See our
+[Deadwood and Diseased Tree Removal](/deadwood-diseased-tree-removal) page.
 
 ## Call for Emergency Tree Removal Now
 

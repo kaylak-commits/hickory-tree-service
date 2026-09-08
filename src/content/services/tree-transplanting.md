@@ -24,20 +24,6 @@ faqs:
 
 Hickory's cooler months give a transplanted tree's root system time to settle into sandy loam soil before summer heat puts it under stress. See our [Tree Planting](/tree-planting) page for the local climate detail behind site preparation.
 
-## Other Tree Services We Provide in Hickory
-
-### Tree Planting
-Putting a new tree in the ground rather than relocating one already established on the property. See our [Tree Planting](/tree-planting) page.
-
-### Certified Arborist
-A health and structural evaluation before transplanting a larger or higher-value tree. See our [Certified Arborist](/arborist) page.
-
-### Tree Health Assessments
-A checkup for a transplanted tree that is not establishing well at its new location. See our [Tree Health Assessments](/tree-health-assessments) page.
-
-### Tree Removal
-Full removal for a tree too large or too far gone to transplant successfully. See our [Tree Removal](/tree-removal) page for pricing and process.
-
 ## Is Your Tree Actually a Transplant Candidate?
 
 Three things decide whether a tree is worth moving instead of removing. **Trunk diameter** is the biggest factor. A tree spade can only move a root ball sized to what a tractor-mounted machine can lift, generally trees with a trunk under roughly 6 inches in diameter. A mature 60-foot oak, with a trunk several times that size, is not a candidate. **Root health and root spread** matter too, since a tree with roots already compromised by nearby construction or a septic line does not survive a move as well as one with an intact root system. **Timing** rules out a transplant attempted outside the dormant season, since a tree actively pushing new growth puts far more stress on a disturbed root system than one that has gone dormant for the winter. If your tree is small enough, healthy at the roots, and it is the right season, transplanting is usually the better call over removal and a new planting.
@@ -89,6 +75,20 @@ A homeowner calls about a young maple planted too close to where a new patio is 
 ## Where We Provide Tree Transplanting in Hickory
 
 A young maple moved across a Hickory yard and a shade tree relocated ahead of a build out toward Conover both wait for the same dormant-season window. See our [Service Areas](/service-areas) page for the full list of towns we cover.
+
+## Other Tree Services We Provide Alongside Tree Transplanting in Hickory
+
+### Tree Planting
+Putting a new tree in the ground rather than relocating one already established on the property. See our [Tree Planting](/tree-planting) page.
+
+### Certified Arborist
+A health and structural evaluation before transplanting a larger or higher-value tree. See our [Certified Arborist](/arborist) page.
+
+### Tree Health Assessments
+A checkup for a transplanted tree that is not establishing well at its new location. See our [Tree Health Assessments](/tree-health-assessments) page.
+
+### Tree Removal
+Full removal for a tree too large or too far gone to transplant successfully. See our [Tree Removal](/tree-removal) page for pricing and process.
 
 ## Get Your Free Tree Transplanting Estimate
 
