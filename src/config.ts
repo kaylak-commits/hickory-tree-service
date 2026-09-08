@@ -204,22 +204,25 @@ export const IMAGES = {
   hazardous:     { src: '/images/hazardous-tree-hero.png',       alt: 'Bucket truck positioned for hazardous tree work' },
   crane:         { src: '/images/tree-removal-hero.png',         alt: 'Crane-assisted removal of a large tree' },
   arborist:      { src: '/images/arborist-hero.png',             alt: 'Arborists assessing a large oak tree in North Carolina' },
-  deadwood:      { src: '/images/deadwood-removal-hero.png',     alt: 'Crew removing dead and diseased limbs from a tree' },
-  /* ⚠️ 'commercial-tree-hero.png' was found to actually BE the site logo file,
-     not a photo (caught 2026-09-07 while fixing other image bugs) — swapped to
-     a real photo below. Kayla is sourcing a real commercial-property photo;
-     swap this back once she sends one. Same bug also affects the 'deadwood'
-     key below (points at the logo-with-banner file) — flagged, not fixed,
-     since it's on a service page outside this pass's scope. */
-  commercial:    { src: '/images/debris-hauling-hero.png',       alt: 'Tree crew clearing debris on a commercial job site' },
+  /* ✅ Fixed 2026-09-08: 'deadwood-removal-hero.png' was the same logo-file bug
+     flagged (not fixed) on 2026-09-07 — it was the logo image, not a photo.
+     Kayla sent 4 new real photos this session; the climbing/rigging shot below
+     is the correct real replacement. */
+  deadwood:      { src: '/images/arborist-rigging-oak.webp',     alt: 'Arborist climbing and rigging down limbs from a large oak' },
+  /* ✅ Fixed 2026-09-08: was a stand-in ('debris-hauling-hero.png' borrowed from
+     the debris key) while Kayla sourced a real commercial-property photo — she
+     sent one this session. */
+  commercial:    { src: '/images/land-clearing-crew-2.webp',     alt: 'Tree crew clearing a wooded commercial lot' },
   brush:         { src: '/images/land-clearing-hero.png',        alt: 'Brush and undergrowth cleared from a wooded lot' },
   hedge:         { src: '/images/tree-planting-hero.png',        alt: 'Landscaped North Carolina backyard with hedges and shrubs' },
-  cabling:       { src: '/images/tree-cabling-hero.png',         alt: 'Arborist harness and rigging detail on a tree trunk' },
+  cabling:       { src: '/images/arborist-rigging-oak.webp',     alt: 'Arborist harness and rigging detail on a tree trunk' },
   planting:      { src: '/images/tree-planting-hero.png',        alt: 'North Carolina backyard with newly planted trees' },
-  debris:        { src: '/images/debris-hauling-hero.png',       alt: 'Wood chipper processing cut tree debris on a street' },
+  /* ✅ Fixed 2026-09-08: was reusing the 'commercial' stand-in photo; now its
+     own real photo. */
+  debris:        { src: '/images/log-truck-hauling.webp',        alt: 'Loaded log truck hauling cut tree debris away from a job site' },
   bushHogging:   { src: '/images/bush-hogging-hero.png',         alt: 'Cut brush and wood debris cleared from a rural property' },
   transplanting: { src: '/images/tree-planting-hero.png',        alt: 'North Carolina backyard with newly planted trees' },
-  fertilization: { src: '/images/land-clearing-hero.png',        alt: 'Healthy Piedmont NC woodland' },
+  fertilization: { src: '/images/oak-canopy.webp',               alt: 'Healthy, full oak canopy in Hickory, NC' },
   healthAssess:  { src: '/images/arborist-hero.png',             alt: 'Arborists assessing a large oak tree for health issues' },
   aboutCrew:     { src: '/images/about-crew-on-site.png',        alt: 'Tree Service Hickory NC crew on site' },
 } as const;
