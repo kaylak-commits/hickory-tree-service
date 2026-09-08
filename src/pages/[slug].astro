@@ -40,6 +40,15 @@ const { entry, kind } = Astro.props;
 await render(entry);                       // populates entry.rendered
 const data: any = entry.data;
 
+/* The frontmatter `intro` field is plain text/markdown, not rendered markdown --
+   it's injected with set:html below rather than going through render(entry).
+   Convert any [text](url) markdown links in it to real <a> tags so they don't
+   print as literal brackets in the hero. */
+function mdLinks(s: string): string {
+  return (s ?? '').replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
+}
+const introHtml = mdLinks(data.intro);
+
 /* Split the page copy into four chunks at H2 boundaries so photos can sit
    BETWEEN sections of text rather than all bunched at the end. */
 function splitCopy(html: string, parts = 4): string[] {
@@ -88,7 +97,7 @@ const label = kind === 'location' ? `${data.town}, NC` : data.h1;
       <div class="hero-grid">
         <div class="hcard">
           <h1>{data.h1}</h1>
-          <p class="lede" set:html={data.intro} />
+          <p class="lede" set:html={introHtml} />
           {SHOW_CALL_CTA && (
             <div class="cta-row" style="margin-top:24px">
               <a class="cta" href={CALL_CTA.href}>{CALL_CTA.label}</a>

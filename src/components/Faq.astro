@@ -1,6 +1,13 @@
 ---
 interface Props { items: { q: string; a: string }[]; heading?: string; }
 const { items, heading } = Astro.props;
+
+/* FAQ answers come straight from frontmatter (plain text/markdown), not from
+   render(entry), so [text](url) links in them never become real <a> tags.
+   Convert them here, once, for every page that uses this component. */
+function mdLinks(s: string): string {
+  return (s ?? '').replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
+}
 ---
 <section class="faq">
   <div class="wrap">
@@ -8,7 +15,7 @@ const { items, heading } = Astro.props;
     {items.map((f) => (
       <details>
         <summary>{f.q}</summary>
-        <div class="a"><p set:html={f.a} /></div>
+        <div class="a"><p set:html={mdLinks(f.a)} /></div>
       </details>
     ))}
   </div>
