@@ -2,7 +2,7 @@
 title: "Commercial Tree Service Hickory NC | Free Estimate"
 h1: "Commercial Tree Service in Hickory, NC"
 description: "Commercial tree service in Hickory, NC is scoped at a site walk-through, from a $500 single-tree removal to multi-acre lot clearing. COI provided. Free estimate."
-intro: "[Tree Service Hickory NC](/) handles tree removal, trimming, stump grinding and land clearing for commercial and multi-tenant properties across Catawba County. A commercial job starts with a site walk-through that covers the trees, the parking lot, tenant access and the hours the property can tolerate a crew and equipment on site. Once the scope is set, we provide a certificate of insurance to the property manager or general contractor before the crew arrives. The crew works with equipment sized to the site, a bucket truck and ground crew for an open lot, a crane where a building or overhead line limits access. Debris gets hauled off the same day whenever the schedule allows it."
+intro: "[Tree Service Hickory NC](/) handles tree removal, trimming, stump grinding and land clearing for commercial and multi-tenant properties across Catawba County. A commercial job starts with a site walk-through that covers the trees, the parking lot, tenant access and the hours the property can tolerate a crew and equipment on site. Once the scope is set, we provide a certificate of insurance to the property manager or general contractor before the crew arrives. The crew works with equipment sized to the site, a bucket truck and ground crew for an open lot, a crane where a building or overhead line limits access. Debris gets hauled off the same day whenever the schedule allows it. We work with property management companies, HOAs, retail centers, churches and small commercial landowners across Hickory and Catawba County. Larger crews and additional equipment come out for multi-tree jobs and tight timelines, and every job carries the same licensed and insured coverage as our residential work. Scheduling runs around the property's business hours rather than a standard weekday call, including early morning or after-close work when a parking lot or entrance needs to stay clear. Commercial jobs across Hickory, Conover and the rest of the county get the same written price before work starts that a homeowner gets."
 layer: main
 hero: commercial
 inMenu: true
@@ -19,12 +19,6 @@ faqs:
   - q: "Is Tree Service Hickory NC licensed and insured?"
     a: "Yes, on every job, with documentation provided for the property file on request."
 ---
-
-[Tree Service Hickory NC](/) handles tree removal, trimming, stump grinding and land clearing for commercial and multi-tenant properties across Catawba County. A commercial job starts with a site walk-through that covers the trees, the parking lot, tenant access and the hours the property can tolerate a crew and equipment on site. Once the scope is set, we provide a certificate of insurance to the property manager or general contractor before the crew arrives. The crew works with equipment sized to the site, a bucket truck and ground crew for an open lot, a crane where a building or overhead line limits access. Debris gets hauled off the same day whenever the schedule allows it.
-
-We work with property management companies, HOAs, retail centers, churches and small commercial landowners across Hickory and Catawba County. Larger crews and additional equipment come out for multi-tree jobs and tight timelines, and every job carries the same licensed and insured coverage as our residential work. Scheduling runs around the property's business hours rather than a standard weekday call, including early morning or after-close work when a parking lot or entrance needs to stay clear. Commercial jobs across Hickory, Conover and the rest of the county get the same written price before work starts that a homeowner gets.
-
-**(828) 522-9430. Free Estimate.**
 
 Sandy loam soil and about 45 inches of rain a year put the same root and drainage pressure on a commercial lot's trees as on a residential yard. See our [Tree Removal](/tree-removal) page for the local climate detail behind that.
 

@@ -2,7 +2,7 @@
 title: "Debris Hauling Hickory NC | Free Estimate"
 h1: "Debris Hauling and Wood Chip Removal in Hickory, NC"
 description: "Debris hauling and wood chipping in Hickory, NC is often included in a $500 removal, or priced on its own for standalone jobs. Free estimate."
-intro: "[Tree Service Hickory NC](/) hauls limbs, trunk sections and brush off Catawba County properties after a tree job, or on its own when a homeowner already has a pile of cut wood to clear. Debris hauling and wood chipping removal describe the same service here, moving cut material off a property either whole or run through a chipper first. A crew sorts the pile, sections anything too large to lift, chips the smaller brush on site or loads it whole, then hauls everything to disposal. Limbs from a storm, trunk sections from a removal someone else did, or brush from a clearing job, we haul it whether we cut it or not."
+intro: "[Tree Service Hickory NC](/) hauls limbs, trunk sections and brush off Catawba County properties after a tree job, or on its own when a homeowner already has a pile of cut wood to clear. Debris hauling and wood chipping removal describe the same service here, moving cut material off a property either whole or run through a chipper first. A crew sorts the pile, sections anything too large to lift, chips the smaller brush on site or loads it whole, then hauls everything to disposal. Limbs from a storm, trunk sections from a removal someone else did, or brush from a clearing job, we haul it whether we cut it or not. We work with homeowners, landlords and small commercial properties across Hickory and Catawba County. A chipper handles brush and smaller limbs quickly, and a grapple truck loads larger trunk sections that would take too long to cut down by hand. Licensed and insured on every job, with a free estimate before you pay for anything. Debris jobs across Hickory, Conover and the rest of the county run on the same pricing whether the material came from our crew or someone else's."
 layer: longtail
 hero: debris
 inMenu: false
@@ -21,12 +21,6 @@ faqs:
   - q: "Is Tree Service Hickory NC licensed and insured?"
     a: "Yes, on every job."
 ---
-
-[Tree Service Hickory NC](/) hauls limbs, trunk sections and brush off Catawba County properties after a tree job, or on its own when a homeowner already has a pile of cut wood to clear. Debris hauling and wood chipping removal describe the same service here, moving cut material off a property either whole or run through a chipper first. A crew sorts the pile, sections anything too large to lift, chips the smaller brush on site or loads it whole, then hauls everything to disposal. Limbs from a storm, trunk sections from a removal someone else did, or brush from a clearing job, we haul it whether we cut it or not.
-
-We work with homeowners, landlords and small commercial properties across Hickory and Catawba County. A chipper handles brush and smaller limbs quickly, and a grapple truck loads larger trunk sections that would take too long to cut down by hand. Licensed and insured on every job, with a free estimate before you pay for anything. Debris jobs across Hickory, Conover and the rest of the county run on the same pricing whether the material came from our crew or someone else's.
-
-**(828) 522-9430. Free Estimate.**
 
 About 45 inches of rain a year means storm-downed limbs and brush left on the ground can sit in wet conditions and start to break down or attract pests if they are not cleared promptly. See our [Tree Removal](/tree-removal) page for the local climate detail behind that.
 

@@ -2,7 +2,7 @@
 title: "Tree Fertilization Hickory NC | Free Estimate"
 h1: "Tree Fertilization in Hickory, NC"
 description: "Tree fertilization in Hickory, NC runs $500 to $2,000+ as part of plant health care. Soil-based, root-zone feeding. Free estimate."
-intro: "Tree Service Hickory NC feeds trees that an assessment has flagged as nutrient-deficient, not on a guess with a bag of fertilizer off a home store shelf. A soil test around the root flare comes first. Then a root-zone or deep-root feeding, matched to what the soil is actually missing. Then a follow-up plan tied to the tree's species: loblolly pine, red maple, white oak and the rest of what grows across Catawba County. Sandy loam soil, common across Hickory yards, drains fast and can carry nutrients past a shallow-rooted tree before it gets the benefit, which is why a soil-based approach beats a surface spread here."
+intro: "Tree Service Hickory NC feeds trees that an assessment has flagged as nutrient-deficient, not on a guess with a bag of fertilizer off a home store shelf. A soil test around the root flare comes first. Then a root-zone or deep-root feeding, matched to what the soil is actually missing. Then a follow-up plan tied to the tree's species: loblolly pine, red maple, white oak and the rest of what grows across Catawba County. Sandy loam soil, common across Hickory yards, drains fast and can carry nutrients past a shallow-rooted tree before it gets the benefit, which is why a soil-based approach beats a surface spread here. We work single-family lots, rental properties and small commercial sites. Fertilization here follows an assessment, not a sales call, so a tree gets fed because a diagnosis found a real deficiency, not on a schedule sold up front. Licensed and insured on every visit, with a free estimate before any work is scheduled, across Hickory, Conover, Newton, Longview and Maiden."
 layer: longtail
 hero: fertilization
 inMenu: false
@@ -19,23 +19,6 @@ faqs:
   - q: "Is Tree Service Hickory NC licensed and insured?"
     a: "Yes, on every job."
 ---
-
-Tree Service Hickory NC feeds trees that an assessment has flagged as nutrient-deficient,
-not on a guess with a bag of fertilizer off a home store shelf. A soil test around the
-root flare comes first. Then a root-zone or deep-root feeding, matched to what the soil
-is actually missing. Then a follow-up plan tied to the tree's species: loblolly pine, red
-maple, white oak and the rest of what grows across Catawba County. Sandy loam soil,
-common across Hickory yards, drains fast and can carry nutrients past a shallow-rooted
-tree before it gets the benefit, which is why a soil-based approach beats a surface
-spread here.
-
-We work single-family lots, rental properties and small commercial sites. Fertilization
-here follows an assessment, not a sales call, so a tree gets fed because a diagnosis
-found a real deficiency, not on a schedule sold up front. Licensed and insured on every
-visit, with a free estimate before any work is scheduled, across Hickory, Conover,
-Newton, Longview and Maiden.
-
-**(828) 522-9430. Free Estimate.**
 
 Hickory gets 45 inches of rain a year. That keeps sandy loam soil wet enough to move
 nutrients past shallow roots before a tree ever uses them, a real driver of the

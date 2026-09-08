@@ -2,7 +2,7 @@
 title: "Tree Health Assessments Hickory NC | Free Estimate"
 h1: "Tree Health Assessments in Hickory, NC"
 description: "Tree health assessments in Hickory, NC run $250 to $1,000+. Species-by-species diagnosis, ANSI A300 standards. Free estimate."
-intro: "Tree Service Hickory NC diagnoses a declining or stressed tree before it becomes a removal decision made by guesswork. We check the trunk, canopy, root flare and soil around the base. We check that against the disease and pest entities that actually show up here: southern pine beetle in loblolly pine, oak wilt in oaks, verticillium wilt in red maple, and a handful of others. The result is a plain answer on whether the tree needs treatment, monitoring or removal, worked to ANSI A300 standards rather than a visual guess from the driveway."
+intro: "Tree Service Hickory NC diagnoses a declining or stressed tree before it becomes a removal decision made by guesswork. We check the trunk, canopy, root flare and soil around the base. We check that against the disease and pest entities that actually show up here: southern pine beetle in loblolly pine, oak wilt in oaks, verticillium wilt in red maple, and a handful of others. The result is a plain answer on whether the tree needs treatment, monitoring or removal, worked to ANSI A300 standards rather than a visual guess from the driveway. We work single-family lots, rental properties, HOA common areas and small commercial sites across Catawba County. A tree that looks stressed is not automatically a tree that needs to come down, and an assessment is how you find out which one you actually have before spending money on the wrong fix. Licensed and insured on every visit, with a free estimate, across Hickory, Conover, Newton, Longview and Maiden."
 layer: longtail
 hero: healthAssess
 inMenu: false
@@ -19,22 +19,6 @@ faqs:
   - q: "Is Tree Service Hickory NC licensed and insured?"
     a: "Yes, on every job."
 ---
-
-Tree Service Hickory NC diagnoses a declining or stressed tree before it becomes a
-removal decision made by guesswork. We check the trunk, canopy, root flare and soil
-around the base. We check that against the disease and pest entities that actually show
-up here: southern pine beetle in loblolly pine, oak wilt in oaks, verticillium wilt in
-red maple, and a handful of others. The result is a plain answer on
-whether the tree needs treatment, monitoring or removal, worked to ANSI A300 standards
-rather than a visual guess from the driveway.
-
-We work single-family lots, rental properties, HOA common areas and small commercial
-sites across Catawba County. A tree that looks stressed is not automatically a tree
-that needs to come down, and an assessment is how you find out which one you actually
-have before spending money on the wrong fix. Licensed and insured on every visit, with
-a free estimate, across Hickory, Conover, Newton, Longview and Maiden.
-
-**(828) 522-9430. Free Estimate.**
 
 Sandy loam soil that saturates during Hickory's 45 inches of yearly rain stresses roots
 in ways that show up in the canopy long before a tree looks obviously sick. See our

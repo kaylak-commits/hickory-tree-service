@@ -19,14 +19,6 @@ faqs:
     a: "No. Pricing follows Catawba County rules the same way it does in an incorporated town, and an unincorporated address changes nothing about the crew, the cost or the process."
 ---
 
-Tree trimming keeps up with Saint Stephens, an unincorporated community of roughly 8,800
-people bordered by Hickory to the west, Conover to the south and Lake Hickory on the
-Catawba River to the north. [Tree Service Hickory NC](/) prunes and trims trees for
-homeowners and small commercial properties across Saint Stephens, with a written price
-before any cut and full cleanup the same visit.
-
-**(828) 522-9430. Free Estimate.**
-
 ## Tree Trimming and Full Tree Care in Saint Stephens
 
 Getting a limb clear of a roofline or a power line is the most common reason a Saint

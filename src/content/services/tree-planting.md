@@ -2,7 +2,7 @@
 title: "Tree Planting Hickory NC | Free Estimate"
 h1: "Tree Planting in Hickory, NC"
 description: "Tree planting in Hickory, NC covers species selection, root flare depth and staking for the first 1 to 2 years. Licensed and insured. Free estimate."
-intro: "[Tree Service Hickory NC](/) plants new trees on residential and small commercial properties across Catawba County, starting with species selection rather than picking whatever is on sale at a box store. A crew digs the planting hole to the correct width and depth for the root ball, sets the tree so the root flare sits at or slightly above grade, then backfills with the native soil. Stakes and a first watering finish the job. A shade tree for a new yard, a replacement for a tree that came down, or a windbreak row along a property line, each gets its own species call. We never use one choice for every job."
+intro: "[Tree Service Hickory NC](/) plants new trees on residential and small commercial properties across Catawba County, starting with species selection rather than picking whatever is on sale at a box store. A crew digs the planting hole to the correct width and depth for the root ball, sets the tree so the root flare sits at or slightly above grade, then backfills with the native soil. Stakes and a first watering finish the job. A shade tree for a new yard, a replacement for a tree that came down, or a windbreak row along a property line, each gets its own species call. We never use one choice for every job. We work with homeowners, landlords and small commercial properties across Hickory and Catawba County. A tree spade or hand digging handles most planting jobs depending on the size of the tree going in. Staking material and a watering schedule go with every planting for its first year or two in the ground. Licensed and insured on every job, with a free estimate before you pay for anything. Planting jobs across Hickory, Conover and the rest of the county follow the same species-first process."
 layer: longtail
 hero: planting
 inMenu: false
@@ -21,12 +21,6 @@ faqs:
   - q: "Can you plant a tree instead of removing one that is diseased?"
     a: "Sometimes. If an existing tree is too far gone, we can plant a disease-resistant replacement suited to the site once removal and stump grinding are finished."
 ---
-
-[Tree Service Hickory NC](/) plants new trees on residential and small commercial properties across Catawba County, starting with species selection rather than picking whatever is on sale at a box store. A crew digs the planting hole to the correct width and depth for the root ball, sets the tree so the root flare sits at or slightly above grade, then backfills with the native soil. Stakes and a first watering finish the job. A shade tree for a new yard, a replacement for a tree that came down, or a windbreak row along a property line, each gets its own species call. We never use one choice for every job.
-
-We work with homeowners, landlords and small commercial properties across Hickory and Catawba County. A tree spade or hand digging handles most planting jobs depending on the size of the tree going in. Staking material and a watering schedule go with every planting for its first year or two in the ground. Licensed and insured on every job, with a free estimate before you pay for anything. Planting jobs across Hickory, Conover and the rest of the county follow the same species-first process.
-
-**(828) 522-9430. Free Estimate.**
 
 Hickory's sandy loam soil drains fast, which affects how often a newly planted tree needs watering compared to denser clay ground. See our [Tree Removal](/tree-removal) page for the local climate detail behind that.
 

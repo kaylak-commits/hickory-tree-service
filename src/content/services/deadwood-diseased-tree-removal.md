@@ -2,7 +2,7 @@
 title: "Deadwood and Diseased Tree Removal Hickory NC"
 h1: "Deadwood and Diseased Tree Removal in Hickory, NC"
 description: "Deadwood and diseased tree removal in Hickory, NC runs $500 to $3,000 or more. Licensed and insured. Free inspection."
-intro: "[Tree Service Hickory NC](/) removes dead limbs and diseased trees before they become a bigger problem for the rest of your yard across Catawba County. Every job starts with an inspection to tell whether deadwooding alone solves it or the whole tree needs to come down, a written price, the removal itself, then a full cleanup and haul away. A few dead limbs in an otherwise healthy tree, a tree showing disease across the canopy, and a tree already dead standing, we handle all of it."
+intro: "[Tree Service Hickory NC](/) removes dead limbs and diseased trees before they become a bigger problem for the rest of your yard across Catawba County. Every job starts with an inspection to tell whether deadwooding alone solves it or the whole tree needs to come down, a written price, the removal itself, then a full cleanup and haul away. A few dead limbs in an otherwise healthy tree, a tree showing disease across the canopy, and a tree already dead standing, we handle all of it. We work on single-family lots, rental properties and small commercial sites. A bucket truck handles most deadwooding and canopy work, and full removal equipment comes out when the tree itself, not just a few limbs, needs to go. Licensed and insured on every job, with a free inspection before you pay for anything."
 layer: main
 hero: deadwood
 inMenu: false
@@ -21,20 +21,6 @@ faqs:
   - q: "What happens if I just remove the dead limbs instead of the whole tree?"
     a: "Removing just the dead limbs is called deadwooding, and it is the right call when the rest of the tree is healthy. The inspection settles honestly whether that is enough or the tree needs to come down."
 ---
-
-[Tree Service Hickory NC](/) removes dead limbs and diseased trees before they become a
-bigger problem for the rest of your yard across Catawba County. Every job starts with
-an inspection to tell whether deadwooding alone solves it or the whole tree needs to
-come down, a written price, the removal itself, then a full cleanup and haul away. A
-few dead limbs in an otherwise healthy tree, a tree showing disease across the canopy,
-and a tree already dead standing, we handle all of it.
-
-We work on single-family lots, rental properties and small commercial sites. A bucket
-truck handles most deadwooding and canopy work, and full removal equipment comes out
-when the tree itself, not just a few limbs, needs to go. Licensed and insured on every
-job, with a free inspection before you pay for anything.
-
-**(828) 522-9430. Free Inspection.**
 
 Loblolly pine, water oak and red maple, common across Hickory yards, each carry their
 own disease and pest risks that show up as dead or dying sections of canopy. See our

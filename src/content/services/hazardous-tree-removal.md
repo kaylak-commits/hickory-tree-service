@@ -2,7 +2,7 @@
 title: "Hazardous Tree Removal Hickory NC | Free Estimate"
 h1: "Hazardous Tree Removal in Hickory, NC"
 description: "Hazardous tree removal in Hickory, NC runs $500 to $9,000 or more depending on lean and location. Licensed and insured. Free estimate."
-intro: "[Tree Service Hickory NC](/) removes dead, diseased and storm-weakened trees that pose a real risk before they fail across Catawba County. Every job starts with an assessment of the tree's lean, root condition and how close it stands to a structure, fence or power line. Then comes a written price before any cut is made, a planned removal, whole or in sections depending on the lean, then a full cleanup. Standing dead trees, storm-damaged ones that have not fallen yet, and any tree visibly leaning after losing root support, we handle it all."
+intro: "[Tree Service Hickory NC](/) removes dead, diseased and storm-weakened trees that pose a real risk before they fail across Catawba County. Every job starts with an assessment of the tree's lean, root condition and how close it stands to a structure, fence or power line. Then comes a written price before any cut is made, a planned removal, whole or in sections depending on the lean, then a full cleanup. Standing dead trees, storm-damaged ones that have not fallen yet, and any tree visibly leaning after losing root support, we handle it all. We work on single-family lots, rental properties and small commercial sites. Climbing gear and rigging come out for a hazardous tree near a structure, and a crane handles large or heavily leaning trees where a controlled lift is safer than a cut-and-drop. Licensed and insured on every job, with a free estimate before you pay for anything."
 layer: main
 hero: hazardous
 inMenu: true
@@ -21,16 +21,6 @@ faqs:
   - q: "Do you handle trees that already fell after a storm?"
     a: "Yes. See our [Emergency Storm Damage Tree Removal](/emergency-storm-damage-tree-removal) page for response details."
 ---
-
-[Tree Service Hickory NC](/) removes dead, diseased and storm-weakened trees that pose a
-real risk before they fail across Catawba County. Every job starts with an assessment of the tree's lean, root condition and how close it stands to a structure, fence or power line. Then comes a written price before any cut is made, a planned removal, whole or in sections depending on the lean, then a full cleanup. Standing dead trees, storm-damaged ones that have not fallen yet, and any tree visibly leaning after losing root support, we handle it all.
-
-We work on single-family lots, rental properties and small commercial sites. Climbing
-gear and rigging come out for a hazardous tree near a structure, and a crane handles
-large or heavily leaning trees where a controlled lift is safer than a cut-and-drop.
-Licensed and insured on every job, with a free estimate before you pay for anything.
-
-**(828) 522-9430. Free Estimate.**
 
 Sandy loam soil that saturates in heavy rain, plus close to 85 freezing days a year
 that widen existing trunk and root damage, are a big part of why hazardous trees show

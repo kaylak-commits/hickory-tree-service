@@ -19,13 +19,6 @@ faqs:
     a: "Yes, that is available at no extra trip, priced the same as anywhere else in the service area."
 ---
 
-[Tree Service Hickory NC](/) responds to storm-damaged and hazardous trees in Longview, the
-unincorporated community that sits right against Hickory's southeastern edge. Every
-call starts with a phone assessment of the danger, then a crew dispatched with the
-right equipment for a tree on a structure, a hung limb, or a tree already down.
-
-**(828) 522-9430. Call for Emergency Removal.**
-
 ## Emergency Removal and Full Tree Care in Longview
 
 A tree down on a house, a car or a driveway after a storm is our most urgent call in

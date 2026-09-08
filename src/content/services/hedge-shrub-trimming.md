@@ -2,7 +2,7 @@
 title: "Hedge and Shrub Trimming Hickory NC | Free Estimate"
 h1: "Hedge and Shrub Trimming in Hickory, NC"
 description: "Hedge and shrub trimming in Hickory, NC is priced at the visit, with most hedges needing shaping 2-3 times a year. Licensed and insured. Free estimate."
-intro: "[Tree Service Hickory NC](/) shapes hedges, foundation shrubs and property-line plantings for homes and small commercial lots across Catawba County. A crew looks at the plant's growth pattern and current shape first, then trims to a clean line by hand shears or power trimmers, then clears the cuttings before leaving. Boxwood and holly hedges along a driveway, foundation shrubs that have grown past the windowsill, and a property-line row that has not been shaped in years, we handle all of it."
+intro: "[Tree Service Hickory NC](/) shapes hedges, foundation shrubs and property-line plantings for homes and small commercial lots across Catawba County. A crew looks at the plant's growth pattern and current shape first, then trims to a clean line by hand shears or power trimmers, then clears the cuttings before leaving. Boxwood and holly hedges along a driveway, foundation shrubs that have grown past the windowsill, and a property-line row that has not been shaped in years, we handle all of it. We work with homeowners, landlords and small commercial properties across Hickory and Catawba County. Hand shears keep a formal hedge line crisp, and power trimmers move faster through a longer run of foundation plantings or an overgrown property line. Licensed and insured on every job, with a free estimate before you pay for anything. Hedge and shrub work across Hickory, Conover and the rest of the county runs on the same visit-based pricing."
 layer: longtail
 hero: hedge
 inMenu: false
@@ -21,12 +21,6 @@ faqs:
   - q: "Is Tree Service Hickory NC licensed and insured?"
     a: "Yes, on every job."
 ---
-
-[Tree Service Hickory NC](/) shapes hedges, foundation shrubs and property-line plantings for homes and small commercial lots across Catawba County. A crew looks at the plant's growth pattern and current shape first, then trims to a clean line by hand shears or power trimmers, then clears the cuttings before leaving. Boxwood and holly hedges along a driveway, foundation shrubs that have grown past the windowsill, and a property-line row that has not been shaped in years, we handle all of it.
-
-We work with homeowners, landlords and small commercial properties across Hickory and Catawba County. Hand shears keep a formal hedge line crisp, and power trimmers move faster through a longer run of foundation plantings or an overgrown property line. Licensed and insured on every job, with a free estimate before you pay for anything. Hedge and shrub work across Hickory, Conover and the rest of the county runs on the same visit-based pricing.
-
-**(828) 522-9430. Free Estimate.**
 
 Hedges and foundation shrubs grow fast most of the season with about 45 inches of rain a year falling here. A line left unshaped for a year or two gets away from a homeowner quickly as a result. See our [Tree Removal](/tree-removal) page for the local climate detail behind that.
 

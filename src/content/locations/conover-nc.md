@@ -17,14 +17,6 @@ faqs:
     a: "No permit is required for ordinary residential tree removal under the same county rules that apply across our service area. A permit only applies to a tree in a street right-of-way or tied to new commercial construction."
 ---
 
-[Tree Service Hickory NC](/) removes hazardous, dead and unwanted trees for homeowners and
-small commercial properties in Conover, right next to Hickory on the eastern side of
-Catawba County. Every removal starts with a free inspection, a written price before
-any saw starts, then the removal and cleanup in the same visit. No separate travel
-charge applies for a Conover address.
-
-**(828) 522-9430. Free Inspection.**
-
 ## Tree Removal, Trimming and More in Conover
 
 Full tree removal is our most requested job in Conover, running the same $500 to

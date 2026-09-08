@@ -19,13 +19,6 @@ faqs:
     a: "Yes, removal and grinding are often booked together in Brookford, priced separately but scheduled on the same visit so the yard is finished in one trip."
 ---
 
-Brookford is a small incorporated town of about 440 people built as a mill village along
-the Henry Fork River just south of Hickory's city limits. [Tree Service Hickory NC](/)
-grinds stumps left behind by removals, storm damage or old tree work on Brookford's
-residential lots, with a per stump price confirmed before equipment arrives.
-
-**(828) 522-9430. Free Estimate.**
-
 ## Stump Grinding and Full Tree Care in Brookford
 
 A leftover stump in a small yard is one of our most common calls in Brookford, ground down

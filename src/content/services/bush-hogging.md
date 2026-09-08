@@ -2,7 +2,7 @@
 title: "Bush Hogging Hickory NC | Free Estimate"
 h1: "Bush Hogging in Hickory, NC"
 description: "Bush hogging in Hickory, NC clears overgrown pasture and fence lines fast, even after 45 inches of rain a year keeps growth thick. Free estimate."
-intro: "[Tree Service Hickory NC](/) mows overgrown pasture, fence lines and rural acreage flat with a rotary cutter across Catawba County. A tractor-mounted bush hog cuts through waist-high grass, brambles and saplings up to a few inches thick in a single pass, rather than clearing selectively by hand. A crew walks the acreage first to check for fence lines, ditches, buried debris and anything that should not go under the cutter, then mows the ground flat in passes across the property. Overgrown pasture that has not been mowed in years, a fence line lost to brush, or an ATV trail that has grown back over all get flattened the same way. It takes a fraction of the time hand clearing would."
+intro: "[Tree Service Hickory NC](/) mows overgrown pasture, fence lines and rural acreage flat with a rotary cutter across Catawba County. A tractor-mounted bush hog cuts through waist-high grass, brambles and saplings up to a few inches thick in a single pass, rather than clearing selectively by hand. A crew walks the acreage first to check for fence lines, ditches, buried debris and anything that should not go under the cutter, then mows the ground flat in passes across the property. Overgrown pasture that has not been mowed in years, a fence line lost to brush, or an ATV trail that has grown back over all get flattened the same way. It takes a fraction of the time hand clearing would. We work with rural property owners, farmers and landowners across Hickory and Catawba County. A rotary cutter mounted on a tractor covers open acreage far faster than a chainsaw crew, though it mows everything in its path instead of picking and choosing what stays. Licensed and insured on every job, with a free estimate before you pay for anything. Bush hogging across Hickory, Conover and the rest of the county runs on the same per-acre pricing structure."
 layer: longtail
 hero: bushHogging
 inMenu: false
@@ -21,12 +21,6 @@ faqs:
   - q: "What kind of growth can a bush hog handle?"
     a: "A rotary cutter handles grass, brambles and saplings up to a few inches thick. Larger trees need to be removed first or worked around rather than mowed over."
 ---
-
-[Tree Service Hickory NC](/) mows overgrown pasture, fence lines and rural acreage flat with a rotary cutter across Catawba County. A tractor-mounted bush hog cuts through waist-high grass, brambles and saplings up to a few inches thick in a single pass, rather than clearing selectively by hand. A crew walks the acreage first to check for fence lines, ditches, buried debris and anything that should not go under the cutter, then mows the ground flat in passes across the property. Overgrown pasture that has not been mowed in years, a fence line lost to brush, or an ATV trail that has grown back over all get flattened the same way. It takes a fraction of the time hand clearing would.
-
-We work with rural property owners, farmers and landowners across Hickory and Catawba County. A rotary cutter mounted on a tractor covers open acreage far faster than a chainsaw crew, though it mows everything in its path instead of picking and choosing what stays. Licensed and insured on every job, with a free estimate before you pay for anything. Bush hogging across Hickory, Conover and the rest of the county runs on the same per-acre pricing structure.
-
-**(828) 522-9430. Free Estimate.**
 
 Pasture and fence-line growth comes back fast here on about 45 inches of rain a year, so rural acreage that skips a season of mowing can look like it has not been touched in years. See our [Tree Removal](/tree-removal) page for the local climate detail behind that.
 

@@ -2,7 +2,7 @@
 title: "Emergency Storm Damage Tree Removal Hickory NC"
 h1: "Emergency Storm Damage Tree Removal in Hickory, NC"
 description: "A tree down on your house or car after a storm in Hickory, NC. Emergency removal runs $2,000 to $20,000 depending on damage and access. Licensed and insured."
-intro: "[Tree Service Hickory NC](/) removes storm-damaged trees from homes, cars, driveways and yards across Catawba County. A tree resting on a roof gets handled differently than a hung limb still swaying overhead, and both are different from a whole tree already down in the yard. Every call starts with a phone assessment of the danger. From there we dispatch a crew with the right equipment, a crane for a tree on a structure, rigging for a hung limb, chainsaws and a grapple truck for a tree already flat on the ground."
+intro: "[Tree Service Hickory NC](/) removes storm-damaged trees from homes, cars, driveways and yards across Catawba County. A tree resting on a roof gets handled differently than a hung limb still swaying overhead, and both are different from a whole tree already down in the yard. Every call starts with a phone assessment of the danger. From there we dispatch a crew with the right equipment, a crane for a tree on a structure, rigging for a hung limb, chainsaws and a grapple truck for a tree already flat on the ground. We work on single-family homes, rental properties and small commercial sites across Hickory and Catawba County. A tree resting on a structure needs different handling than one blocking a driveway, and a hung limb still attached overhead is its own hazard separate from either. Licensed and insured on every call."
 layer: money
 hero: storm
 inMenu: true
@@ -21,21 +21,6 @@ faqs:
   - q: "Do you repair the roof or fence the tree damaged?"
     a: "No, that is a different trade. We clear the tree and can point you to a contractor for structural repairs once the tree itself is gone."
 ---
-
-[Tree Service Hickory NC](/) removes storm-damaged trees from homes, cars, driveways and
-yards across Catawba County. A tree resting on a roof gets handled differently than a
-hung limb still swaying overhead, and both are different from a whole tree already
-down in the yard. Every call starts with a phone assessment of the danger. From there
-we dispatch a crew with the right equipment, a crane for a tree on a structure,
-rigging for a hung limb, chainsaws and a grapple truck for a tree already flat on the
-ground.
-
-We work on single-family homes, rental properties and small commercial sites across
-Hickory and Catawba County. A tree resting on a structure needs different handling
-than one blocking a driveway, and a hung limb still attached overhead is its own
-hazard separate from either. Licensed and insured on every call.
-
-**(828) 522-9430. Call for Emergency Removal.**
 
 ## Why Storm Damage Hits Hickory Trees Hard
 

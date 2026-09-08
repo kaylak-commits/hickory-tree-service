@@ -2,7 +2,7 @@
 title: "Stump Grinding Hickory NC | Free Estimate"
 h1: "Stump Grinding in Hickory, NC"
 description: "Stump grinding in Hickory, NC runs $150 to $800 or more depending on stump size. $150 minimum callout. Licensed and insured. Free estimate."
-intro: "[Tree Service Hickory NC](/) grinds stumps flush below grade for homeowners, landlords and small commercial properties across Catawba County. Every job starts with a look at the stump's diameter and root spread, then a written price before the grinder starts. The grinding itself takes the stump down below grade, then a cleanup leaves the mulch chips for you to keep or haul away. Single stumps, several from the same removal, or ones left behind by another crew, and we grind every one of them."
+intro: "[Tree Service Hickory NC](/) grinds stumps flush below grade for homeowners, landlords and small commercial properties across Catawba County. Every job starts with a look at the stump's diameter and root spread, then a written price before the grinder starts. The grinding itself takes the stump down below grade, then a cleanup leaves the mulch chips for you to keep or haul away. Single stumps, several from the same removal, or ones left behind by another crew, and we grind every one of them. We work on single-family lots, rental properties and small commercial sites. A mid-size grinder handles most yard jobs, and a larger machine comes out for wide, old-growth stumps or several in one visit. Licensed and insured on every job, with a free estimate before you pay for anything."
 layer: main
 hero: stump
 inMenu: true
@@ -21,14 +21,6 @@ faqs:
   - q: "What happens to the wood chips?"
     a: "You can keep them for mulch or have the crew haul them off, whichever you prefer, at no extra charge."
 ---
-
-[Tree Service Hickory NC](/) grinds stumps flush below grade for homeowners, landlords and
-small commercial properties across Catawba County. Every job starts with a look at the stump's diameter and root spread, then a written price before the grinder starts. The grinding itself takes the stump down below grade, then a cleanup leaves the mulch chips for you to keep or haul away. Single stumps, several from the same removal, or ones left behind by another crew, and we grind every one of them.
-
-We work on single-family lots, rental properties and small commercial sites. A mid-size grinder handles most yard jobs, and a larger machine comes out for wide, old-growth stumps or several in one visit. Licensed and insured on
-every job, with a free estimate before you pay for anything.
-
-**(828) 522-9430. Free Estimate.**
 
 Wet ground and sandy loam soil are common across Hickory yards, which is part of why a
 stump left in place keeps sending up root suckers years later. See our

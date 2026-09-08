@@ -19,13 +19,6 @@ faqs:
     a: "No. County rules apply the same way whether the address sits inside a town's limits or in an unincorporated lake community like Sherrills Ford."
 ---
 
-Sherrills Ford sits on Catawba County's eastern edge near Lake Norman, an unincorporated
-community named for a river crossing established in 1747 by early settlers. [Tree Service
-Hickory NC](/) removes hazardous, dead and unwanted trees for homeowners here, starting
-with a free inspection and a written price before any saw starts.
-
-**(828) 522-9430. Free Inspection.**
-
 ## Tree Removal and Full Tree Care in Sherrills Ford
 
 Most of our calls in Sherrills Ford are for full tree removal, and the price stays within

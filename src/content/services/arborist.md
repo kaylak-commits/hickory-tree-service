@@ -2,7 +2,7 @@
 title: "Certified Arborist Hickory NC | Free Estimate"
 h1: "Certified Arborist in Hickory, NC"
 description: "Certified arborist service in Hickory, NC starts with a $250 to $1,000+ assessment. ISA-certified, ANSI A300 standards. Free estimate."
-intro: "Tree Service Hickory NC puts ISA-certified arborists on the jobs across Catawba County that call for more than a chainsaw and a truck. A tree health diagnosis on a tree that looks stressed rather than obviously dead. A risk assessment on a lean or a split trunk. A written treatment recommendation before anyone decides to remove instead of treat, and documentation a homeowner, an insurer or a property manager can actually use. Every assessment is worked to ANSI A300, the industry standard for tree care practices, covering pruning, cabling and risk evaluation."
+intro: "Tree Service Hickory NC puts ISA-certified arborists on the jobs across Catawba County that call for more than a chainsaw and a truck. A tree health diagnosis on a tree that looks stressed rather than obviously dead. A risk assessment on a lean or a split trunk. A written treatment recommendation before anyone decides to remove instead of treat, and documentation a homeowner, an insurer or a property manager can actually use. Every assessment is worked to ANSI A300, the industry standard for tree care practices, covering pruning, cabling and risk evaluation. We work single-family lots, rental properties, HOA common areas and small commercial sites across the area. A general removal or trimming crew can drop a tree or clean up a canopy. They are not trained to diagnose why a red maple's leaves are dying back on one side. They also cannot tell you whether a leaning water oak's root plate has already let go. Our arborists carry that training, backed by years of hands-on tree work, into Hickory, Conover, Newton, Longview, Maiden and the rest of Catawba County."
 layer: main
 hero: arborist
 inMenu: true
@@ -21,12 +21,6 @@ faqs:
   - q: "Do you handle the fertilization an assessment recommends?"
     a: "Yes. See our [Tree Fertilization](/tree-fertilization) page for scope and pricing."
 ---
-
-Tree Service Hickory NC puts ISA-certified arborists on the jobs across Catawba County that call for more than a chainsaw and a truck. A tree health diagnosis on a tree that looks stressed rather than obviously dead. A risk assessment on a lean or a split trunk. A written treatment recommendation before anyone decides to remove instead of treat, and documentation a homeowner, an insurer or a property manager can actually use. Every assessment is worked to ANSI A300, the industry standard for tree care practices, covering pruning, cabling and risk evaluation.
-
-We work single-family lots, rental properties, HOA common areas and small commercial sites across the area. A general removal or trimming crew can drop a tree or clean up a canopy. They are not trained to diagnose why a red maple's leaves are dying back on one side. They also cannot tell you whether a leaning water oak's root plate has already let go. Our arborists carry that training, backed by years of hands-on tree work, into Hickory, Conover, Newton, Longview, Maiden and the rest of Catawba County.
-
-**(828) 522-9430. Free Estimate.**
 
 Hickory's sandy loam soil drains fast but anchors roots less than denser ground, which is
 part of why a tree here can look sound above grade and be failing below it. See our

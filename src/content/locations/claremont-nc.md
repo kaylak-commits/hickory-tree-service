@@ -19,14 +19,6 @@ faqs:
     a: "Yes. A tree near the riverbank often has softer, wetter ground underneath it, and we confirm equipment access to that ground before quoting a final price."
 ---
 
-Claremont is one of the few incorporated towns in this part of Catawba County, with about
-1,900 residents and its own town government southeast of Hickory near the Catawba River.
-[Tree Service Hickory NC](/) removes hazardous, dead and unwanted trees for homeowners and
-small commercial properties here, starting with a free inspection and a written price
-before any saw starts. No separate travel charge applies for a Claremont address.
-
-**(828) 522-9430. Free Inspection.**
-
 ## Tree Removal and Full Tree Care in Claremont
 
 Claremont homeowners call us most often for full tree removal, priced in the same $500 to

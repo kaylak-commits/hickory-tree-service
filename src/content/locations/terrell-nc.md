@@ -19,13 +19,6 @@ faqs:
     a: "Yes. We can schedule the work for a weekday, when many Terrell lake homes sit unoccupied until the following weekend."
 ---
 
-Terrell markets itself as the Top of the Lake, an unincorporated Lake Norman community in
-northeastern Catawba County where many residents commute toward Charlotte and Mooresville.
-[Tree Service Hickory NC](/) prunes and trims trees for homeowners here, with a written
-price before any cut and full cleanup the same visit.
-
-**(828) 522-9430. Free Estimate.**
-
 ## Tree Trimming and Full Tree Care in Terrell
 
 Waterfront lots along Lake Norman drive most of our calls here, opening a lake view through

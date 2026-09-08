@@ -2,7 +2,7 @@
 title: "Tree Trimming Hickory NC | Free Estimate"
 h1: "Tree Trimming in Hickory, NC"
 description: "Tree trimming in Hickory, NC runs $500 to $2,500. Structural pruning, canopy thinning, storm cleanup. Licensed and insured. Free estimate."
-intro: "[Tree Service Hickory NC](/) prunes and trims trees for homeowners, landlords and small commercial properties across Catawba County. Every job follows the same order, a site inspection to identify which limbs need to come out, then a written price before any cut is made. The crew prunes, thins or removes deadwood, then hauls away everything cut. Structural pruning on young trees, canopy thinning on mature ones, deadwood removal, and clearance cuts away from a roofline or power line, we handle all of it."
+intro: "[Tree Service Hickory NC](/) prunes and trims trees for homeowners, landlords and small commercial properties across Catawba County. Every job follows the same order, a site inspection to identify which limbs need to come out, then a written price before any cut is made. The crew prunes, thins or removes deadwood, then hauls away everything cut. Structural pruning on young trees, canopy thinning on mature ones, deadwood removal, and clearance cuts away from a roofline or power line, we handle all of it. We work on single-family lots, rental properties and small commercial sites. A bucket truck handles most clearance and canopy work, and climbing gear comes out for limbs a truck cannot reach. Licensed and insured on every job, with a free estimate before you pay for anything."
 layer: money
 hero: trimming
 inMenu: true
@@ -21,20 +21,6 @@ faqs:
   - q: "Do you handle storm-damaged limbs and trees?"
     a: "Yes. For a tree already down or hanging after a storm, see our [Emergency Storm Damage Tree Removal](/emergency-storm-damage-tree-removal) page."
 ---
-
-[Tree Service Hickory NC](/) prunes and trims trees for homeowners, landlords and small
-commercial properties across Catawba County. Every job follows the same order, a site
-inspection to identify which limbs need to come out, then a written price before any
-cut is made. The crew prunes, thins or removes deadwood, then hauls away everything cut.
-Structural pruning on young trees, canopy thinning on mature ones, deadwood removal, and
-clearance cuts away from a roofline or power line, we handle all of it.
-
-We work on single-family lots, rental properties and small commercial sites. A bucket
-truck handles most clearance and canopy work, and climbing gear comes out for limbs a
-truck cannot reach. Licensed and insured on every job, with a free estimate before you pay
-for anything.
-
-**(828) 522-9430. Free Estimate.**
 
 ## Why Hickory Trees Need Regular Trimming
 

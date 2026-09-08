@@ -2,7 +2,7 @@
 title: "Brush Clearing Hickory NC | Free Estimate"
 h1: "Brush Clearing and Removal in Hickory, NC"
 description: "Brush clearing and removal in Hickory, NC clears fence lines and yard edges, even after 45 inches of rain a year feeds fast regrowth. Free estimate."
-intro: "[Tree Service Hickory NC](/) clears overgrown brush, invasive vines and volunteer saplings from yards, fence lines and property edges across Catawba County. Brush clearing and brush removal describe the same job here, cutting back growth that has taken over a section of ground rather than clearing an entire wooded lot. A crew walks the area first to mark what stays, cuts and pulls the brush by hand or with a chainsaw, then hauls or chips everything that comes out. A fence line buried in privet, a yard edge lost to blackberry canes and saplings, or a bank of invasive vines climbing into the trees, we clear all of it."
+intro: "[Tree Service Hickory NC](/) clears overgrown brush, invasive vines and volunteer saplings from yards, fence lines and property edges across Catawba County. Brush clearing and brush removal describe the same job here, cutting back growth that has taken over a section of ground rather than clearing an entire wooded lot. A crew walks the area first to mark what stays, cuts and pulls the brush by hand or with a chainsaw, then hauls or chips everything that comes out. A fence line buried in privet, a yard edge lost to blackberry canes and saplings, or a bank of invasive vines climbing into the trees, we clear all of it. We work with homeowners, landlords and small property owners across Hickory and Catawba County. Loppers, chainsaws and a chipper handle most brush jobs, sized to a yard or a fence line rather than the excavator and mulching head a full acreage clearing needs. Licensed and insured on every job, with a free estimate before you pay for anything. Brush jobs across Hickory, Conover and the rest of the county run on the same pricing and scheduling."
 layer: longtail
 hero: brush
 inMenu: false
@@ -21,12 +21,6 @@ faqs:
   - q: "Is Tree Service Hickory NC licensed and insured?"
     a: "Yes, on every job."
 ---
-
-[Tree Service Hickory NC](/) clears overgrown brush, invasive vines and volunteer saplings from yards, fence lines and property edges across Catawba County. Brush clearing and brush removal describe the same job here, cutting back growth that has taken over a section of ground rather than clearing an entire wooded lot. A crew walks the area first to mark what stays, cuts and pulls the brush by hand or with a chainsaw, then hauls or chips everything that comes out. A fence line buried in privet, a yard edge lost to blackberry canes and saplings, or a bank of invasive vines climbing into the trees, we clear all of it.
-
-We work with homeowners, landlords and small property owners across Hickory and Catawba County. Loppers, chainsaws and a chipper handle most brush jobs, sized to a yard or a fence line rather than the excavator and mulching head a full acreage clearing needs. Licensed and insured on every job, with a free estimate before you pay for anything. Brush jobs across Hickory, Conover and the rest of the county run on the same pricing and scheduling.
-
-**(828) 522-9430. Free Estimate.**
 
 Sandy loam soil and about 45 inches of rain a year push fast, thick brush growth in any patch of yard that stops getting mowed or maintained. See our [Tree Removal](/tree-removal) page for the local climate detail behind that.
 

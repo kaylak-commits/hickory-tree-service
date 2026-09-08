@@ -17,13 +17,6 @@ faqs:
     a: "Yes. Stump grinding is available on its own in Newton, no full removal required, and prices the same as anywhere else in the service area."
 ---
 
-[Tree Service Hickory NC](/) prunes and trims trees for homeowners and small commercial
-properties in Newton, the Catawba County seat a short drive west of Hickory. Every
-job starts with an inspection to identify which limbs need to come out, a written
-price before any cut is made, the pruning itself, then a full cleanup and haul away.
-
-**(828) 522-9430. Free Estimate.**
-
 ## Tree Trimming and Full Tree Care in Newton
 
 Structural pruning, canopy thinning, deadwooding and clearance cuts away from a

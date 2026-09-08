@@ -19,14 +19,6 @@ faqs:
     a: "No. One crew and one price list cover the entire community, regardless of which side of an annexation line a property happens to sit on."
 ---
 
-Interstate 40 and the US 321 expressway both cross Mountain View, an unincorporated
-community south of Hickory that the city's own annexation has split into north and south
-halves over the years. [Tree Service Hickory NC](/) removes trees that lean toward a
-structure, a power line or a roadway here, starting with an inspection and a written price
-before any cut is made.
-
-**(828) 522-9430. Free Inspection.**
-
 ## Hazardous Removal and Full Tree Care in Mountain View
 
 A tree leaning over a driveway, a fence line or a power line is our most common call in

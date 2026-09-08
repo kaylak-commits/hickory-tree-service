@@ -2,7 +2,7 @@
 title: "Tree Transplanting Hickory NC | Free Estimate"
 h1: "Tree Transplanting in Hickory, NC"
 description: "Tree transplanting in Hickory, NC works best in the dormant season, for small to medium trees under about 6 inches trunk diameter. Free estimate."
-intro: "[Tree Service Hickory NC](/) moves an established tree from one spot on a property to another using a tree spade, rather than removing it and starting over with a new planting. A crew measures the trunk diameter first to size the root ball correctly, then digs the new planting hole to match. The tree spades out with its root ball intact and resets at the new location the same day. A young shade tree in the wrong spot for a planned addition, an ornamental blocking a driveway expansion, or a tree worth saving ahead of construction, we relocate each one rather than cutting it down."
+intro: "[Tree Service Hickory NC](/) moves an established tree from one spot on a property to another using a tree spade, rather than removing it and starting over with a new planting. A crew measures the trunk diameter first to size the root ball correctly, then digs the new planting hole to match. The tree spades out with its root ball intact and resets at the new location the same day. A young shade tree in the wrong spot for a planned addition, an ornamental blocking a driveway expansion, or a tree worth saving ahead of construction, we relocate each one rather than cutting it down. We work with homeowners, landlords and small commercial properties across Hickory and Catawba County. A tractor-mounted tree spade handles most transplant jobs, sized to the trunk diameter and root ball the tree actually needs. Licensed and insured on every job, with a free estimate before you pay for anything. Transplanting jobs across Hickory, Conover and the rest of the county follow the same season and size guidelines."
 layer: longtail
 hero: transplanting
 inMenu: false
@@ -21,12 +21,6 @@ faqs:
   - q: "How long until a transplanted tree is established?"
     a: "A full growing season or more of regular watering is typical before a transplanted tree's root system is considered settled at its new spot."
 ---
-
-[Tree Service Hickory NC](/) moves an established tree from one spot on a property to another using a tree spade, rather than removing it and starting over with a new planting. A crew measures the trunk diameter first to size the root ball correctly, then digs the new planting hole to match. The tree spades out with its root ball intact and resets at the new location the same day. A young shade tree in the wrong spot for a planned addition, an ornamental blocking a driveway expansion, or a tree worth saving ahead of construction, we relocate each one rather than cutting it down.
-
-We work with homeowners, landlords and small commercial properties across Hickory and Catawba County. A tractor-mounted tree spade handles most transplant jobs, sized to the trunk diameter and root ball the tree actually needs. Licensed and insured on every job, with a free estimate before you pay for anything. Transplanting jobs across Hickory, Conover and the rest of the county follow the same season and size guidelines.
-
-**(828) 522-9430. Free Estimate.**
 
 Hickory's cooler months give a transplanted tree's root system time to settle into sandy loam soil before summer heat puts it under stress. See our [Tree Planting](/tree-planting) page for the local climate detail behind site preparation.
 

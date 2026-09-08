@@ -2,7 +2,7 @@
 title: "Tree Cabling and Bracing Hickory NC | Free Estimate"
 h1: "Tree Cabling and Bracing in Hickory, NC"
 description: "Tree cabling and bracing in Hickory, NC starts with a $250 to $1,000 assessment, built to the ANSI A300 standard. Licensed and insured. Free estimate."
-intro: "[Tree Service Hickory NC](/) installs steel cables and support rods to support a structurally weak tree across Catawba County, an alternative to removal for a tree that has not become hazardous yet. Every job starts with an assessment of the trunk union, the lean and the root plate, then a written recommendation before any hardware goes up. A split union between codominant trunks, a storm-prone lean that has stabilized, or a heavy limb that needs extra support over a driveway or roof are all common cases. Cabling and bracing can hold each of these in place rather than taking the tree down. Work is installed to ANSI A300, the industry standard covering pruning, cabling and tree risk practices."
+intro: "[Tree Service Hickory NC](/) installs steel cables and support rods to support a structurally weak tree across Catawba County, an alternative to removal for a tree that has not become hazardous yet. Every job starts with an assessment of the trunk union, the lean and the root plate, then a written recommendation before any hardware goes up. A split union between codominant trunks, a storm-prone lean that has stabilized, or a heavy limb that needs extra support over a driveway or roof are all common cases. Cabling and bracing can hold each of these in place rather than taking the tree down. Work is installed to ANSI A300, the industry standard covering pruning, cabling and tree risk practices. We work on single-family lots, HOA common areas and small commercial sites across Hickory and Catawba County. A dynamic cable system gives a canopy some flex in wind, and a rigid brace rod goes into a trunk where a split union needs a fixed connection rather than give. Licensed and insured on every job, with a free estimate before you pay for anything. Jobs across Hickory, Conover and the rest of the county follow the same assessment-first process."
 layer: longtail
 hero: cabling
 inMenu: false
@@ -21,12 +21,6 @@ faqs:
   - q: "Do you handle trees that are already leaning badly or hollow?"
     a: "No, a tree that far along is usually a removal candidate rather than a cabling one. See our [Hazardous Tree Removal](/hazardous-tree-removal) page for that assessment."
 ---
-
-[Tree Service Hickory NC](/) installs steel cables and support rods to support a structurally weak tree across Catawba County, an alternative to removal for a tree that has not become hazardous yet. Every job starts with an assessment of the trunk union, the lean and the root plate, then a written recommendation before any hardware goes up. A split union between codominant trunks, a storm-prone lean that has stabilized, or a heavy limb that needs extra support over a driveway or roof are all common cases. Cabling and bracing can hold each of these in place rather than taking the tree down. Work is installed to ANSI A300, the industry standard covering pruning, cabling and tree risk practices.
-
-We work on single-family lots, HOA common areas and small commercial sites across Hickory and Catawba County. A dynamic cable system gives a canopy some flex in wind, and a rigid brace rod goes into a trunk where a split union needs a fixed connection rather than give. Licensed and insured on every job, with a free estimate before you pay for anything. Jobs across Hickory, Conover and the rest of the county follow the same assessment-first process.
-
-**(828) 522-9430. Free Estimate.**
 
 Close to 85 freezing days a year here widen an existing crack at a trunk union over several winters, which is often what turns a stable-looking split into a structural risk. See our [Tree Removal](/tree-removal) page for the local climate detail behind that.
 

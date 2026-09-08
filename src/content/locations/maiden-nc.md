@@ -19,13 +19,6 @@ faqs:
     a: "Yes, at the same priority and pricing as anywhere else in the service area. See our [Emergency Storm Damage Tree Removal](/emergency-storm-damage-tree-removal) page for response details."
 ---
 
-[Tree Service Hickory NC](/) covers Maiden, the small town on the southeastern edge of
-Catawba County near the Lincoln County line. Removal, trimming, stump grinding, land
-clearing and emergency storm work are all available on the same schedule and pricing
-as the rest of our service area, with a free estimate before you pay for anything.
-
-**(828) 522-9430. Free Estimate.**
-
 ## Full Tree Service in Maiden
 
 We handle [Tree Removal](/tree-removal), [Tree Trimming](/tree-trimming),

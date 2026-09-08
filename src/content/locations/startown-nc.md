@@ -19,14 +19,6 @@ faqs:
     a: "Usually yes. We confirm driveway width and surface during the walk-through, since a long or narrow gravel drive is common on Startown's larger properties."
 ---
 
-Open farmland and wooded acreage define Startown, a rural, unincorporated community west
-of Newton and south of Hickory where the Henry Fork and Jacob Fork rivers meet to form the
-South Fork Catawba River. [Tree Service Hickory NC](/) clears brush, timber and unwanted
-trees from residential and agricultural lots here, with a walk-through and a per-acre price
-before any equipment moves in.
-
-**(828) 522-9430. Free Estimate.**
-
 ## Land Clearing and Full Tree Care in Startown
 
 Clearing a wooded lot for a new home site, pasture or driveway is our most requested job in

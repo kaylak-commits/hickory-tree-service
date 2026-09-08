@@ -17,14 +17,6 @@ faqs:
     a: "Not for the address itself. A larger rural property can mean more trees or more acreage, which changes the price the way it would anywhere, based on actual scope rather than town."
 ---
 
-Catawba County holds roughly 170,000 people across Hickory and a dozen smaller towns and
-communities, from the county seat in Newton to lake communities on the far eastern edge.
-[Tree Service Hickory NC](/) covers the entire county from one crew, one price list and one
-phone number. The town on the mailing address does not change what a removal, a trimming
-job or an emergency call costs.
-
-**(828) 522-9430. Free Estimate.**
-
 ## One County, One Set of Prices
 
 Removal, trimming, stump grinding, land clearing, hazardous tree removal, deadwood and

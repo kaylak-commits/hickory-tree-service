@@ -2,7 +2,7 @@
 title: "Land Clearing Hickory NC | Free Estimate"
 h1: "Land Clearing in Hickory, NC"
 description: "Land clearing in Hickory, NC runs $2,500 to $12,000 or more per acre depending on vegetation and access. Licensed and insured. Free estimate."
-intro: "[Tree Service Hickory NC](/) clears wooded lots for a build site, a driveway or a pasture across Catawba County. Every job starts with a walk of the property to mark what stays and what comes out, then a written price by the acre. The clearing itself goes tree by tree rather than pushed in bulk, then everything that came down gets hauled or chipped. Full clearing for a new build, opening a view or a driveway, and brush cut back on land that has grown up over the years, we handle it all."
+intro: "[Tree Service Hickory NC](/) clears wooded lots for a build site, a driveway or a pasture across Catawba County. Every job starts with a walk of the property to mark what stays and what comes out, then a written price by the acre. The clearing itself goes tree by tree rather than pushed in bulk, then everything that came down gets hauled or chipped. Full clearing for a new build, opening a view or a driveway, and brush cut back on land that has grown up over the years, we handle it all. We work with homeowners, landlords and small builders across Hickory and Catawba County. An excavator with a mulching head handles most brush and small-tree clearing, and a crew with chainsaws and a crane comes out for larger trees that need to come down selectively rather than pushed. Licensed and insured on every job, with a free estimate before you pay for anything."
 layer: main
 hero: landClearing
 inMenu: true
@@ -21,17 +21,6 @@ faqs:
   - q: "Do you handle grading after clearing?"
     a: "No, that is a different trade. We clear the land and leave it graded and walkable, and can point you toward who handles final grading and utility work."
 ---
-
-[Tree Service Hickory NC](/) clears wooded lots for a build site, a driveway or a pasture
-across Catawba County. Every job starts with a walk of the property to mark what stays and what comes out, then a written price by the acre. The clearing itself goes tree by tree rather than pushed in bulk, then everything that came down gets hauled or chipped. Full clearing for a new build, opening a view or a driveway, and brush cut back on land that has grown up over the years, we handle it all.
-
-We work with homeowners, landlords and small builders across Hickory and Catawba
-County. An excavator with a mulching head handles most brush and small-tree clearing,
-and a crew with chainsaws and a crane comes out for larger trees that need to come down
-selectively rather than pushed. Licensed and insured on every job, with a free estimate
-before you pay for anything.
-
-**(828) 522-9430. Free Estimate.**
 
 Sandy loam soil and about 45 inches of rain a year mean cleared ground here needs
 grading and drainage thought through before it sits bare. See our

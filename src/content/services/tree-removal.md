@@ -2,7 +2,7 @@
 title: "Tree Removal Hickory NC | Free Estimate"
 h1: "Tree Removal in Hickory, NC"
 description: "Tree removal in Hickory, NC starts at a $500 minimum, most jobs $500 to $3,000. Licensed and insured, no permit needed on your lot. Free inspection."
-intro: "[Tree Service Hickory NC](/) removes hazardous, dead and unwanted trees from residential and commercial properties across Catawba County. Every removal starts with a site inspection to plan the drop or the rigging, followed by a written price before any saw starts. The crew then fells or sections the tree, hauls it away and grinds the stump if you want it gone the same day. Whole tree drops in open yards, climbing jobs beside a house or power line, and storm-damaged trees that came down on their own, we handle all of it."
+intro: "[Tree Service Hickory NC](/) removes hazardous, dead and unwanted trees from residential and commercial properties across Catawba County. Every removal starts with a site inspection to plan the drop or the rigging, followed by a written price before any saw starts. The crew then fells or sections the tree, hauls it away and grinds the stump if you want it gone the same day. Whole tree drops in open yards, climbing jobs beside a house or power line, and storm-damaged trees that came down on their own, we handle all of it. We work on single-family lots, rental properties and small commercial sites. A bucket truck and chainsaws cover most open-yard work. Climbing gear and rigging come out for anything near a structure, and a crane handles large or technical drops. Licensed and insured on every job, with a free inspection before you pay for anything."
 layer: money
 hero: removal
 inMenu: true
@@ -23,20 +23,6 @@ faqs:
   - q: "Do you treat tree disease or apply fertilizer?"
     a: "No, that work requires a pesticide applicator license from the state, not a removal crew. We will say so plainly if a tree's problem looks like disease rather than a structural issue that calls for removal."
 ---
-
-[Tree Service Hickory NC](/) removes hazardous, dead and unwanted trees from residential and
-commercial properties across Catawba County. Every removal starts with a site inspection
-to plan the drop or the rigging, followed by a written price before any saw starts. The
-crew then fells or sections the tree, hauls it away and grinds the stump if you want it
-gone the same day. Whole tree drops in open yards, climbing jobs beside a house or power
-line, and storm-damaged trees that came down on their own, we handle all of it.
-
-We work on single-family lots, rental properties and small commercial sites. A bucket
-truck and chainsaws cover most open-yard work. Climbing gear and rigging come out for
-anything near a structure, and a crane handles large or technical drops. Licensed and
-insured on every job, with a free inspection before you pay for anything.
-
-**(828) 522-9430. Free Inspection.**
 
 ## Why Trees Come Down More Often in Hickory
 

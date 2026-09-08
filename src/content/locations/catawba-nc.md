@@ -19,14 +19,6 @@ faqs:
     a: "Yes. See our [Hazardous Tree Removal](/hazardous-tree-removal) page for how a leaning or storm-weakened tree is assessed and priced before it comes down on its own."
 ---
 
-The small town of Catawba sits directly on the river that gave the whole county its name,
-in the eastern part of the county, with about 630 residents.
-[Tree Service Hickory NC](/) responds to storm-damaged and hazardous trees here. Every
-call starts with a phone assessment of the danger, then a crew dispatched with the right
-equipment for a tree already down or hung over a structure.
-
-**(828) 522-9430. Call for Emergency Removal.**
-
 ## Emergency Removal and Full Tree Care in Catawba
 
 Tree roots along Catawba's low-lying river stretches sit in saturated ground longer after
