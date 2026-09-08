@@ -11,8 +11,12 @@ const services = (await getCollection('services')).sort(
 ---
 <header>
   <div class="wrap bar">
+    {/* Kayla, 2026-09-08: prefers the plain icon (no banner text) with the
+        brand name set as real text beside it, rather than the small curved
+        text baked into the circular badge graphic. */}
     <a class="logo" href="/">
-      <img src="/logo-wordmark.webp" alt={SITE.brand} width="1000" height="231" />
+      <img src="/logo-icon.webp" alt="" width="200" height="200" />
+      <span class="logo-text">Tree Service<br/>Hickory NC</span>
     </a>
 
     <input type="checkbox" id="nt" />

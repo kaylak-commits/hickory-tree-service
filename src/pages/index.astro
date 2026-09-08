@@ -130,17 +130,24 @@ const emergencySteps = [
   { h: 'Cleanup and Debris Hauling', p: `Everything cut gets hauled or chipped before the crew leaves, and the site is left the way it was found aside from the tree that came down.` },
 ];
 
-/* 8 — insurance-claim support. Kayla, 2026-09-08, wants a section on working
-   with insurance (plus a dedicated page — flagged separately, not built here).
-   ⚠️ Kept to what's actually true and non-committal: providing documentation
-   for a claim is a safe, general statement. NOT claimed here because it isn't
-   CONFIRMED in FACTS.md: direct insurance billing, working with specific
-   carriers/adjusters by name, or any turnaround-time promise. Confirm with
-   Kayla before adding those — see the report for this build. */
-const secInsurance = `<h2>Working With Your Insurance Company</h2>
-<p>Storm damage from a covered event? We document the job with photos and an itemized
-invoice you can hand straight to your adjuster, so the claim isn't held up waiting on
-paperwork from us.</p>`;
+/* 8 — insurance-claim support. Kayla, 2026-09-08, sent sourced general facts
+   (SOURCED in FACTS.md § Insurance, 2026-09-08) on how NC homeowners insurance
+   actually treats tree damage — used here as general information, which also
+   answers real "does insurance cover tree removal" search intent.
+   ⚠️ Still NOT claimed: direct insurance billing, working with named carriers
+   or adjusters, or any turnaround-time promise — none of that is confirmed.
+   A dedicated insurance page is a separate build, flagged in the report. */
+const secInsurance = `<h2>Does Insurance Cover Tree Removal in Hickory, NC?</h2>
+<p>Usually, only if the tree damaged an insured structure — a house, garage or fence.
+Coverage for the removal itself is typically capped around $500 to $1,000 per tree. A
+tree that falls in the yard and misses every structure is generally not a covered
+cleanup cost, and if a neighbor's tree was already dead or dying before it fell on your
+property, their liability coverage can come into play instead of yours.</p>
+<p>The claims process usually runs: photograph the damage before any cleanup, get a
+written estimate from an insured tree service, submit the estimate and photos to your
+insurer, then an adjuster reviews it before work is approved. We document every storm
+job with photos and an itemized estimate built for that process — ask for it when you
+call.</p>`;
 
 const closeBody = `<p>The most trusted, most affordable tree service team in Hickory and the rest of Catawba
 County — licensed, insured, and priced in writing before anything is cut.</p>
@@ -158,9 +165,10 @@ const faqs = [
   { q: `What does land clearing cost in Hickory?`, a: `See the table above. Every job starts with a walk of the property to mark what stays and what comes out, then a written price by the acre.` },
   { q: `Do you offer certified arborist assessments?`, a: `Yes. An ISA-certified arborist assessment, worked to ANSI A300, covers a tree health diagnosis, a risk assessment, or a written treatment recommendation before anyone decides to remove instead of treat.` },
   { q: `Why do trees uproot here instead of just losing limbs?`, a: `Sandy loam soil drains fast but still saturates during Hickory's roughly 45 inches of annual rain, which loosens root anchorage on a saturated lot. A shallow-rooted species like loblolly pine is the most common one this affects.` },
-  { q: `Can you tell me which service I actually need before I call?`, a: `Usually, yes, over the phone, once we know what the tree looks like and what's near it. A short description and a photo if you have one is often enough to point you toward removal, trimming, an assessment, or cabling and bracing before a crew ever comes out.` },
+  { q: `How do I know which service I need before scheduling a visit?`, a: `A short description of what the tree looks like and what's near it, plus a photo if you have one, is usually enough over the phone to point you toward removal, trimming, an assessment, or cabling and bracing before a crew ever comes out.` },
   { q: `Do you offer financing or payment plans for larger jobs?`, a: `Larger jobs like land clearing or a multi-tree removal are quoted as one written price before work starts. Payment terms for a job that size get discussed at the estimate, not assumed ahead of time.` },
   { q: `What happens to the wood after a tree comes down?`, a: `Debris hauling and chipping is part of most removals. Larger trunk sections can sometimes be left on site if you want the firewood, which is worth mentioning at the estimate.` },
+  { q: `Does homeowners insurance cover tree removal in North Carolina?`, a: `Usually only if the tree damaged an insured structure like a house, garage or fence — coverage for the removal itself is commonly capped around $500 to $1,000 per tree. A tree that falls in the yard and misses every structure is generally not a covered cost.` },
 ];
 ---
 <BaseLayout

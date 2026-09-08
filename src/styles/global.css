@@ -33,12 +33,11 @@ a{color:var(--blue)}
 /* HEADER — logo left · centred nav · phone + credentials right */
 header{position:sticky;top:0;z-index:200;background:#fff;box-shadow:0 1px 0 rgba(0,0,0,.08)}
 .bar{display:flex;align-items:center;gap:18px;padding:14px 0}
-.logo{display:block;text-decoration:none;flex:0 0 auto;line-height:0}
-/* Kayla, 2026-09-07: "large logo — you can't see the brand name". The real
-   logo is a circular badge with the brand name curved around the bottom
-   third, so the text needs real size to read at all — a plain wordmark's
-   60px doesn't work for a badge-style mark. Sized up for legibility. */
-.logo img{height:92px;width:auto;display:block}
+/* Kayla, 2026-09-08: switched from the badge-with-curved-text wordmark to the
+   plain icon plus real text set beside it — reads clearly at any size. */
+.logo{display:flex;align-items:center;gap:12px;text-decoration:none;flex:0 0 auto}
+.logo img{height:56px;width:auto;display:block}
+.logo-text{font-weight:800;color:var(--ink);line-height:1.2;font-size:1.08rem;letter-spacing:-.01em}
 header nav{flex:1;display:flex;justify-content:center}
 header nav ul{display:flex;gap:30px;list-style:none;margin:0;padding:0}
 header nav a{color:var(--ink);text-decoration:none;font-weight:700;font-size:1.02rem}
@@ -71,7 +70,11 @@ input::placeholder,textarea::placeholder{color:#98A2AE}
 .send:hover{background:var(--ink);color:var(--sand)}
 
 section{padding:76px 0}
-section.tight{padding:44px 0}
+/* Kayla, 2026-09-08: "too much header room above the H2 in most sections" —
+   tight sections get real top compression, a bit more on the bottom so the
+   next section doesn't slam into it. */
+section.tight{padding:22px 0 40px}
+section.tight .prose>h2:first-child,section.tight .prose>*:first-child{margin-top:0}
 .cream{background:var(--cream)}
 .band{background:var(--blue);padding:52px 0;text-align:center}
 .band h2{color:#fff;margin:0}
@@ -159,7 +162,8 @@ footer a{color:#98A8BC}
 .callbar .q{background:var(--sand);color:var(--ink)}
 
 @media(max-width:1000px){
-  .logo img{height:64px}
+  .logo img{height:44px}
+  .logo-text{font-size:.92rem}
   .bar{flex-wrap:wrap;gap:12px}
   .burger{display:grid;place-items:center;width:48px;height:48px;border:2px solid var(--line);
     cursor:pointer;font-size:1.4rem;color:var(--ink);margin-left:auto}
@@ -367,7 +371,7 @@ header nav li.has-sub::after{content:"";position:absolute;left:0;right:0;top:100
 .service-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:10px}
 .service-card{background:#fff;border:1px solid var(--line)}
 .service-card .ph{height:170px}
-.service-card h3{background:var(--deep);margin:0;padding:11px 16px;font-size:1rem;line-height:1.3}
+.service-card h3{background:var(--deep);color:#fff;margin:0;padding:11px 16px;font-size:1rem;line-height:1.3}
 .service-card h3 a{color:#fff;text-decoration:none}
 .service-card h3 a:hover{color:var(--sand)}
 .service-card p{padding:12px 16px;margin:0;font-size:.9rem;line-height:1.55}
