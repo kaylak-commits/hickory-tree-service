@@ -26,7 +26,9 @@ About 45 inches of rain a year means storm-downed limbs and brush left on the gr
 
 ## Do You Need a Haul-Off or Just Chipping?
 
-Two outcomes get requested under the same word, and they leave a yard looking very different afterward. **Full haul-off** removes every limb, trunk section and pile of brush from the property, leaving a clear yard with nothing left behind. **Chipping in place** runs the smaller material through a chipper and leaves the resulting mulch on site. That is useful if you want ground cover for a bed or a bare patch instead of paying to haul it away. Larger trunk sections do not chip well and usually get hauled regardless of which option you choose for the smaller material. Some homeowners also ask us to leave cut rounds for firewood rather than hauling or chipping them, which we are glad to do when the wood is a usable size and species.
+Storm-damaged wood is the single most common reason for a standalone call, whether
+that's one downed limb or a yard full of material after a system passes through. Two
+outcomes get requested under the same word, and they leave a yard looking very different afterward. **Full haul-off** removes every limb, trunk section and pile of brush from the property, leaving a clear yard with nothing left behind. **Chipping in place** runs the smaller material through a chipper and leaves the resulting mulch on site. That is useful if you want ground cover for a bed or a bare patch instead of paying to haul it away. Larger trunk sections do not chip well and usually get hauled regardless of which option you choose for the smaller material. Some homeowners also ask us to leave cut rounds for firewood rather than hauling or chipping them, which we are glad to do when the wood is a usable size and species.
 
 ## What Debris Hauling Costs in Hickory
 

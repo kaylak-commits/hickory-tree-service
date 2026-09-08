@@ -73,7 +73,7 @@ const locations = (await getCollection('locations')).sort((a, b) =>
           <a href="/service-areas/">Locations <span class="caret">▾</span></a>
           <ul class="sub">
             {serviceAreasHub && (
-              <li><a href={`/${serviceAreasHub.id}/`}>{serviceAreasHub.data.h1}</a></li>
+              <li><a href={`/${serviceAreasHub.id}/`}>All Service Areas</a></li>
             )}
             {locations.map((l) => (
               <li><a href={`/${l.id}/`}>Tree Service in {l.data.town}, NC</a></li>

@@ -58,6 +58,14 @@ involved.
 The arborist identifies each tree in question, loblolly pine, oak, maple or otherwise,
 since the disease and pest entities that matter differ by species.
 
+### Structural and Root Checks
+Beyond species-specific disease, the arborist checks for decay pockets in the trunk,
+water sprouts (thin upright shoots that often signal canopy stress or old improper
+pruning), and root plate movement or other signs of poor root stability, any of which
+can mean a tree fails structurally even while it still looks healthy from the ground.
+Canopy dieback, dead sections scattered through an otherwise living crown, gets traced
+back to a cause rather than treated as one problem.
+
 ### Checking Against Known Entities
 Every tree's findings get checked against the species-specific issues that actually
 occur here, southern pine beetle, oak wilt, verticillium wilt and the rest, rather than

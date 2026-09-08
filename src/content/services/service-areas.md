@@ -1,6 +1,6 @@
 ---
 title: "Tree Service Areas Hickory NC"
-h1: "Where Tree Service Hickory NC Works"
+h1: "Tree Service Areas in Hickory, NC and Catawba County"
 description: "Our Tree Service Hickory NC service areas cover Hickory and 12 more Catawba County towns among roughly 170,000 residents, no travel charge."
 intro: "Tree Service Hickory NC covers Hickory and the rest of Catawba County, part of the Hickory-Lenoir-Morganton metro area of roughly 377,000 people. Removal, trimming, stump grinding, land clearing, hazardous tree removal, deadwood and diseased tree removal, and emergency storm response are all priced the same way. It does not matter which town on this list the call comes from. No separate travel charge applies anywhere in the service area."
 layer: main

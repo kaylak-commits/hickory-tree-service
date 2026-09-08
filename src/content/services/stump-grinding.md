@@ -1,8 +1,8 @@
 ---
-title: "Stump Grinding Hickory NC | Free Estimate"
-h1: "Stump Grinding in Hickory, NC"
-description: "Stump grinding in Hickory, NC runs $150 to $800 or more depending on stump size. $150 minimum callout. Licensed and insured. Free estimate."
-intro: "[Tree Service Hickory NC](/) grinds stumps flush below grade for homeowners, landlords and small commercial properties across Catawba County. Every job starts with a look at the stump's diameter and root spread, then a written price before the grinder starts. The grinding itself takes the stump down below grade, then a cleanup leaves the mulch chips for you to keep or haul away. Single stumps, several from the same removal, or ones left behind by another crew, and we grind every one of them. We work on single-family lots, rental properties and small commercial sites. A mid-size grinder handles most yard jobs, and a larger machine comes out for wide, old-growth stumps or several in one visit. Licensed and insured on every job, with a free estimate before you pay for anything."
+title: "Stump Grinding & Removal Hickory, NC | Free Estimate"
+h1: "Stump Grinding and Stump Removal in Hickory, NC and Catawba County"
+description: "Stump grinding and stump removal in Hickory, NC run $150 to $800+ depending on size. $150 minimum callout. Licensed, insured. Free estimate."
+intro: "[Tree Service Hickory NC](/) handles stump grinding and stump removal for homeowners, landlords and small commercial properties across Catawba County. Every job starts with a look at the stump's diameter and root spread, then a written price before the grinder starts. Grinding takes the stump down below grade, the fastest and most affordable way to remove a stump without digging up the yard, then a cleanup leaves the mulch chips for you to keep or haul away. Single stumps, several from the same removal, or ones left behind by another crew, we grind every one of them. We work on single-family lots, rental properties and small commercial sites. A mid-size grinder handles most yard jobs, and a larger machine comes out for wide, old-growth stumps or several in one visit. Licensed and insured on every job, with a free estimate before you pay for anything."
 layer: main
 hero: stump
 inMenu: true
@@ -10,6 +10,8 @@ order: 4
 faqs:
   - q: "How much does stump grinding cost in Hickory, NC?"
     a: "Our minimum callout is $150. Most jobs run $150 to $800 or more depending on the stump's diameter and how many stumps are on site. You get an exact price at the inspection."
+  - q: "Is stump grinding the same as stump removal?"
+    a: "For nearly every property, yes, grinding is how we remove a stump. It clears the stump and nearby surface roots below grade without digging up the yard. Full excavation of a stump and its root ball is rare and priced separately, and we'll say so upfront if a site actually needs that instead."
   - q: "How deep do you grind a stump?"
     a: "Standard depth is 4 to 6 inches below grade, enough to cover with soil and grass. A job ahead of new construction or a driveway can go deeper on request."
   - q: "Will grinding remove the whole root system?"
@@ -28,7 +30,10 @@ stump left in place keeps sending up root suckers years later. See our
 
 ## Which Stump Grinding Job Do You Actually Need?
 
-Three situations get called "stump grinding" and they price differently. **A single
+Grinding is how we handle stump removal on almost every property, since it clears the
+stump and surface roots without the excavation, fill dirt and yard damage that digging
+one out whole would involve. Three situations get called "stump grinding" and they
+price differently. **A single
 recent stump** from a removal we just did grinds fastest, since there is no old root
 flare to work around. **An old stump left by another crew**, often partly grown over
 or with grass established around it, takes longer to locate the true edge of and grind
@@ -37,9 +42,11 @@ down over the years, price as a group visit rather than separate callouts. If yo
 to replant in the same spot, tell us before the grinder starts, since grinding depth
 changes when new roots need room to establish.
 
-## What Stump Grinding Costs in Hickory
+## What Stump Removal Costs in Hickory
 
-Our minimum callout for stump grinding is **$150**. Most jobs run **$150 to $800 or
+Stump removal cost in Hickory tracks the same range whether you call it grinding or
+removal, since grinding is how the job actually gets done. Our minimum callout is
+**$150**. Most jobs run **$150 to $800 or
 more**, driven mainly by the stump's diameter at ground level, with the number of
 stumps and how easy the site is to access as secondary factors. A single small stump
 under a couple feet across sits at the low end. A wide, old-growth stump, or several
@@ -95,7 +102,7 @@ grading tolerances are different from a lawn. Large surface roots radiating out 
 the stump get ground back several feet where they would otherwise interfere with
 mowing or a walkway.
 
-## What Stump Grinding Includes in Hickory (and What It Doesn't)
+## What Stump Removal Includes in Hickory (and What It Doesn't)
 
 We grind stumps of any size, single or multiple, fresh or old. We do not fill or
 regrade the resulting hole beyond raking the chips level, that is landscaping work we
@@ -104,7 +111,7 @@ mean excavating the yard rather than grinding, and is rarely worth the cost for 
 residential lot. If a stump sits directly over a septic line or a utility line, we say
 so at the inspection rather than grinding blind.
 
-## Why Choose Tree Service Hickory NC for Stump Grinding
+## Why Choose Tree Service Hickory NC for Stump Grinding and Removal
 
 - **Licensed and Insured**: every job is covered, on every property we work.
 - **A Price Before the Grinder Starts**: the number you approve at inspection is the
@@ -122,7 +129,7 @@ A homeowner calls about two stumps left in the side yard from trees removed year
 now surrounded by established grass. The inspection finds both stumps solid enough that
 the grinder can work straight through rather than around soft, rotted wood. The crew grinds each stump down below grade, working the surface roots back a few feet from the main flare. The chips get raked into a pile at the edge of the yard for the homeowner to use as mulch. Total time on site runs under two hours for a job this size.
 
-## Where We Provide Stump Grinding in Hickory
+## Where We Provide Stump Grinding and Stump Removal in Hickory
 
 A grinder and trailer travel the same route across Hickory, Conover and the rest of
 Catawba County at no extra charge, one backyard stump or several on an older lot. See our [Service Areas](/service-areas)
@@ -154,7 +161,7 @@ Clearing a wooded lot for a build site or a driveway, priced per acre. See our
 Dead limbs or a tree too far gone from disease to save. See our
 [Deadwood and Diseased Tree Removal](/deadwood-diseased-tree-removal) page.
 
-## Get Your Free Stump Grinding Estimate
+## Get Your Free Stump Grinding and Removal Estimate
 
 Most Hickory stump grinding jobs run $150 to $800, and our $150 minimum covers the
 smallest single-stump jobs. The price is in writing before the grinder starts, and

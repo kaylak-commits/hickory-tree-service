@@ -1,7 +1,7 @@
 ---
-title: "Tree Trimming Hickory NC | Free Estimate"
-h1: "Tree Trimming in Hickory, NC"
-description: "Tree trimming in Hickory, NC runs $500 to $2,500. Structural pruning, canopy thinning, storm cleanup. Licensed and insured. Free estimate."
+title: "Tree Trimming & Pruning Hickory NC | Free Estimate"
+h1: "Tree Trimming and Pruning in Hickory, NC"
+description: "Tree trimming and pruning in Hickory, NC run $500 to $2,500. Structural pruning, canopy thinning, storm cleanup. Licensed and insured."
 intro: "[Tree Service Hickory NC](/) prunes and trims trees for homeowners, landlords and small commercial properties across Catawba County. Every job follows the same order, a site inspection to identify which limbs need to come out, then a written price before any cut is made. The crew prunes, thins or removes deadwood, then hauls away everything cut. Structural pruning on young trees, canopy thinning on mature ones, deadwood removal, and clearance cuts away from a roofline or power line, we handle all of it. We work on single-family lots, rental properties and small commercial sites. A bucket truck handles most clearance and canopy work, and climbing gear comes out for limbs a truck cannot reach. Licensed and insured on every job, with a free estimate before you pay for anything."
 layer: money
 hero: trimming
@@ -43,8 +43,11 @@ can still correct it. Wait too long, and that same defect turns into a removal p
 wind pass through instead of catching the whole canopy, without changing the tree's
 shape. **Deadwooding** removes dead or dying branches only, usually the fastest and
 least expensive of the four. **Clearance pruning** cuts back limbs that have grown into
-a roofline, a power line or a neighboring structure. A tree with a split trunk or a
-hollow section needs more than pruning. That is a removal candidate, and the inspection
+a roofline, a power line or a neighboring structure. Arborists also call these
+techniques by more specific names: crown thinning for the interior canopy work, crown
+raising for lifting the canopy clear of a roof, driveway or walkway, and crown
+reduction for pruning back a tree's overall height or spread rather than removing it.
+A tree with a split trunk or a hollow section needs more than pruning. That is a removal candidate, and the inspection
 will say so rather than pruning around a problem that will not go away.
 
 ## What Tree Trimming Costs in Hickory
@@ -102,7 +105,7 @@ wound, which invites rot into the trunk itself. Over-thinning a canopy in one vi
 the work over a couple of seasons, can shock a tree. That shock triggers a flush of
 weak regrowth exactly where a storm will catch it hardest next time.
 
-## Tree Trimming Standards We Cut To at Tree Service Hickory NC
+## Tree Trimming and Pruning Standards We Cut To at Tree Service Hickory NC
 
 Pruning cuts follow ANSI A300 standard practice, the industry standard for where and
 how a cut is made relative to the branch collar and the trunk. We do not top trees,
@@ -112,7 +115,7 @@ Loblolly pine and other heavy-canopied species get thinned rather than topped fo
 resistance. Oak and maple structural work is timed to the tree's dormant season where
 the job allows it, which reduces stress on the tree.
 
-## What Tree Trimming Includes in Hickory (and What It Doesn't)
+## What Tree Trimming and Pruning Include in Hickory (and What They Don't)
 
 We prune, thin, deadwood and clear limbs from live and structurally sound trees. We do
 not diagnose or treat tree disease, and we do not apply fertilizer or pesticide, that
@@ -120,7 +123,7 @@ work calls for a pesticide applicator license from the state. If a tree needs to
 down rather than be pruned, we say so and point you to our removal service rather than
 pruning around the problem.
 
-## Why Choose Tree Service Hickory NC for Tree Trimming
+## Why Choose Tree Service Hickory NC for Tree Trimming and Pruning
 
 - **Licensed and Insured**: every job is covered, on every property we work.
 - **ANSI A300 Cuts, Never Topping**: standard pruning practice, not a shortcut that
@@ -176,7 +179,7 @@ Clearing a wooded lot for a build site or a driveway, priced per acre. See our
 Dead limbs or a tree too far gone from disease to save. See our
 [Deadwood and Diseased Tree Removal](/deadwood-diseased-tree-removal) page.
 
-## Get Your Free Tree Trimming Estimate
+## Get Your Free Tree Trimming and Pruning Estimate
 
 Most Hickory trimming jobs run $500 to $2,500, and the price you approve at the
 inspection is the price on the invoice. Brush gets hauled away the same day, and the
