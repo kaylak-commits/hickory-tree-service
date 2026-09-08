@@ -54,50 +54,79 @@ const trustStats = [
    Tone pass: benefit-first openers, shorter sentences. */
 const whyChoose = [
   { h: 'Local Tree and Climate Experts', p: `We work from what actually happens to trees in Hickory's sandy soil and heavy seasonal rain, not a generic checklist. Loblolly pine, water oak, red maple and sweetgum each fail differently — we know which risk applies before a saw ever starts.` },
-  { h: 'The Best Price Is a Written Price', p: `Every job gets a real, affordable number in writing, based on what we see on site, not a phone guess. Free estimates on every call, whether it's one stump or a multi-acre clearing.` },
+  { h: 'The Best Price Is a Written Price', p: `Every quote is based on what we see standing on your property, not a guess over the phone — and it's free whether the job is one stump or a multi-acre clearing.` },
   { h: 'The Right Equipment for the Job', p: `A bucket truck and ground crew for open-yard work, climbing gear and rigging near a structure or power line, and a crane for the big or technical drops. The equipment gets matched to the tree, not the other way around.` },
   { h: 'ISA-Certified Arborist Assessments', p: `Before any removal decision, a certified arborist assessment (ANSI A300) is available for a tree that's stressed rather than obviously dead — a real second opinion, not an upsell.` },
   { h: 'Licensed and Insured, Every Time', p: `Full coverage on a single-family lot or a multi-tenant commercial property, with a certificate of insurance sent to your property manager or GC on request before the crew arrives.` },
   { h: 'One Fair Price, All of Catawba County', p: `Hickory, Conover, Newton, Longview, Maiden, Claremont and the rest of Catawba County get the same affordable pricing and the same crew — no travel charge, ever.` },
 ];
 
-/* 3 — residential services, 6 items with a photo each. Only the first three
-   (the money pages) are linked — see hard rule above. No pricing here. */
+/* 3 — residential services, 8 items with a photo each (Kayla, 2026-09-08: add
+   Tree Cabling & Bracing and Tree Health Assessments/Diagnostics, both real
+   pages already built but missing from the homepage — see FACTS.md § Materials
+   and standards for the cabling/bracing entry and ANSI A300 citation). Only
+   the first three (the money pages) are linked — see hard rule above. No
+   pricing here. Two short paragraphs each, per Page Templates §2a: one on
+   process, one on a real local/technical detail — modeled on
+   grandrapidstree.com's per-service depth, never its sentences. */
 const residentialServices = [
   { h: 'Tree Removal', slug: '/tree-removal/', img: 'removal' as const,
-    p: `Fast, affordable tree removal for open yards, tight spots beside a house or power line, and large or hazardous trees needing a crane. We inspect first, quote in writing, then get it done — stump ground the same day if you want it gone, everything hauled before we leave.` },
+    p: `Every removal starts with a look at the tree's lean, root condition and what's nearby — a fence, a driveway, a power line — before a chainsaw ever starts. An open-yard tree usually comes down whole; anything near a structure gets rigged and lowered in sections instead.`,
+    p2: `Loblolly pine, water oak and sweetgum make up most of what comes down across Catawba County, and each fails differently — pine tends to uproot whole in saturated soil, while a water oak can be hollow inside and still look healthy from the yard. Stump grinding and full debris haul-away are available the same visit.` },
   { h: 'Tree Trimming', slug: '/tree-trimming/', img: 'trimming' as const,
-    p: `Structural pruning, canopy thinning, deadwood removal, and clean clearance away from your roof or the power lines. A properly thinned canopy is what lets a mature tree survive a storm instead of losing a limb — or worse.` },
+    p: `Structural pruning takes out crossing limbs and weak unions before they fail, while canopy thinning lets wind pass through the tree instead of loading up against a solid mass of leaves. Deadwood comes out at the same time, along with anything crowding your roofline or a power line.`,
+    p2: `Cuts are made to ANSI A300 standard — the same benchmark cabling and bracing work is held to — so they heal cleanly instead of inviting rot at the wound. A properly thinned oak or maple is far more likely to lose a limb than lose the whole tree in a storm.` },
   { h: 'Emergency Storm Damage Removal', slug: '/emergency-storm-damage-tree-removal/', img: 'storm' as const,
-    p: `A tree down on your roof, car or driveway gets a safety assessment before a single cut, so nothing shifts the wrong way. Fast response, every time — see how we handle an emergency call below.` },
-  { h: 'Stump Grinding', slug: null, img: 'stump' as const,
-    p: `Ground flush below grade, whether it's from today's removal, an old one, or work another crew left behind. One stump or several on the same property, same visit.` },
+    p: `A tree down on a roof, car or driveway gets a safety assessment first — what load it's putting on whatever it landed on — before a single cut is made, because cutting the wrong piece first can shift the weight the wrong way.`,
+    p2: `Response is scheduled around actual damage and access, not a flat queue, and every storm call is fully documented for insurance purposes. See the full walkthrough of how an emergency call runs below.` },
+  { h: 'Tree Stump Removal', slug: null, img: 'stump' as const,
+    p: `Every stump gets ground flush below grade, whether it's from a same-day removal, an old one, or tree stump removal work another crew left unfinished. One stump or several on the same property get handled in the same visit.`,
+    p2: `Grinding depth is set by the stump's diameter and how far the root system spreads, not a one-size cut — a shallow-rooted pine grinds differently than a deep-anchored oak. Chips are hauled off or left on site as mulch, whichever you'd rather have.` },
   { h: 'Land Clearing', slug: null, img: 'landClearing' as const,
-    p: `Build site, driveway or pasture — cleared tree by tree, not pushed in bulk, so what you want kept stays kept. Debris hauled or chipped as part of the job.` },
+    p: `Build sites, driveways and pasture ground get cleared tree by tree rather than pushed in bulk, so anything you want kept — a shade tree, a treeline along a property boundary — stays exactly where it is. Every job starts with a walk of the property to mark what comes out.`,
+    p2: `Debris is hauled off or chipped as part of the same job, and pricing runs by the acre, driven by vegetation density and how the equipment can actually reach the site.` },
   { h: 'Hazardous Tree Removal', slug: null, img: 'hazardous' as const,
-    p: `A standing dead or leaning tree gets a real risk assessment before we touch it — lean, root condition, what's nearby. Our most technical removal call, handled with the rigging and crane work it actually needs.` },
+    p: `A standing dead or visibly leaning tree gets a real risk assessment before we touch it — which way it's leaning, root condition, what's within falling distance. It's the removal call most likely to go wrong in untrained hands.`,
+    p2: `Rigging and crane work come out for the technical drops a bucket truck can't safely reach — the same written price-before-a-cut process as a routine removal, just with more equipment on site.` },
+  { h: 'Tree Cabling & Bracing', slug: null, img: 'cabling' as const,
+    p: `Steel cables and rods give a structurally weak tree — a split trunk union, a heavy lean, co-dominant stems with included bark — the support it needs to stay standing. It's a non-invasive alternative to removal when the rest of the tree is healthy.`,
+    p2: `Installed to ANSI A300 standard, cabling and bracing is most often the right call on a red maple or oak with a weak fork rather than a tree that's already failing — a certified arborist assessment is usually the first step to confirm it before any hardware goes in.` },
+  { h: 'Tree Health Assessments', slug: null, img: 'healthAssess' as const,
+    p: `An ISA-certified arborist assessment gives a stressed or declining tree a real diagnosis — root condition, disease or pest activity, structural defects — before you decide between treatment, cabling or removal. It's tree diagnostics, not a guess from the curb.`,
+    p2: `This is the right first call for a tree that looks off rather than obviously dead: thinning canopy, unusual leaf drop, or fungus at the base. The written report gives you something concrete to act on, whether that's a treatment plan or a same-visit removal quote.` },
 ];
 
-/* 4 — commercial services, same pattern, 3 items, none linked. */
+/* 4 — commercial services, same pattern, 3 items, none linked. Two short
+   paragraphs each, same as residential. */
 const commercialServices = [
   { h: 'Commercial Tree Removal and Trimming', img: 'commercial' as const,
-    p: `The same reliable removal and trimming work, scoped around your tenants and your hours. A site walk-through comes first, so the crew works around your schedule, not the other way around.` },
+    p: `The same removal and trimming work, scoped around your tenants, your parking lot traffic and your hours rather than a residential schedule. A site walk-through comes first, so the crew knows what needs protecting — signage, landscaping, parked cars — before equipment shows up.`,
+    p2: `Multi-tenant properties get one point of contact and one written price for the whole job, whether it's a single storm-damaged tree or a scheduled trim across the lot.` },
   { h: 'Commercial Land and Lot Clearing', img: 'landClearing' as const,
-    p: `Build sites and undeveloped lots cleared tree by tree, with what stays marked ahead of time — the same trusted process, sized for a larger property.` },
+    p: `Build sites and undeveloped commercial lots get cleared tree by tree, with what stays marked ahead of time — the same process as a residential clearing job, sized up. Debris is hauled or chipped as part of the scope, not billed separately.`,
+    p2: `A graded, truck-accessible commercial lot moves faster and costs less per acre than a dense, undeveloped one reachable only by smaller equipment — a factor worth flagging before the quote, not after.` },
   { h: 'Certificate of Insurance on Every Job', img: 'arborist' as const,
-    p: `Your property manager or GC gets a certificate of insurance before the crew ever sets foot on site — automatically, no chasing us down for it.` },
+    p: `Your property manager or general contractor gets a certificate of insurance before the crew ever sets foot on site — sent ahead automatically, not chased down after the fact.`,
+    p2: `Coverage applies the same way on a multi-tenant commercial property as it does on a single-family lot, so there's nothing extra to request or wait on.` },
 ];
 
 /* 5 — the ONE pricing table on this page. Every number matches PRICING/SITE
-   in config.ts. */
+   in config.ts. Reordered and Key Variables rewritten 2026-09-08 (Kayla,
+   checking grandrapidstree.com's own table directly): every row there names a
+   different, specific 2-4 factor set — never the same phrase copy-pasted down
+   the column. Matched that specificity here with our own real cost drivers
+   from FACTS.md, not their wording. Cabling & Bracing added as a new row per
+   Page Templates §2a's "Quoted after assessment" rule — no sourced price yet,
+   so no fabricated range. */
 const pricingRows = [
-  { job: 'Tree Removal', range: '$500 – $3,000+', variables: 'Tree size, lean, access' },
-  { job: 'Tree Trimming', range: '$500 – $2,500', variables: 'Scope, tree size, climbing difficulty' },
-  { job: 'Emergency / Storm Damage Removal', range: '$2,000 – $20,000', variables: 'Damage extent, access' },
-  { job: 'Stump Grinding', range: '$150+', variables: 'Stump size, number of stumps' },
-  { job: 'Land Clearing', range: '$2,500 – $12,000+ per acre', variables: 'Vegetation density, site access' },
-  { job: 'Hazardous Tree Removal', range: '$500 – $9,000+', variables: 'Lean, proximity to structure' },
-  { job: 'Certified Arborist Assessment', range: '$250 – $1,000', variables: 'Diagnosis scope' },
+  { job: 'Tree Removal', range: '$500 – $3,000+', variables: 'Tree height, diameter, lean, and proximity to structures' },
+  { job: 'Tree Trimming & Pruning', range: '$500 – $2,500+', variables: 'Canopy size, number of trees, and access for climbing or a bucket truck' },
+  { job: 'Emergency / Storm Damage Removal', range: '$2,000 – $20,000+', variables: 'After-hours timing, damage severity, and equipment required' },
+  { job: 'Tree Cabling & Bracing', range: 'Quoted after assessment', variables: 'Union or split severity, cable system size, and tree height' },
+  { job: 'Tree Stump Removal', range: '$150+', variables: 'Stump diameter, root spread, and soil conditions' },
+  { job: 'Land Clearing', range: '$2,500 – $12,000+ per acre', variables: 'Vegetation density and site access' },
+  { job: 'Hazardous Tree Removal', range: '$500 – $9,000+', variables: 'Lean, proximity to structures, and rigging complexity' },
+  { job: 'Certified Arborist Assessment', range: '$250 – $1,000', variables: 'Diagnosis complexity and number of trees assessed' },
 ];
 
 /* 6 — hyper-local species section. Kayla, 2026-09-07: "6 or 8 boxes, not an
@@ -122,29 +151,40 @@ const proBenefits = [
   { h: 'Long-Term Tree Health', p: `Correct pruning cuts and species-aware decisions keep the trees you're keeping healthier, not just the ones coming down.` },
 ];
 
-/* 7 — how an emergency call runs. */
+/* 7 — how an emergency call runs. Expanded 2026-09-08 (Kayla: grandrapidstree.com's
+   version of this section is "way more detailed and better" — matched their 4-stage
+   structure and depth, own facts and wording, never their sentences. Stage 4 now folds
+   in the insurance-documentation angle instead of leaving it only in §8 below, the same
+   pairing grandrapidstree.com makes between site clearance and insurance support. */
 const emergencySteps = [
-  { h: 'Phone Assessment', p: `A quick description of what the tree is doing and what's nearby, plus a photo if there's one, tells the crew whether it's a tree already down and clear, or one still resting against a structure, a car or a power line.` },
-  { h: 'On-Site Safety Check', p: `Before a single cut is made, the crew assesses the load the tree is putting on whatever it landed on. Cutting the wrong piece first can drop the load the wrong way, so this step happens every time, storm call or not.` },
-  { h: 'Controlled Removal', p: `The tree comes down in the order the assessment calls for: rigged and sectioned near a structure or line, dropped in one piece if the yard is open.` },
-  { h: 'Cleanup and Debris Hauling', p: `Everything cut gets hauled or chipped before the crew leaves, and the site is left the way it was found aside from the tree that came down.` },
+  { h: 'Phone Intake and Hazard Assessment', p: `A quick description of what the tree is doing and what's nearby — resting on a roof, blocking a driveway, leaning on a power line — plus a photo if you have one, tells us whether it's a clear-and-haul job or one that needs rigging before anything gets touched. This is also where we flag anything that needs the power company called first.` },
+  { h: 'Crew Dispatch', p: `A crew gets sent out scoped to what the intake call described — a two-person crew for a downed limb, a full rigging and bucket-truck setup for a tree still resting on a structure. You get a real window, not an open-ended "sometime today."` },
+  { h: 'On-Site Stabilization', p: `Before a single cut is made, the crew assesses the load the tree is putting on whatever it landed on. Cutting the wrong piece first can shift that load the wrong way, so this step happens every time, storm call or not — sectioned and rigged down near a structure or line, dropped in one piece if the yard is open.` },
+  { h: 'Site Clearance and Insurance Support', p: `Everything cut gets hauled or chipped before the crew leaves, and the site is left the way it was found aside from the tree that came down. See below for what's covered if the damage is going through your homeowners insurance.` },
 ];
 
 /* 8 — insurance, a brief homepage MENTION only (Kayla, 2026-09-08: "insurance
    should just be mentioned on main page" — the full breakdown of the sourced
    facts in FACTS.md § Insurance is for the dedicated insurance page, a
-   separate build, not this section). */
+   separate build, not this section). Kayla, 2026-09-08 (second pass): keep
+   the fuller version she'd already approved — the documentation promise
+   stays here rather than being cut for a shorter one. The per-tree cap
+   figure lives only in the FAQ below (this section links to it) so the two
+   sections don't end up sharing the same sentence. */
 const secInsurance = `<h2>Does Insurance Cover Tree Removal in Hickory, NC?</h2>
 <p>Often, yes — when a tree damages an insured structure like your house, garage or
 fence. We document every storm job with photos and a written, itemized estimate you can
-hand straight to your adjuster.</p>`;
+hand straight to your adjuster — see the FAQ below for what's typically covered and
+what isn't.</p>`;
 
-const closeBody = `<p>The most trusted, most affordable tree service team in Hickory and the rest of Catawba
-County — licensed, insured, and priced in writing before anything is cut.</p>
+const closeBody = `<p>Removal, trimming, storm cleanup, cabling or a health assessment — Tree Service Hickory NC
+covers Catawba County with one crew and one written price before anything is cut.</p>
 <p>Call Tree Service Hickory NC at (828) 522-9430, or send the details and we'll come look.</p>`;
 
 const faqs = [
-  { q: `How much does tree service cost in Hickory, NC?`, a: `See the table above for typical ranges by service. Every job still gets a written price before a saw starts, so the number is never a surprise once the work begins.` },
+  { q: `How much does tree service cost in Hickory, NC?`, a: `See the table above for typical ranges by service — most jobs are priced by the specific factors listed next to them, like tree height, access or damage severity, not a flat number.` },
+  { q: `Do you offer tree cabling and bracing instead of removal?`, a: `Yes. A structurally weak but otherwise healthy tree — a split union, a heavy lean — can often be supported with steel cables or rods to ANSI A300 standard rather than taken down. A certified arborist assessment confirms whether a tree is a good candidate first.` },
+  { q: `What's the difference between a tree health assessment and just cutting the tree down?`, a: `An assessment is tree diagnostics — checking root condition, disease, pests and structural defects — before anything gets decided. A lot of stressed trees are a trimming, cabling or treatment case, not an automatic removal.` },
   { q: `Do you handle emergency storm damage?`, a: `Yes. A tree down on a house, a car or a driveway gets handled the way access allows. Cost is driven mainly by damage and access rather than a flat rate.` },
   { q: `Do I need a permit to remove a tree on my own property in Hickory?`, a: `No. Ordinary residential tree removal on a single-family or two-family lot does not require a city permit under Hickory's Land Development Code. A permit applies only to a tree in a public right-of-way or a job tied to new commercial construction, and we handle that permit when it's needed.` },
   { q: `What towns do you serve?`, a: `Hickory and the rest of Catawba County. No separate travel charge applies to the towns outside Hickory.` },
@@ -152,7 +192,7 @@ const faqs = [
   { q: `What's the difference between tree trimming and tree removal?`, a: `Trimming cuts back limbs and leaves the tree standing. Removal takes the whole tree down. A tree that looks stressed rather than obviously dead is usually a trimming or an assessment question first, not an automatic removal.` },
 
   { q: `Do you grind stumps left behind by another crew?`, a: `Yes, single stumps, several from the same removal, or ones another crew left. All of them get ground flush below grade.` },
-  { q: `What does land clearing cost in Hickory?`, a: `See the table above. Every job starts with a walk of the property to mark what stays and what comes out, then a written price by the acre.` },
+  { q: `What does land clearing cost in Hickory?`, a: `See the table above — pricing runs by the acre and depends mostly on how dense the vegetation is and whether equipment can drive in or has to work by hand.` },
   { q: `Do you offer certified arborist assessments?`, a: `Yes. An ISA-certified arborist assessment, worked to ANSI A300, covers a tree health diagnosis, a risk assessment, or a written treatment recommendation before anyone decides to remove instead of treat.` },
   { q: `Why do trees uproot here instead of just losing limbs?`, a: `Sandy loam soil drains fast but still saturates during Hickory's roughly 45 inches of annual rain, which loosens root anchorage on a saturated lot. A shallow-rooted species like loblolly pine is the most common one this affects.` },
   { q: `How do I know which service I need before scheduling a visit?`, a: `A short description of what the tree looks like and what's near it, plus a photo if you have one, is usually enough over the phone to point you toward removal, trimming, an assessment, or cabling and bracing before a crew ever comes out.` },
@@ -211,12 +251,12 @@ const faqs = [
     </div>
   </section>
 
-  {/* 3 — residential services, 6 with photos, only 3 linked (the money pages). */}
+  {/* 3 — residential services, 8 with photos, only 3 linked (the money pages). */}
   <section class="tight">
     <div class="wrap">
       <article class="prose">
         <h2>Professional Tree Care and Removal Services in Hickory, NC</h2>
-        <div class="service-grid">
+        <div class="service-grid cols-4">
           {residentialServices.map(item => (
             <div class="service-card">
               <div class="ph">
@@ -224,6 +264,7 @@ const faqs = [
               </div>
               <h3>{item.slug ? <a href={item.slug}>{item.h}</a> : item.h}</h3>
               <p>{item.p}</p>
+              <p>{item.p2}</p>
             </div>
           ))}
         </div>
@@ -256,6 +297,7 @@ const faqs = [
               </div>
               <h3>{item.h}</h3>
               <p>{item.p}</p>
+              <p>{item.p2}</p>
             </div>
           ))}
         </div>
@@ -263,14 +305,18 @@ const faqs = [
     </div>
   </section>
 
-  {/* 5 — the ONE pricing table on the homepage. */}
+  {/* 5 — the ONE pricing table on the homepage. Intro reworded 2026-09-08 —
+      it was sharing a near-identical opening clause with the FAQ's cost
+      answer ("Every job still gets a written price before a saw starts").
+      This version references the table's own Key Variables column instead
+      of repeating that sentence. */}
   <section class="tight">
     <div class="wrap">
       <article class="prose narrow">
-        <h2>Affordable Tree Service Pricing in Hickory, NC</h2>
-        <p>Straightforward, honest ranges — no surprises, no upsells. Every job still gets a
-        written price before a saw starts, and every price below reflects our commitment to
-        fair, affordable rates across Catawba County.</p>
+        <h2>Tree Service Pricing in Hickory, NC</h2>
+        <p>Straightforward ranges, no surprises — and no single number, because a leaning
+        pine over a driveway and a straightforward yard removal aren't the same job. Every
+        row below names what actually moves that job's price up or down.</p>
         <table class="pricing-table">
           <thead>
             <tr><th>Service</th><th>Typical Price Range</th><th>Key Variables</th></tr>

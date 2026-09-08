@@ -369,12 +369,19 @@ header nav li.has-sub::after{content:"";position:absolute;left:0;right:0;top:100
 .feature p{margin:0;padding:12px 16px;font-size:.92rem;line-height:1.55}
 
 .service-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:10px}
+/* An 8-card grid in 3 columns leaves a 2-item gap in the last row. 4 columns
+   gives two clean rows of 4 instead. Used on the residential services grid
+   only (8 cards); commercial stays 3-across at 3 cards. */
+.service-grid.cols-4{grid-template-columns:repeat(4,1fr)}
+@media(max-width:1200px){.service-grid.cols-4{grid-template-columns:repeat(2,1fr)}}
 .service-card{background:#fff;border:1px solid var(--line)}
 .service-card .ph{height:170px}
 .service-card h3{background:var(--deep);color:#fff;margin:0;padding:11px 16px;font-size:1rem;line-height:1.3}
 .service-card h3 a{color:#fff;text-decoration:none}
 .service-card h3 a:hover{color:var(--sand)}
-.service-card p{padding:12px 16px;margin:0;font-size:.9rem;line-height:1.55}
+.service-card p{padding:0 16px;margin:0 0 10px;font-size:.9rem;line-height:1.55}
+.service-card p:first-of-type{padding-top:12px}
+.service-card p:last-of-type{padding-bottom:12px;margin-bottom:0}
 
 .pricing-table{margin-top:14px}
 .pricing-table td,.pricing-table th{padding:12px 16px}
