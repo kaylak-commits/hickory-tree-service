@@ -22,8 +22,8 @@ import LocationsBand from '../components/LocationsBand.astro';
 import Faq from '../components/Faq.astro';
 import { SITE, IMAGES, CALL_CTA, SHOW_CALL_CTA } from '../config';
 
-const heroStyle = `background-image:linear-gradient(rgba(20,32,48,.55),rgba(20,32,48,.68)),url('${IMAGES.heroCrew.src}')`;
-const bandStyle = `background-image:linear-gradient(rgba(20,32,48,.58),rgba(20,32,48,.70)),url('${IMAGES.storm.src}')`;
+const heroStyle = `background-image:linear-gradient(rgba(15,26,18,.62),rgba(15,26,18,.72)),url('${IMAGES.heroLanding.src}')`;
+const bandStyle = `background-image:linear-gradient(rgba(15,26,18,.62),rgba(15,26,18,.74)),url('${IMAGES.storm.src}')`;
 
 /* 1 — opener. No pricing. Sells the service and the local differentiator
    (species + climate), not the species name alone (fixes the old
@@ -100,15 +100,26 @@ const pricingRows = [
   { job: 'Certified Arborist Assessment', range: '$250 – $1,000', variables: 'Diagnosis scope' },
 ];
 
-/* 6 — hyper-local species section. 7 sourced entries, not padded to 10. */
+/* 6 — hyper-local species section. Kayla, 2026-09-07: "6 or 8 boxes, not an
+   odd number that leaves a gap in the grid" — trimmed from 7 to 6 (cut River
+   Birch, the thinnest/lowest-risk entry) rather than pad a weak 8th. */
 const localSpecies = [
   { h: 'Loblolly Pine', p: `Southern pine beetle turns needles brown from the top down and leaves white "popcorn" pitch tubes on the bark; once infested, a tree is usually dead within weeks and removal is the standard guidance. Shallow-rooted for its height and prone to blowover after heavy rain.` },
   { h: 'White Oak, Red Oak and Water Oak', p: `Oak wilt causes rapid crown wilting and bronzing with patchy leaf drop; removal is recommended quickly to stop the beetle-vectored spread to nearby oaks. Water oak in particular can be hollow inside while still looking healthy from the outside.` },
   { h: 'Red Maple', p: `Verticillium wilt causes sudden branch death. Shallow, aggressive roots and codominant stems with included bark are a structural weak point, and this species is known to split down the middle in wind or ice.` },
   { h: 'Tulip Poplar', p: `Tall and fast-growing with brittle limbs, commonly among the species most vulnerable to wind and storm limb failure.` },
   { h: 'Sweetgum', p: `Stringy, twisted grain that behaves unpredictably during felling, and root suckers can persist for years after removal.` },
-  { h: 'River Birch', p: `Usually found near water, with peeling papery bark.` },
   { h: 'Hickory (Carya species)', p: `Powdery mildew and canker diseases are common locally, and bark beetles also target hickories.` },
+];
+
+/* 7b — "why hire a professional" benefits grid — Kayla's reference-site
+   pattern (the drywall site's 4-icon benefits box). Grounded in the same
+   confirmed facts as the Why Choose section, just reformatted for this spot. */
+const proBenefits = [
+  { h: 'Avoids Costly Mistakes', p: `A wrong cut on a leaning or storm-damaged tree can total a roof or a fence. Professional rigging and load assessment is what a DIY chainsaw job skips.` },
+  { h: 'Proper Equipment', p: `Bucket trucks, climbing rigs and cranes handle what a homeowner's ladder and chainsaw can't reach safely.` },
+  { h: 'Licensed and Insured', p: `Coverage protects your property if something goes wrong — a certificate of insurance is available on request before work starts.` },
+  { h: 'Long-Term Tree Health', p: `Correct pruning cuts and species-aware decisions keep the trees you're keeping healthier, not just the ones coming down.` },
 ];
 
 /* 7 — how an emergency call runs. */
@@ -119,11 +130,17 @@ const emergencySteps = [
   { h: 'Cleanup and Debris Hauling', p: `Everything cut gets hauled or chipped before the crew leaves, and the site is left the way it was found aside from the tree that came down.` },
 ];
 
-const secServiceArea = `<h2>Service Area</h2>
-<p>Tree Service Hickory NC covers Hickory and twelve other Catawba County towns: Conover,
-Newton, Longview, Maiden, Claremont, Catawba, Sherrills Ford, Terrell, Mountain View, St
-Stephens, Startown and Brookford. All of them get the same pricing and the same crew, with
-no separate travel charge anywhere on that list.</p>`;
+/* 8 — insurance-claim support. Kayla, 2026-09-08, wants a section on working
+   with insurance (plus a dedicated page — flagged separately, not built here).
+   ⚠️ Kept to what's actually true and non-committal: providing documentation
+   for a claim is a safe, general statement. NOT claimed here because it isn't
+   CONFIRMED in FACTS.md: direct insurance billing, working with specific
+   carriers/adjusters by name, or any turnaround-time promise. Confirm with
+   Kayla before adding those — see the report for this build. */
+const secInsurance = `<h2>Working With Your Insurance Company</h2>
+<p>Storm damage from a covered event? We document the job with photos and an itemized
+invoice you can hand straight to your adjuster, so the claim isn't held up waiting on
+paperwork from us.</p>`;
 
 const closeBody = `<p>The most trusted, most affordable tree service team in Hickory and the rest of Catawba
 County — licensed, insured, and priced in writing before anything is cut.</p>
@@ -180,10 +197,10 @@ const faqs = [
   </section>
 
   {/* 2 — why choose, 6 reasons. */}
-  <section class="cream">
+  <section class="cream tight">
     <div class="wrap">
       <article class="prose narrow">
-        <h2>Why Choose Tree Service Hickory NC</h2>
+        <h2>Why Choose the Best Tree Service in Hickory, NC</h2>
         <div class="feature-grid">
           {whyChoose.map(item => (
             <div class="feature">
@@ -197,10 +214,10 @@ const faqs = [
   </section>
 
   {/* 3 — residential services, 6 with photos, only 3 linked (the money pages). */}
-  <section>
+  <section class="tight">
     <div class="wrap">
       <article class="prose">
-        <h2>Tree Care and Removal Services in Hickory, NC</h2>
+        <h2>Professional Tree Care and Removal Services in Hickory, NC</h2>
         <div class="service-grid">
           {residentialServices.map(item => (
             <div class="service-card">
@@ -229,10 +246,10 @@ const faqs = [
   </section>
 
   {/* 4 — commercial services, same pattern, 3 items, none linked. */}
-  <section class="cream">
+  <section class="cream tight">
     <div class="wrap">
       <article class="prose">
-        <h2>Commercial Tree Services in Hickory, NC</h2>
+        <h2>Expert Commercial Tree Services in Hickory, NC</h2>
         <div class="service-grid">
           {commercialServices.map(item => (
             <div class="service-card">
@@ -249,7 +266,7 @@ const faqs = [
   </section>
 
   {/* 5 — the ONE pricing table on the homepage. */}
-  <section>
+  <section class="tight">
     <div class="wrap">
       <article class="prose narrow">
         <h2>Affordable Tree Service Pricing in Hickory, NC</h2>
@@ -271,7 +288,7 @@ const faqs = [
   </section>
 
   {/* 6 — hyper-local species section. */}
-  <section class="cream">
+  <section class="cream tight">
     <div class="wrap">
       <article class="prose narrow">
         <h2>Trees We Watch Most Closely in Hickory, NC</h2>
@@ -280,7 +297,7 @@ const faqs = [
         species matters as much as size here — these are the ones our crew watches for most.</p>
         <ul class="species-list">
           {localSpecies.map(item => (
-            <li><strong>{item.h}</strong> — {item.p}</li>
+            <li><strong>{item.h}</strong><span>{item.p}</span></li>
           ))}
         </ul>
       </article>
@@ -288,7 +305,7 @@ const faqs = [
   </section>
 
   {/* 7 — how an emergency call runs. */}
-  <section>
+  <section class="tight">
     <div class="wrap">
       <article class="prose narrow steps">
         <h2>How Tree Service Hickory NC Handles an Emergency Call</h2>
@@ -301,14 +318,33 @@ const faqs = [
     </div>
   </section>
 
-  {/* 8 — service area. */}
-  <section class="cream">
+  {/* 7b — why hire a professional, 4-box benefits grid (Kayla's reference-site pattern). */}
+  <section class="cream tight">
     <div class="wrap">
-      <article class="prose narrow" set:html={secServiceArea} />
+      <article class="prose narrow">
+        <h2>Benefits of Hiring a Professional Tree Service</h2>
+        <div class="benefits-grid">
+          {proBenefits.map(item => (
+            <div class="benefit">
+              <h3>{item.h}</h3>
+              <p>{item.p}</p>
+            </div>
+          ))}
+        </div>
+      </article>
     </div>
   </section>
 
-  {/* 9 — service area band, FAQ, close. */}
+  {/* 8 — insurance-claim support (Kayla, 2026-09-08). A dedicated insurance
+      page is a separate build, flagged in the report, not built here. */}
+  <section class="tight">
+    <div class="wrap">
+      <article class="prose narrow" set:html={secInsurance} />
+    </div>
+  </section>
+
+  {/* 9 — service area band, FAQ, close. Only ONE service-area section now —
+      the earlier plain-prose duplicate of this band was cut, 2026-09-08. */}
   <LocationsBand bg="landClearing" linked={false} />
 
   <Faq items={faqs} heading="Tree Service Questions We Get Asked in Hickory" />

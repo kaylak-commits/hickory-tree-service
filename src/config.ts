@@ -192,6 +192,10 @@ export const SERVICE_AREA_EXTRA = [] as const;
 
 export const IMAGES = {
   heroCrew:      { src: '/images/homepage-hero-crew.png',        alt: 'Tree service crew on site in Hickory, NC', pos: 'center 20%' },
+  /* Homepage hero background — Kayla, 2026-09-07: the hero should show trees,
+     not the crew (the crew photo cropped down to legs/torsos at hero height).
+     Crew photo stays available above for the About page only. */
+  heroLanding:   { src: '/images/land-clearing-hero.png',        alt: 'Wooded hills near Hickory, NC in fall color', pos: 'center 60%' },
   removal:       { src: '/images/tree-removal-hero.png',         alt: 'Crane-assisted tree removal of a large tree' },
   trimming:      { src: '/images/tree-trimming-hero.png',        alt: 'Arborist using a pole saw to trim limbs high in a tree canopy' },
   storm:         { src: '/images/storm-damage-hero.png',         alt: 'A fallen tree blocking a residential driveway' },
@@ -201,7 +205,13 @@ export const IMAGES = {
   crane:         { src: '/images/tree-removal-hero.png',         alt: 'Crane-assisted removal of a large tree' },
   arborist:      { src: '/images/arborist-hero.png',             alt: 'Arborists assessing a large oak tree in North Carolina' },
   deadwood:      { src: '/images/deadwood-removal-hero.png',     alt: 'Crew removing dead and diseased limbs from a tree' },
-  commercial:    { src: '/images/commercial-tree-hero.png',      alt: 'Tree crew working on a commercial property' },
+  /* ⚠️ 'commercial-tree-hero.png' was found to actually BE the site logo file,
+     not a photo (caught 2026-09-07 while fixing other image bugs) — swapped to
+     a real photo below. Kayla is sourcing a real commercial-property photo;
+     swap this back once she sends one. Same bug also affects the 'deadwood'
+     key below (points at the logo-with-banner file) — flagged, not fixed,
+     since it's on a service page outside this pass's scope. */
+  commercial:    { src: '/images/debris-hauling-hero.png',       alt: 'Tree crew clearing debris on a commercial job site' },
   brush:         { src: '/images/land-clearing-hero.png',        alt: 'Brush and undergrowth cleared from a wooded lot' },
   hedge:         { src: '/images/tree-planting-hero.png',        alt: 'Landscaped North Carolina backyard with hedges and shrubs' },
   cabling:       { src: '/images/tree-cabling-hero.png',         alt: 'Arborist harness and rigging detail on a tree trunk' },
