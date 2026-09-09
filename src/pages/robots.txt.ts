@@ -10,7 +10,7 @@ export const GET: APIRoute = () =>
     `User-agent: *
 Allow: /
 
-Sitemap: ${SITE.url}/sitemap-index.xml
+Sitemap: ${SITE.url}/sitemap.xml
 `,
     { headers: { 'Content-Type': 'text/plain; charset=utf-8' } }
   );
