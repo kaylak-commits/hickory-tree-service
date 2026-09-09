@@ -20,10 +20,10 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import QuoteForm from '../components/QuoteForm.astro';
 import LocationsBand from '../components/LocationsBand.astro';
 import Faq from '../components/Faq.astro';
-import { SITE, IMAGES, CALL_CTA, SHOW_CALL_CTA } from '../config';
+import { SITE, IMAGES, CALL_CTA, SHOW_CALL_CTA, bandSrc } from '../config';
 
 const heroStyle = `background-image:linear-gradient(rgba(15,26,18,.62),rgba(15,26,18,.72)),url('${IMAGES.heroLanding.src}')`;
-const bandStyle = `background-image:linear-gradient(rgba(15,26,18,.62),rgba(15,26,18,.74)),url('${IMAGES.storm.src}')`;
+const bandStyle = `background-image:linear-gradient(rgba(15,26,18,.62),rgba(15,26,18,.74)),url('${bandSrc(IMAGES.storm.src)}')`;
 
 /* 1 — opener. No pricing. Sells the service and the local differentiator
    (species + climate), not the species name alone (fixes the old

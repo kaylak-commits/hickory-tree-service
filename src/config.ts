@@ -231,3 +231,10 @@ export type ImageKey = keyof typeof IMAGES;
 
 export const focal = (k: ImageKey): string =>
   (IMAGES[k] as { pos?: string }).pos ?? 'center';
+
+/* Band backgrounds sit under a 66-92% dark overlay and are always below the fold,
+   but a CSS background-image cannot be lazy-loaded — the browser fetches it with the
+   page. So bands point at a smaller, lower-quality variant of the same photo
+   (1280px, q62) generated alongside each image. Cuts ~60% off the weight that blocks
+   first paint, with no visible difference through the overlay. Added 2026-09-09. */
+export const bandSrc = (src: string) => src.replace(/\.webp$/, '-band.webp');

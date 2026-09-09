@@ -3,7 +3,7 @@
    Towns with a page are links; towns still being written render as plain
    text — visible, but never a broken link. */
 import { getCollection } from 'astro:content';
-import { IMAGES, LOCATIONS, type ImageKey } from '../config';
+import { IMAGES, LOCATIONS, bandSrc, type ImageKey } from '../config';
 
 /* `linked` is false on the HOMEPAGE only. Site map rule: the homepage body
    links to the 3 money pages and nothing else, so the towns show as places we
@@ -14,7 +14,7 @@ const { heading = 'Towns We Serve Across Catawba County', bg: bgKey = 'landClear
 
 const built = new Set((await getCollection('locations')).map((l) => l.id));
 const pic = (IMAGES[bgKey as ImageKey] ?? IMAGES.heroCrew) as { src: string; pos?: string };
-const bg = `background-image:linear-gradient(rgba(12,21,34,.88),rgba(12,21,34,.92)),url('${pic.src}');background-position:${pic.pos ?? 'center 55%'}`;
+const bg = `background-image:linear-gradient(rgba(12,21,34,.88),rgba(12,21,34,.92)),url('${bandSrc(pic.src)}');background-position:${pic.pos ?? 'center 55%'}`;
 ---
 <section class="locs" id="locations" style={bg}>
   <div class="wrap">

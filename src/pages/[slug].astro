@@ -12,7 +12,7 @@ import QuoteForm from '../components/QuoteForm.astro';
 import Faq from '../components/Faq.astro';
 import LocationsBand from '../components/LocationsBand.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
-import { IMAGES, SITE, CALL_CTA, SHOW_CALL_CTA, QUOTE_HEADING, type ImageKey } from '../config';
+import { IMAGES, SITE, CALL_CTA, SHOW_CALL_CTA, QUOTE_HEADING, type ImageKey, bandSrc } from '../config';
 
 export async function getStaticPaths() {
   const services = await getCollection('services');
@@ -84,7 +84,7 @@ const img = (k: ImageKey) => IMAGES[k] as { src: string; alt: string; pos?: stri
 const hero = img(kHero), band = img(kBand), body = img(kBody), extra = img(kExtra);
 
 const heroStyle = `background-image:linear-gradient(rgba(10,18,30,.46),rgba(10,18,30,.60)),url('${hero.src}');background-position:${hero.pos ?? 'center 55%'}`;
-const bandStyle = `background-image:linear-gradient(rgba(10,18,30,.66),rgba(10,18,30,.76)),url('${band.src}');background-position:${band.pos ?? 'center'}`;
+const bandStyle = `background-image:linear-gradient(rgba(10,18,30,.66),rgba(10,18,30,.76)),url('${bandSrc(band.src)}');background-position:${band.pos ?? 'center'}`;
 
 const label = kind === 'location' ? `${data.town}, NC` : data.h1;
 ---
