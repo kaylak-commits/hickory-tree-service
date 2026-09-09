@@ -191,19 +191,19 @@ export const SERVICE_AREA_EXTRA = [] as const;
    ============================================================================ */
 
 export const IMAGES = {
-  heroCrew:      { src: '/images/homepage-hero-crew.png',        alt: 'Tree service crew on site in Hickory, NC', pos: 'center 20%' },
+  heroCrew:      { src: '/images/homepage-hero-crew.webp',        alt: 'Tree service crew on site in Hickory, NC', pos: 'center 20%' },
   /* Homepage hero background — Kayla, 2026-09-07: the hero should show trees,
      not the crew (the crew photo cropped down to legs/torsos at hero height).
      Crew photo stays available above for the About page only. */
-  heroLanding:   { src: '/images/land-clearing-hero.png',        alt: 'Wooded hills near Hickory, NC in fall color', pos: 'center 60%' },
-  removal:       { src: '/images/tree-removal-hero.png',         alt: 'Crane-assisted tree removal of a large tree' },
-  trimming:      { src: '/images/tree-trimming-hero.png',        alt: 'Arborist using a pole saw to trim limbs high in a tree canopy' },
-  storm:         { src: '/images/storm-damage-hero.png',         alt: 'A fallen tree blocking a residential driveway' },
-  stump:         { src: '/images/stump-grinding-hero.png',       alt: 'Stump grinder working down a tree stump' },
-  landClearing:  { src: '/images/land-clearing-hero.png',        alt: 'Wooded Piedmont NC lot being cleared' },
-  hazardous:     { src: '/images/hazardous-tree-hero.png',       alt: 'Bucket truck positioned for hazardous tree work' },
-  crane:         { src: '/images/tree-removal-hero.png',         alt: 'Crane-assisted removal of a large tree' },
-  arborist:      { src: '/images/arborist-hero.png',             alt: 'Arborists assessing a large oak tree in North Carolina' },
+  heroLanding:   { src: '/images/land-clearing-hero.webp',        alt: 'Wooded hills near Hickory, NC in fall color', pos: 'center 60%' },
+  removal:       { src: '/images/tree-removal-hero.webp',         alt: 'Crane-assisted tree removal of a large tree' },
+  trimming:      { src: '/images/tree-trimming-hero.webp',        alt: 'Arborist using a pole saw to trim limbs high in a tree canopy' },
+  storm:         { src: '/images/storm-damage-hero.webp',         alt: 'A fallen tree blocking a residential driveway' },
+  stump:         { src: '/images/stump-grinding-hero.webp',       alt: 'Stump grinder working down a tree stump' },
+  landClearing:  { src: '/images/land-clearing-hero.webp',        alt: 'Wooded Piedmont NC lot being cleared' },
+  hazardous:     { src: '/images/hazardous-tree-hero.webp',       alt: 'Bucket truck positioned for hazardous tree work' },
+  crane:         { src: '/images/tree-removal-hero.webp',         alt: 'Crane-assisted removal of a large tree' },
+  arborist:      { src: '/images/arborist-hero.webp',             alt: 'Arborists assessing a large oak tree in North Carolina' },
   /* ✅ Fixed 2026-09-08: 'deadwood-removal-hero.png' was the same logo-file bug
      flagged (not fixed) on 2026-09-07 — it was the logo image, not a photo.
      Kayla sent 4 new real photos this session; the climbing/rigging shot below
@@ -213,18 +213,18 @@ export const IMAGES = {
      the debris key) while Kayla sourced a real commercial-property photo — she
      sent one this session. */
   commercial:    { src: '/images/land-clearing-crew-2.webp',     alt: 'Tree crew clearing a wooded commercial lot' },
-  brush:         { src: '/images/land-clearing-hero.png',        alt: 'Brush and undergrowth cleared from a wooded lot' },
-  hedge:         { src: '/images/tree-planting-hero.png',        alt: 'Landscaped North Carolina backyard with hedges and shrubs' },
+  brush:         { src: '/images/land-clearing-hero.webp',        alt: 'Brush and undergrowth cleared from a wooded lot' },
+  hedge:         { src: '/images/tree-planting-hero.webp',        alt: 'Landscaped North Carolina backyard with hedges and shrubs' },
   cabling:       { src: '/images/arborist-rigging-oak.webp',     alt: 'Arborist harness and rigging detail on a tree trunk' },
-  planting:      { src: '/images/tree-planting-hero.png',        alt: 'North Carolina backyard with newly planted trees' },
+  planting:      { src: '/images/tree-planting-hero.webp',        alt: 'North Carolina backyard with newly planted trees' },
   /* ✅ Fixed 2026-09-08: was reusing the 'commercial' stand-in photo; now its
      own real photo. */
   debris:        { src: '/images/log-truck-hauling.webp',        alt: 'Loaded log truck hauling cut tree debris away from a job site' },
-  bushHogging:   { src: '/images/bush-hogging-hero.png',         alt: 'Cut brush and wood debris cleared from a rural property' },
-  transplanting: { src: '/images/tree-planting-hero.png',        alt: 'North Carolina backyard with newly planted trees' },
+  bushHogging:   { src: '/images/bush-hogging-hero.webp',         alt: 'Cut brush and wood debris cleared from a rural property' },
+  transplanting: { src: '/images/tree-planting-hero.webp',        alt: 'North Carolina backyard with newly planted trees' },
   fertilization: { src: '/images/oak-canopy.webp',               alt: 'Healthy, full oak canopy in Hickory, NC' },
-  healthAssess:  { src: '/images/arborist-hero.png',             alt: 'Arborists assessing a large oak tree for health issues' },
-  aboutCrew:     { src: '/images/about-crew-on-site.png',        alt: 'Tree Service Hickory NC crew on site' },
+  healthAssess:  { src: '/images/arborist-hero.webp',             alt: 'Arborists assessing a large oak tree for health issues' },
+  aboutCrew:     { src: '/images/about-crew-on-site.webp',        alt: 'Tree Service Hickory NC crew on site' },
 } as const;
 
 export type ImageKey = keyof typeof IMAGES;
