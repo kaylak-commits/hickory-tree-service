@@ -7,7 +7,7 @@ import { SITE, NAP_BLOCKERS } from './src/config.ts';
 
 /* Pages that exist for people mid-flow, not for search. A 79-word confirmation
    page in the index is thin content Google found on its own. */
-const NOINDEX = ['/thank-you'];
+const NOINDEX = ['/thank-you', '/terms-and-conditions', '/privacy-policy'];
 
 if (NAP_BLOCKERS.length) {
   console.warn(

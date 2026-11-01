@@ -1,6 +1,7 @@
 ---
 import { SITE, HAS_PHONE, HAS_EMAIL, ESTIMATE_LINE } from '../config';
 const year = 2026;
+const socials = Object.entries(SITE.social).filter(([, v]) => v);
 const addr = SITE.address.street
   ? `${SITE.address.street}, ${SITE.address.city}, ${SITE.address.state} ${SITE.address.zip}`
   : `${SITE.address.city}, ${SITE.address.state}`;
@@ -21,6 +22,7 @@ const addr = SITE.address.street
           {!HAS_PHONE && !HAS_EMAIL && <><a href="/contact/">Request a quote</a><br /></>}
           {addr}
         </p>
+        {socials.length > 0 && <p>{socials.map(([k, v], i) => <>{i > 0 && ' · '}<a href={v} rel="noopener">{k}</a></>)}</p>}
       </div>
       <div>
         <h4>Services</h4>

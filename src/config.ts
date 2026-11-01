@@ -49,7 +49,7 @@ export const SITE = {
   established: 0,                    // 🔴 RED. Never publish a founding year pre-rental
 
   /* ---- SOCIAL — only list what actually exists --------------------------- */
-  social: { facebook: '', instagram: '', youtube: '', google: '' },
+  social: { facebook: 'https://www.facebook.com/profile.php?id=61595254477917', instagram: '', youtube: '', google: '' },
 
   /* ---- THE STANDING RULES THAT APPEAR IN COPY ----------------------------
      ⚠️ Two different floors, not one. Tree removal (and every other service
